@@ -5,7 +5,7 @@ This repo contains the iRealPro chord sequences including tree annotations and u
 ## Structure of the repo
 
 | directory | content |
-|-|
+| - | - |
 | iRb_v1-0 | the original data as downloaded from [there](http://musiccog.ohio-state.edu/home/index.php/iRb_Jazz_Corpus). |
 | iRb_thru | original data as expanded by the humdrum `thru` command, using `expand_abbreviated_formats.jl`. |
 | iReal_csv | expanded data converted to csv |
@@ -14,7 +14,7 @@ This repo contains the iRealPro chord sequences including tree annotations and u
 ## The code files
 
 | file | purpose |
-|-|
+| - | - |
 | `Trees.jl` | tree data structures |
 | `jazz_tree_tools.jl` | functions for converting csv annotations into trees |
 | `plot_tree.jl` | command line tool for converting csv annotations into trees |
