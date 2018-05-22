@@ -1,0 +1,11 @@
+Changes for Cantaloupe Island CSV file:
+
+The Dm7 chord was changed to a Csus4/D chord for the following reason
+- in known performances and album version, it is clearly not played as a Dm7 chord but rather as a pile of fourth (D G C F) or Csus4/D
+
+As discussed with Christoph last week, I think this is the right notation for a proper analysis, although the D at the bass is to be explained in a broader framework
+
+There are a lot of indicator that suggests it would indeed take the role of a C chord.
+- tension between medoly and D note
+- the dorean mode in D suggests possible reference note to be changed to a C
+- the Db chord is a V to C with a trit. sub
