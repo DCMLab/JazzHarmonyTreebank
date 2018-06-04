@@ -70,6 +70,13 @@ end
 # end
 # M[1:m-1,1:n-1]
 
+function replace_all(string, replacements::Dict)
+    for (old, new_) in replacements
+        string = replace(string, old, new_)
+    end
+    string
+end
+
 function csv_to_tree(csv_file::AbstractString; delim=';', skiplines=2, convert_for_latex=true)
     lines = split.(readlines(csv_file), delim)
 
@@ -77,7 +84,14 @@ function csv_to_tree(csv_file::AbstractString; delim=';', skiplines=2, convert_f
     for i in 1:length(lines)-skiplines
         for j in eachindex(lines[i+skiplines])
             if convert_for_latex
-                str = replace(replace(replace(replace(lines[i+skiplines][j], "^7", "^\\triangle"), r"\^$", ""), "7", "^7"), '%', "\\emptyset")
+                replacements = Dict(
+                    "^7"    => "^\\triangle",
+                    r"\^$"  => "",
+                    "7"     => "^7",
+                    '%'     => "\\emptyset",
+                    "#"     => "\\sharp "
+                )
+                str = replace_all(lines[i+skiplines][j], replacements)
                 if isempty(str)
                     continue
                 elseif ismatch(r"\(.+, ?.+\)", str) # is tuple category
