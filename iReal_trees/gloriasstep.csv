@@ -1,9 +1,9 @@
 1;2;2;3;4;5;6;7;7;8;9;10;11;12;13;14;15;16;17;18;19;20
 1;1;3;1;1;1;1;1;3;1;1;1;1;1;1;1;1;1;1;1;1;1
 F^7;Eb^7;D^7;Db^7;C7;Fm7;F^7;Eb^7;D^7;Db^7;C7;Fm7;Em7;F^7;Am7;E%7;G%7;D%7;F%7;Bb%7;Eb7;Eb7
-I_F;I_Eb;V_G;I_Db;V_f;I_f;I_F;I_Eb;V_G;I_Db;V_f;I_f;VII_F;I_F;III_F;II_d;II_f;II_c;II_eb;V_eb;;V_ab
-I_F;V_Ab;V_G;V_Gb;V_f;I_f;I_F;V_Ab;V_G;V_Gb;V_f;I_f;I_F;;I_F;;;;II_eb;V_eb;;
-I_F;V_D;V_G;V_C;V_f;I_f;I_F;V_D;V_G;V_C;V_f;I_f;I_F;;;;;;;;;
+I_F;I_Eb;V_G;I_Db;V_f;I_f;I_F;I_Eb;V_G;I_Db;V_f;I_f;VII_F;I_F;III_F;II_d;II_f;II_c;II_eb;II_ab;V_ab;V_ab
+I_F;V_Ab;V_G;V_Gb;V_f;I_f;I_F;V_Ab;V_G;V_Gb;V_f;I_f;I_F;;I_F;II_f;;II_eb;;II_ab;V_ab;
+I_F;V_D;V_G;V_C;V_f;I_f;I_F;V_D;V_G;V_C;V_f;I_f;I_F;;;;;;;V_ab;;
 I_F;V_G;;V_C;V_f;I_f;I_F;V_G;;V_C;V_f;I_f;;;;;;;;;;
 I_F;V_C;;;V_f;I_f;I_F;V_C;;;V_f;I_f;;;;;;;;;;
 I_F;V_f;;;;I_f;I_F;V_f;;;;I_f;;;;;;;;;;

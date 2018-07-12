@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.6)  26 JUN 2018 16:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.6)  26 JUN 2018 16:44
 entering extended mode
-**./littleboat_.tex
-(littleboat_.tex
+**./redclay_.tex
+(redclay_.tex
 LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -441,8 +441,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 LaTeX Warning: Unused global option(s):
     [a0paper].
 
-(littleboat_.aux)
-\openout1 = `littleboat_.aux'.
+(redclay_.aux)
+\openout1 = `redclay_.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -556,22 +556,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {C:/Users/Arthur Parmentier/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
- (littleboat_.aux) ) 
+ (redclay_.aux) ) 
 Here is how much of TeX's memory you used:
- 13417 strings out of 493333
- 275170 string characters out of 3139157
- 417947 words of memory out of 3000000
- 16727 multiletter control sequences out of 15000+200000
+ 12733 strings out of 493333
+ 259796 string characters out of 3139157
+ 329522 words of memory out of 3000000
+ 16043 multiletter control sequences out of 15000+200000
  6379 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,112p,1206b,1230s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on littleboat_.pdf (1 page, 40312 bytes).
+ 62i,9n,77p,645b,966s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on redclay_.pdf (1 page, 53633 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
