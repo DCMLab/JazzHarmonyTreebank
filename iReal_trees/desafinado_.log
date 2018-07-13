@@ -1,0 +1,579 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.6)  13 JUL 2018 12:34
+entering extended mode
+**./desafinado_.tex
+(desafinado_.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-qtree\ti
+kz-qtree.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendl
+ayer\tikz.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclaye
+r\pgf.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities
+\pgfrcs.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfutil-common.tex"
+\pgfutil@everybye=\toks14
+\pgfutil@tempdima=\dimen103
+\pgfutil@tempdimb=\dimen104
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfutil-common-lists.tex"))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfutil-latex.def"
+\pgfutil@abb=\box26
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.s
+ty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclaye
+r\pgfcore.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlay
+er\pgfsys.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systeml
+ayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks18
+))
+\pgf@x=\dimen107
+\pgf@y=\dimen108
+\pgf@xa=\dimen109
+\pgf@ya=\dimen110
+\pgf@xb=\dimen111
+\pgf@yb=\dimen112
+\pgf@xc=\dimen113
+\pgf@yc=\dimen114
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count88
+\c@pgf@countb=\count89
+\c@pgf@countc=\count90
+\c@pgf@countd=\count91
+\t@pgf@toka=\toks19
+\t@pgf@tokb=\toks20
+\t@pgf@tokc=\toks21
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systeml
+ayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systeml
+ayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systeml
+ayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systeml
+ayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count92
+\pgfsyssoftpath@bigbuffer@items=\count93
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systeml
+ayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor
+.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmath.code.tex"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathcalc.code.tex"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathutil.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathparser.code.tex"
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count94
+\pgfmath@box=\box27
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.code.tex"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.basic.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.trigonometric.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.random.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.comparison.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.base.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.round.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.misc.code.tex")
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count95
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen116
+\pgf@picmaxx=\dimen117
+\pgf@picminy=\dimen118
+\pgf@picmaxy=\dimen119
+\pgf@pathminx=\dimen120
+\pgf@pathmaxx=\dimen121
+\pgf@pathminy=\dimen122
+\pgf@pathmaxy=\dimen123
+\pgf@xx=\dimen124
+\pgf@xy=\dimen125
+\pgf@yx=\dimen126
+\pgf@yy=\dimen127
+\pgf@zx=\dimen128
+\pgf@zy=\dimen129
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen130
+\pgf@path@lasty=\dimen131
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen132
+\pgf@shorten@start@additional=\dimen133
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count96
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen134
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen135
+\pgf@pt@y=\dimen136
+\pgf@pt@temp=\dimen137
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen138
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen139
+\pgf@sys@shading@range@num=\count97
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basicla
+yer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules
+\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules
+\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibi
+lity\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen140
+\pgf@nodesepend=\dimen141
+)
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibi
+lity\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities
+\pgffor.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities
+\pgfkeys.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgfkeys.code.tex"))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfm
+ath.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmath.code.tex"))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utiliti
+es\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pg
+fmath.code.tex")
+\pgffor@iter=\dimen142
+\pgffor@skip=\dimen143
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\fronten
+dlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\librari
+es\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count98
+\pgfplotmarksize=\dimen144
+)
+\tikz@lastx=\dimen145
+\tikz@lasty=\dimen146
+\tikz@lastxsaved=\dimen147
+\tikz@lastysaved=\dimen148
+\tikzleveldistance=\dimen149
+\tikzsiblingdistance=\dimen150
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count99
+\tikznumberofchildren=\count100
+\tikznumberofcurrentchild=\count101
+\tikz@fig@count=\count102
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules
+\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count103
+\pgfmatrixcurrentcolumn=\count104
+\pgf@matrix@numberofcolumns=\count105
+)
+\tikz@expandcount=\count106
+
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\fronten
+dlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-qtree\pg
+ftree.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\latex\tikz-qtree\pg
+fsubpic.sty"
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\tikz-qtree\
+pgfsubpic.tex"
+\pgf@subpicminx=\dimen151
+\pgf@subpicminy=\dimen152
+\pgf@subpicmaxx=\dimen153
+\pgf@subpicmaxy=\dimen154
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\tikz-qtree\
+pgftree.tex"
+\levelsep=\dimen155
+\subtreesep=\dimen156
+\smuggle@levelsep=\dimen157
+\smuggle@subtreesep=\dimen158
+\this@levelsep=\dimen159
+\this@subtreesep=\dimen160
+\pgftree@childx=\dimen161
+\pgftree@savechildx=\dimen162
+\pgftree@childy=\dimen163
+\pgftree@savechildy=\dimen164
+\pgftree@childi=\count107
+\pgftree@savechildi=\count108
+\pgftree@level=\count109
+\pgftree@depth=\dimen165
+\pgf@subpic@hbox@children=\box37
+\pgf@subpic@minx@children=\dimen166
+\pgf@subpic@miny@children=\dimen167
+\pgf@subpic@maxx@children=\dimen168
+\pgf@subpic@maxy@children=\dimen169
+\pgftree@lastchildx=\dimen170
+\pgftree@lastchildy=\dimen171
+))
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\generic\tikz-qtree\
+tikz-qtree.tex"
+\@result=\toks27
+\child@list=\toks28
+\root@node=\toks29
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count110
+\Gm@cntv=\count111
+\c@Gm@tempcnt=\count112
+\Gm@bindingoffset=\dimen172
+\Gm@wd@mp=\dimen173
+\Gm@odd@mp=\dimen174
+\Gm@even@mp=\dimen175
+\Gm@layoutwidth=\dimen176
+\Gm@layoutheight=\dimen177
+\Gm@layouthoffset=\dimen178
+\Gm@layoutvoffset=\dimen179
+\Gm@dimlist=\toks30
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+
+LaTeX Warning: Unused global option(s):
+    [a0paper].
+
+(desafinado_.aux)
+\openout1 = `desafinado_.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ABD: EveryShipout initializing macros
+("C:\Users\Arthur Parmentier\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen180
+\scratchbox=\box38
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen181
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks32
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a0paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(507.46007pt, 2368.11253pt, 507.46007pt)
+* v-part:(T,H,B)=(287.14813pt, 1675.00642pt, 430.72221pt)
+* \paperwidth=3383.03267pt
+* \paperheight=2392.87677pt
+* \textwidth=2368.11253pt
+* \textheight=1675.00642pt
+* \oddsidemargin=435.19008pt
+* \evensidemargin=435.19008pt
+* \topmargin=177.87814pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+[1
+
+{C:/Users/Arthur Parmentier/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+ (desafinado_.aux) ) 
+Here is how much of TeX's memory you used:
+ 16020 strings out of 493333
+ 328229 string characters out of 3139157
+ 619625 words of memory out of 3000000
+ 19330 multiletter control sequences out of 15000+200000
+ 6379 words of font info for 23 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,9n,107p,3288b,1194s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on desafinado_.pdf (1 page, 66635 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
