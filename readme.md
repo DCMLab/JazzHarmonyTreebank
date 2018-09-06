@@ -1,6 +1,6 @@
 # iReal Pro corpus
 
-This repo contains the iRealPro chord sequences including tree annotations and useful scripts.
+This repo contains the iRealPro chord sequences including tree annotations.
 
 ## Structure of the repo
 
@@ -15,10 +15,7 @@ This repo contains the iRealPro chord sequences including tree annotations and u
 
 | file | purpose |
 | - | - |
-| `Trees.jl` | tree data structures |
-| `jazz_tree_tools.jl` | functions for converting csv annotations into trees |
-| `plot_tree.jl` | command line tool for converting csv annotations into trees |
-| `compiled_tree_data.jl` | command line tool for compiling tree annotations into one file of bracket terms |
+| `compile_tree_annotations.jl`| implements the function `compile_tree_annotations()` that returns the annotated trees and their chord sequences |
 | `expand_abbreviated_formats.jl` | command line tool for converting original data into expanded data using the humdrum `thru` command |
 
 ## How to make and plot a tree analysis
@@ -28,4 +25,9 @@ This repo contains the iRealPro chord sequences including tree annotations and u
 1. Make your tree analysis
 1. Export the analysis as csv
 1. Move your analysis into the `iReal_trees` folder
-1. From this folder run `julia ../plot_tree.jl my_analysis.csv`
+1. Run this script from the Julia REPL:
+
+```julia
+using TikzQTrees
+plot_jazz_tree(csv_file_name)
+```
