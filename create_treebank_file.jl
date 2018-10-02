@@ -222,33 +222,38 @@ function printabbed(io, xs)
     println(io)
 end
 
-tunes = read_iReal_tunes()[1:end-1,:] # drop last song "Bud Powell" since it is too long (371 chords)
-tunes.length = tunes.chords .|> df -> size(df, 1)
-sort!(tunes, :length)
+############################
+###      DANGER ZONE     ###
+### DO NOT RUN THIS CODE ###
+############################
 
-metadata = let df = copy(tunes)
-    composers = map(df.composers) do cs
-        if length(cs) == 1
-            first(cs)
-        else
-            first(cs) * mapreduce(c->"; $c", *, drop(cs, 1))
-        end
-    end
-    delete!(df, :composers)
-    df.composers = composers
-    df[[:title,:composers,:year,:meter,:key,:length]]
-end
-
-CSV.write("LausanneJazzTreebank/metadata.tsv", without_columns(metadata, :chords), delim='\t')
-
-open("LausanneJazzTreebank/data.tsv", "w") do io
-    foreach(eachrow(tunes)) do row
-        cs = row.chords
-        println(io, "NEWTUNE")
-        print(io, "title:\t");    println(io, row.title)
-        print(io, "measures:\t"); printabbed(io, cs.bar)
-        print(io, "beats:\t");    printabbed(io, cs.beat)
-        print(io, "chords:\t");   printabbed(io, map(*, cs.spelledroot, cs.chordform))
-        println(io, "keys:"); println(io, "applied:"); println(io, "tree:")
-    end
-end
+# tunes = read_iReal_tunes()[1:end-1,:] # drop last song "Bud Powell" since it is too long (371 chords)
+# tunes.length = tunes.chords .|> df -> size(df, 1)
+# sort!(tunes, :length)
+#
+# metadata = let df = copy(tunes)
+#     composers = map(df.composers) do cs
+#         if length(cs) == 1
+#             first(cs)
+#         else
+#             first(cs) * mapreduce(c->"; $c", *, drop(cs, 1))
+#         end
+#     end
+#     delete!(df, :composers)
+#     df.composers = composers
+#     df[[:title,:composers,:year,:meter,:key,:length]]
+# end
+#
+# CSV.write("LausanneJazzTreebank/metadata.tsv", without_columns(metadata, :chords), delim='\t')
+#
+# open("LausanneJazzTreebank/data.tsv", "w") do io
+#     foreach(eachrow(tunes)) do row
+#         cs = row.chords
+#         println(io, "NEWTUNE")
+#         print(io, "title:\t");    println(io, row.title)
+#         print(io, "measures:\t"); printabbed(io, cs.bar)
+#         print(io, "beats:\t");    printabbed(io, cs.beat)
+#         print(io, "chords:\t");   printabbed(io, map(*, cs.spelledroot, cs.chordform))
+#         println(io, "keys:"); println(io, "applied:"); println(io, "tree:")
+#     end
+# end
