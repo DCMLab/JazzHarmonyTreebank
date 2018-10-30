@@ -75,12 +75,10 @@ function IRealTree(tune::Vector)
     IRealTree(title, measures, beats, chords, tree, approved, comments)
 end
 
-function read_iRealTrees(path="LausanneJazzTreebank/data.csv")
+function read_iRealTunes(path=joinpath(@__DIR__, "data.csv"))
     tunes = readlines(path) |>
         lines -> splititer(line -> line[1:7]=="NEWTUNE", lines) .|>
         tune  -> map(split_and_strip_empty, tune)
 
-    filter(t->!ismissing(t.tree), map(IRealTree, tunes))
+    map(IRealTree, tunes)
 end
-
-trees = read_iRealTrees()
