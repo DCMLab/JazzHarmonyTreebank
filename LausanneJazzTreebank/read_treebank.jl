@@ -52,7 +52,7 @@ struct IRealTree
     measures :: Vector{Int}
     beats    :: Vector{Float64}
     chords   :: Vector{String}
-    tree     :: Union{TikzQTree, Missing}
+    tree     :: Union{SimpleTree, Missing}
     approved :: Union{String, Missing}
     comments :: Union{String, Missing}
 end
@@ -69,7 +69,8 @@ function IRealTree(tune::Vector)
     tree = if ismissing(treestr)
         missing
     else
-        TikzQTree(map(TikzQTrees.convert_jazz_notation, simpletree(treestr)))
+        # TikzQTree(map(TikzQTrees.convert_jazz_notation, simpletree(treestr)))
+        simpletree(treestr)
     end
 
     IRealTree(title, measures, beats, chords, tree, approved, comments)
