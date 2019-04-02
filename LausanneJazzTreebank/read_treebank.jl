@@ -1,4 +1,4 @@
-using DataFrames, CSV, JSON, TikzQTrees
+using DataFrames, CSV, JSON, TikzQTrees, DigitalMusicology
 
 function simpletree(qtree_string::AbstractString)
     function qtree2json(qtree_string::AbstractString)
@@ -58,10 +58,10 @@ struct IRealTree
 end
 
 function IRealTree(tune::Vector)
-    title = first(tune[1])
-    measures = map(tune[2]) do m parse(Int, m) end
-    beats = map(tune[3]) do m parse(Float64, m) end
-    chords = tune[4]
+    title    = first(tune[1])
+    measures = map(m->parse(Int, m), tune[2])
+    beats    = map(m->parse(Float64, m), tune[3])
+    chords   = tune[4]
 
     helper(x) = isempty(x) ? missing : first(x)
     foo, fooo, treestr, approved, comments = map(helper, tune[5:end])
@@ -83,3 +83,67 @@ function read_iRealTunes(path=joinpath(@__DIR__, "data.csv"))
 
     map(IRealTree, tunes)
 end
+
+##################
+### JazzChords ###
+##################
+
+@everywhere module Chords
+
+using DigitalMusicology
+
+import Base: show, ==, hash
+import DigitalMusicology: root
+
+export Chord, form
+
+struct Chord
+    root   :: SpelledPC
+    form   :: String
+end
+
+root(c::Chord) = c.root
+form(c::Chord) = c.form
+show(io::IO, c::Chord) = print(io, c.root, c.form)
+
+==(c::Chord, d::Chord) = c.root == d.root && c.form == d.form
+hash(c::Chord, h::UInt) = hash(hash("Chord", hash(c.root, hash(c.form))), h)
+
+function Chord(str::AbstractString)
+    m = match(r"(?P<root>[A-G][b#]*)(?P<form>.*)", str)
+    Chord(SpelledPC(m[:root]), string(m[:form]))
+end
+
+using Test
+c = Chord("Dbm7")
+@test root(c) == pc"Db"
+@test form(c) == "m7"
+
+end # module
+
+using .Chords
+
+major_keys = [SpelledKey(pc"C" + k * ic"5", Major) for k in -6:5]
+minor_keys = [SpelledKey(pc"C" + k * ic"5", Minor) for k in -3:8]
+all_keys   = [major_keys; minor_keys]
+
+termination_dict = Dict(
+    "major" => Dict(
+        "I"   => ["^", "^7", "6"],
+        "II"  => ["m", "m7"],
+        "III" => ["m", "m7"],
+        "IV"  => ["^", "^7", "6"],
+        "V"   => ["^", "7", "+", "sus"],
+        "VI"  => ["m", "m7"],
+        "VII" => ["o7", "%7"]
+    ),
+    "minor" => Dict(
+        "I"   => ["m", "m7", "m^7", "m6"],
+        "II"  => ["%7"],
+        "III" => ["^", "^7", "6"],
+        "IV"  => ["m", "m7"],
+        "V"   => ["m", "m7", "^", "7", "+", "sus"],
+        "VI"  => ["^", "^7", "6"],
+        "VII" => ["^", "7", "+", "sus"]
+    )
+)
