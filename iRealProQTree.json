@@ -1368,18 +1368,21 @@
     "composers": "Henderson, Joe",
     "year": 1964,
     "meter": "4/4",
-    "key": "E-"
+    "key": "E-",
+    "tree": "[.Eb^7 [.Eb^7 [.Bb7 [.Fm7 [.A7 [.Gb^7 [.G7 D%7 G7 ] [.Gb^7 Ab^7 Gb^7 ] ] [.A7 Em7 A7 ] ] Fm7 ] Bb7 ] Eb^7 ] [.Eb^7 [.E^7 [.F7 [.Cm7 [.G7 D%7 G7 ] [.Cm7 Cm7 Cm7 ] ] [.F7 [.Gb7 [.Db7 Abm7 Db7 ] [.Gb7 G7 Gb7 ] ] F7 ] ] E^7 ] [.Eb^7 [.Bb7 Fm7 Bb7 ] Eb^7 ] ] ] "
   },
   {
     "title": "Simone",
     "measures": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24",
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
-    "chords": "Dm7 Em7 Dm7 Eb7 Dm7 Em7 Am7 D7 Gm7 Am7 Bbm7 Eb7 Dm7 Em7 F^7 F#m7 Fm7 Bb7 Em7 A7 Dm7 Em7 Dm7 Eb7",
+    "chords": "Dm7 Am7 Dm7 Eb7 Dm7 Am7 Am7 D7 Gm7 Am7 Bbm7 Eb7 Dm7 Em7 F^7 F#m7 Fm7 Bb7 Em7 A7 Dm7 Am7 Dm7 Eb7",
     "turnaround": 1,
     "composers": "Foster, Frank",
     "year": 1968,
     "meter": "3/4",
-    "key": "d"
+    "key": "d",
+    "comments": "Corrected chord: Em7/A (m2,m6,m22) is actually a Am7 with 9 and 11.",
+    "tree": "[.Dm7 [.Dm7 [.Dm7 Dm7 [.Dm7 Am7 Dm7 ] ] [.Dm7 Eb7 Dm7 ] ] [.Dm7 [.Dm7 [.Eb7 [.Am7 [.Gm7 [.D7 [.Am7 Am7 Am7 ] D7 ] Gm7 ] Am7 ] [.Eb7 Bbm7 Eb7 ] ] [.Dm7 Dm7 [.F^7 Em7 F^7 ] ] ] [.Dm7 [.A7 [.Bb7 [.Fm7 F#m7 Fm7 ] Bb7 ] [.A7 Em7 A7 ] ] [.Dm7 Dm7 [.Dm7 Am7 Dm7 ] ] ] ] ] "
   },
   {
     "title": "Spain",
