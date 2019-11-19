@@ -1,7 +1,0 @@
--- Haskell Playground 1.0
-parseTree "[.a b c]"
-
-json <$> parseTree example
-
-json $ Leaf "hi"
-
