@@ -3,7 +3,7 @@ name: deploy treebank
 on:
   push:
     branches:
-      - annotation
+      - 'annotation'
 
 jobs:
   build:
