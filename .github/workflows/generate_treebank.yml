@@ -27,4 +27,4 @@ jobs:
         ACTION_NAME: Daniel Harasim
         ACTION_BRANCH: master
         ACTION_MESSAGE: update treebank
-        ACTION_DEPLOY_KEY: ${{ secrets.ACTION_DEPLOY_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
