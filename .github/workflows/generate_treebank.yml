@@ -20,3 +20,11 @@ jobs:
     - name: generate treebank
       run: |
         python generate_treebank.py
+    - name: push treebank
+      uses: ludeeus/action-push@0.0.1
+      env:
+        ACTION_MAIL: "daniel.harasim@epfl.ch"
+        ACTION_NAME: Daniel Harasim
+        ACTION_BRANCH: master
+        ACTION_MESSAGE: update treebank
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
