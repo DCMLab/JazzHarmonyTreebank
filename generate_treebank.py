@@ -1,3 +1,4 @@
+import os
 import json
 from lark import Lark
 
@@ -30,6 +31,8 @@ for t in tunes:
     t['chords'] = t['chords'].split()
     if 'tree' in t:
         t['tree'] = qtree_to_dict(t['tree'])
-    
-with open("treebank.json", 'w') as f:
+
+if not os.path.exists("public"):
+    os.mkdir("public")
+with open("public/treebank.json", 'w') as f:
     json.dump(tunes, f, indent=2)
