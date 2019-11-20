@@ -28,7 +28,7 @@ jobs:
         git commit -m "automatically update treebank from annotations"
     - name: push treebank update
       run: |
-        git push origin master
+        git push --set-upstream origin master
         
 
 
