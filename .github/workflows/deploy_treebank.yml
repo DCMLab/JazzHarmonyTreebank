@@ -2,8 +2,8 @@ name: deploy treebank
 
 on:
   push:
-    branches:
-      - 'annotation'
+    branches-ignore:
+      - master
 
 jobs:
   build:
