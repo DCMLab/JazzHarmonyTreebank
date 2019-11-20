@@ -17,14 +17,18 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: generate treebank
+    - name: update treebank
       run: |
         python generate_treebank.py
-    - name: push treebank
-      uses: ludeeus/action-push@0.0.1
-      env:
-        ACTION_MAIL: "daniel.harasim@epfl.ch"
-        ACTION_NAME: Daniel Harasim
-        ACTION_BRANCH: master
-        ACTION_MESSAGE: update treebank
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: state and commit treebank update
+      run: |
+        git config --global user.email "daniel.harasim@epfl.ch"
+        git config --global user.name "dharasim"
+        git add treebank.json
+        git commit -m "automatically update treebank from annotations"
+    - name: push treebank update
+        git push
+        
+
+
+#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
