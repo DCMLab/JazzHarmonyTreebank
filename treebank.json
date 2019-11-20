@@ -5767,10 +5767,7 @@
       3,
       4,
       5,
-      5,
       6,
-      6,
-      7,
       7,
       8,
       9,
@@ -5786,11 +5783,8 @@
       1,
       1,
       1,
-      3,
       1,
-      3,
       1,
-      3,
       1,
       1,
       1,
@@ -5804,14 +5798,11 @@
       "Dm7",
       "Dm6",
       "D7",
-      "Gm",
-      "Gm^7",
       "Gm7",
-      "Gm6",
-      "Dm7",
-      "Em7",
+      "C7",
       "F^7",
-      "Bb7",
+      "Bb^7",
+      "E%7",
       "A7",
       "Dm",
       "F7",
@@ -5822,7 +5813,102 @@
     "composers": "Carisi, John",
     "year": 1949,
     "meter": "4/4",
-    "key": "d"
+    "key": "d",
+    "comments": "alternative chords from iRealPro used",
+    "tree": {
+      "label": "Dm",
+      "children": [
+        {
+          "label": "Dm",
+          "children": [
+            {
+              "label": "Dm",
+              "children": [
+                {
+                  "label": "Dm",
+                  "children": []
+                },
+                {
+                  "label": "Dm7",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "Dm6",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Dm",
+          "children": [
+            {
+              "label": "F^7",
+              "children": [
+                {
+                  "label": "C7",
+                  "children": [
+                    {
+                      "label": "Gm7",
+                      "children": [
+                        {
+                          "label": "D7",
+                          "children": []
+                        },
+                        {
+                          "label": "Gm7",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "label": "C7",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "label": "F^7",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "Dm",
+              "children": [
+                {
+                  "label": "A7",
+                  "children": [
+                    {
+                      "label": "Bb^7",
+                      "children": []
+                    },
+                    {
+                      "label": "A7",
+                      "children": [
+                        {
+                          "label": "E%7",
+                          "children": []
+                        },
+                        {
+                          "label": "A7",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Dm",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   },
   {
     "title": "Mac The Knife",
