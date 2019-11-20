@@ -3,7 +3,7 @@ name: deploy treebank
 on:
   push:
     branches-ignore:
-      - master 
+      - master
 
 jobs:
   build:
