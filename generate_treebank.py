@@ -9,6 +9,8 @@ for t in tunes:
     t['measures'] = list(map(int, t['measures'].split()))
     t['beats'] = list(map(int, t['beats'].split()))
     t['chords'] = t['chords'].split()
+    (num, denom) = t['meter'].split('/')
+    t['meter'] = {'numerator': num, 'denominator': denom}
     if 'tree' in t:
         t['tree'] = qtree_to_dict(t['tree'])
 
