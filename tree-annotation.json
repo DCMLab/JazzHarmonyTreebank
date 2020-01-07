@@ -854,7 +854,9 @@
     "composers": "Parker, Charlie",
     "year": 1955,
     "meter": "4/4",
-    "key": "C"
+    "key": "C",
+    "blues": true,
+    "turnaround": 0
   },
   {
     "title": "Fall",
@@ -864,7 +866,9 @@
     "composers": "Shorter, Wayne",
     "year": 1967,
     "meter": "4/4",
-    "key": "e"
+    "key": "e",
+    "blues": false,
+    "turnaround": 1
   },
   {
     "title": "Funkallero",
@@ -876,17 +880,20 @@
     "composers": "Evans, Bill",
     "year": 1971,
     "meter": "3/4",
-    "key": "c"
+    "key": "c",
+    "blues": false
   },
   {
     "title": "Si Si",
-    "measures": "2 3 3 4 4 5 5 6 7 7 8 9 9 10 11 12 12 13 13",
+    "measures": "1 2 2 3 3 4 4 5 6 6 7 8 8 9 10 11 11 12 12",
     "beats": "1 1 3 1 3 1 3 1 1 3 1 1 3 1 1 1 3 1 3",
     "chords": "F7 E%7 A7 Dm7 G7 Cm7 F7 Bb7 Bbm7 Eb7 F7 Am7 D7 Gm7 C7 F7 D7 Gm7 C7",
     "composers": "Parker, Charlie",
     "year": 1951,
     "meter": "4/4",
-    "key": "F"
+    "key": "F",
+    "blues": true,
+    "turnaround": 3
   },
   {
     "title": "Yesterdays",
@@ -898,7 +905,8 @@
     "composers": "Kern, Jerome",
     "year": 1933,
     "meter": "4/4",
-    "key": "d"
+    "key": "d",
+    "blues": false
   },
   {
     "title": "Afro Blue",
@@ -910,7 +918,8 @@
     "composers": "Santamaria, Mongo",
     "year": 1959,
     "meter": "3/4",
-    "key": "f"
+    "key": "f",
+    "blues": false
   },
   {
     "title": "Blue Daniel",
@@ -923,7 +932,8 @@
     "composers": "Rosolino, Frank",
     "year": 1978,
     "meter": "3/4",
-    "key": "D"
+    "key": "D",
+    "blues": false
   },
   {
     "title": "Blues For Alice",
@@ -935,18 +945,21 @@
     "composers": "Parker, Charlie",
     "year": 1951,
     "meter": "4/4",
-    "key": "F"
+    "key": "F",
+    "blues": false
   },
   {
     "title": "Brotherhood Of Man",
     "measures": "1 2 3 4 5 5 6 6 7 8 9 10 11 12 13 13 14 14 15 16",
     "beats": "1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 3 1 3 1 1",
-    "chords": "Eb7 Eb7 Eb7 Eb7 Eb7 Fm7 Gm7 C7 F7 Bb7 Eb7 Eb7 Ab7 Co7 Gm7 C7 Fm7 Bb7 Eb7 Bb7",
-    "turnaround": -1,
+    "chords": "Eb Eb Eb Eb Eb Fm7 Gm7 C7 F7 Bb7 Eb Eb Ab7 Co7 Gm7 C7 Fm7 Bb7 Eb Bb7",
+    "turnaround": 1,
+    "tree": "[.Eb [.Eb [.Eb [.Eb Eb Eb ] [.Eb Eb Eb ] ] [.Bb7 Eb [.Bb7 [.F7 [.C7 [.Gm7 Fm7 Gm7 ] C7 ] F7 ] Bb7 ] ] ] [.Eb [.Eb Eb Eb ] [.Eb [.Bb7 [.Fm7 [.C7 [.Gm7 Ab7 [.Gm7 Co7 Gm7 ] ] C7 ] Fm7 ] Bb7 ] Eb ] ] ] ",
     "composers": "Loesser, Frank",
     "year": 1961,
     "meter": "4/4",
-    "key": "E-"
+    "key": "E-",
+    "blues": false
   },
   {
     "title": "Deluge",
