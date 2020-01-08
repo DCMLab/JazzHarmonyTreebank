@@ -2732,6 +2732,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 3 1",
     "chords": "E7 E7 F^7 F^7 E7 E7 Eb^7 Eb^7 D7 Eb7 E7 F^7 Eb^7 Dm7 G7 Gm7 Gb7 E7 E7 F^7 F^7 E7 E7 Eb^7 Eb^7 D7 Eb7 E7 F^7 Eb^7 Db7 Gm7 Dbm7 Gb7 F^7",
     "composers": "Shorter, Wayne",
+    "turnaround": 0,
     "year": 1965,
     "meter": "4/4",
     "key": "F"
@@ -2742,6 +2743,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 3",
     "chords": "Ab^7 Ab^7 Gm7 C7 Fm7 Fm7 D%7 G7 Db^7 Gb7 Ab^7 G%7 C7 Fm7 Bb7 Bbm7 Eb7 Ab^7 Ab^7 Gm7 C7 Fm7 Fm7 D%7 G7 Db^7 Gb7 Ab^7 F7 Bbm7 Ebsus Eb7 Ab6 Bbm7 Eb7",
     "composers": "Distel, Sacha",
+    "turnaround": 2,
+    "tree": "[.Ab6 [.Eb7 [.Ab^7 Ab^7 Ab^7 ] [.Eb7 [.Bb7 [.Fm7 [.C7 [.G%7 [.Ab^7 [.Gb7 [.G7 [.Fm7 [.C7 Gm7 C7 ] [.Fm7 Fm7 Fm7 ] ] [.G7 D%7 G7 ] ] [.Gb7 Db^7 Gb7 ] ] Ab^7 ] G%7 ] C7 ] Fm7 ] Bb7 ] [.Eb7 Bbm7 Eb7 ] ] ] [.Ab6 [.Ab^7 Ab^7 Ab^7 ] [.Ab6 [.Eb7 [.Bbm7 [.F7 [.Ab^7 [.Gb7 [.G7 [.Fm7 [.C7 Gm7 C7 ] [.Fm7 Fm7 Fm7 ] ] [.G7 D%7 G7 ] ] [.Gb7 Db^7 Gb7 ] ] Ab^7 ] F7 ] Bbm7 ] [.Eb7 Ebsus Eb7 ] ] Ab6 ] ] ] ",
     "year": 1962,
     "meter": "4/4",
     "key": "A-"
@@ -2752,6 +2755,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 3 1 1 3 1 1 1 1 1 1 1 1",
     "chords": "Dm Dm C#o7 C#o7 Cm6 Cm6 G7 G7 Bb^7 Bb^7 Eb^7 Eb^7 E%7 A7 Dm Dm Db7 Cm6 Cm6 Bo7 Bo7 Bb^7 E%7 A7 Dm Dm Db7 Cm7 F7 Bm7 E7 Bb^7 A7 Dm Dm",
     "composers": "Jobim, Antonio Carlos",
+    "turnaround": 0,
     "year": 1963,
     "meter": "4/4",
     "key": "d"
@@ -2762,6 +2766,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1 1 3 1 1 1",
     "chords": "Bb6 Bb6 Bbm6 Bbm6 F6 E7 F6 F6 D7 D7 D7 D7 G7 G7 Gm7 C7 Bb6 Bb6 Bbm6 Bbm6 F6 E7 F6 F6 A%7 D7 A%7 D7 A7 Dm7 Bb6 Bo7 C7 F6 F6",
     "composers": "Jones, Isham",
+    "turnaround": 0,
     "year": 1924,
     "meter": "4/4",
     "key": "F"
@@ -2772,6 +2777,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 3",
     "chords": "Cm6 Cm6 Cm6 Cm6 Cm6 Cm6 D%7 G7 D%7 G7 D%7 G7 D%7 G7 Cm6 Cm6 G7 C6 C6 C6 C6 C6 Em7 Ebo7 Dm7 G7 F6 F6 Em7 A7 Dm7 G7 C6 D%7 G7",
     "composers": "Porter, Cole",
+    "turnaround": 2,
+    "tree": "[.C6 [.Cm6 [.Cm6 [.Cm6 [.Cm6 Cm6 Cm6 ] [.Cm6 Cm6 Cm6 ] ] [.Cm6 Cm6 Cm6 ] ] [.Cm6 [.G7 [.G7 [.G7 D%7 G7 ] [.G7 D%7 G7 ] ] [.G7 [.G7 D%7 G7 ] [.G7 D%7 G7 ] ] ] [.Cm6 Cm6 Cm6 ] ] ] [.C6 [.C6 [.C6 [.C6 [.C6 G7 C6 ] C6 ] [.C6 C6 C6 ] ] C6 ] [.C6 [.G7 [.Dm7 [.Ebo7 Em7 Ebo7 ] Dm7 ] G7 ] [.C6 [.G7 [.F6 F6 F6 ] [.G7 [.Dm7 [.A7 Em7 A7 ] Dm7 ] G7 ] ] C6 ] ] ] ] ",
     "year": 1953,
     "meter": "4/4",
     "key": "c"
