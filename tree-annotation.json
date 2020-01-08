@@ -2322,6 +2322,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
     "chords": "Dsus Dsus D%7 G7 Cm7 Cm7 Am7 Am7 Dm Bb^ Dm Bb^ Dm Dm Bb^7 B%7 E7 Dsus Dsus D%7 G7 Cm7 Cm7 Am7 Am7 F^7 Eb^7 Ab^7 Gm7 Csus Csus Csus Csus",
     "composers": "Abercrombie, John",
+    "turnaround": 0,
     "year": 1999,
     "meter": "4/4",
     "key": "C"
@@ -2332,6 +2333,8 @@
     "beats": "1 1 3 1 1 1 1 3 1 3 1 1 3 1 3 1 1 1 1 3 1 1 3 1 1 3 1 3 1 1 1 1 1",
     "chords": "Fm7 Bbm6 C7 Fm7 Bb7 Bbm7 Bbm7 Eb7 G%7 C7 Fm7 Fm7 Db7 Db7 C7 Fm^7 C7 Fm7 G%7 C7 Fm7 C%7 F7 Bbm7 Bbm7 C7 C7 G%7 Ab^7 G%7 C7 Fm^7 Fm^7",
     "composers": "Brown, Clifford",
+    "turnaround": 0,
+    "tree": "[.Fm^7 [.Fm^7 [.Fm7 [.Fm7 Fm7 [.Fm7 [.C7 Bbm6 C7 ] Fm7 ] ] [.Fm7 [.Eb7 Bb7 [.Eb7 [.Bbm7 Bbm7 Bbm7 ] Eb7 ] ] [.Fm7 [.C7 G%7 C7 ] [.Fm7 Fm7 ] ] ] ] [.Fm^7 Fm7 [.Fm^7 [.C7 [.Db7 Db7 Db7 ] C7 ] Fm^7 ] ] ] [.Fm^7 [.Fm7 [.Fm7 C7 Fm7 ] [.Fm7 [.C7 G%7 C7 ] Fm7 ] ] [.Fm^7 [.C7 [.G%7 [.C7 [.Bbm7 [.F7 C%7 F7 ] Bbm7 ] [.C7 Bbm7 C7 ] ] [.G%7 C7 G%7 ] ] [.C7 [.G%7 Ab^7 G%7 ] C7 ] ] [.Fm^7 Fm^7 Fm^7 ] ] ] ] ",
     "year": 1953,
     "meter": "4/4",
     "key": "f"
