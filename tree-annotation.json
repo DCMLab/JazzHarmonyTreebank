@@ -2629,6 +2629,7 @@
     "beats": "1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1",
     "chords": "F^7 F^7 G7 C7 F^7 Bb^7 Bb^7 Bb^7 Bb^7 F^7 F^7 F^7 F^7 G7 G7 C7 Gm7 C7 F^7 F^7 G7 C7 F^7 Bb^7 Bb^7 Bb^7 Bb^7 F^7 F7 Bb^7 Bo7 F^7 F^7 C7 F^7",
     "composers": "Berlin, Irving",
+    "turnaround": 0,
     "year": 1911,
     "meter": "4/4",
     "key": "F"
@@ -2639,6 +2640,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 3",
     "chords": "F^ F^ C7 C7 F^ C7 F^7 F6 E%7 A7 Dm7 G7 A^ E7 A^ Gm7 C7 Cm7 F7 Bb^ Bb^ G7 G7 C7 C7 F^ Cm7 F7 Bb^7 Eb7 F^ C7 F^ Gm7 C7",
     "composers": "Berlin, Irving",
+    "turnaround": 2,
     "year": 1924,
     "meter": "3/4",
     "key": "F"
@@ -2649,6 +2651,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 3 1 1",
     "chords": "C^7 C^7 G7 G7 C7 C7 F^7 Fm7 C^7 Gm7 A7 D7 G7 Em7 G7 C^7 C^7 Am7 Am7 Em7 Em7 F^7 F7 C^7 C^7 C7 F^7 Fm7 C^7 A7 D7 D7 G7 C^7 C^7",
     "composers": "Herpin, Laurent & Rome, Harold & Blauvillain, Jean Marie",
+    "turnaround": 0,
     "year": 1944,
     "meter": "4/4",
     "key": "C"
@@ -2659,6 +2662,7 @@
     "beats": "1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3",
     "chords": "Bb6 Bb6 Bbo7 Ebm7 F7 Bb6 Bb6 G7 G7 Cm7 Ebm6 Bb6 Bbm6 C7 C7 Cm7 F7 Bb6 Bb6 Bbo7 Ebm7 F7 Bb6 Do7 G7 G7 Cm7 Ebm6 Bb6 Gm7 Cm7 F7 Bb6 Cm7 F7",
     "composers": "Whiting, Richard & Harling, W. Franke",
+    "turnaround": 2,
     "year": 1930,
     "meter": "4/4",
     "key": "B-"
@@ -2669,6 +2673,8 @@
     "beats": "1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3",
     "chords": "G^ G^ G^ G^ G^ G^ Abo7 Am7 D7 D7 D7 D7 D7 D7 D7 G^ Am7 D7 G^ G^ G^ G^ Dm7 G7 C^ C^ C^ C#o7 G^ E7 A7 D7 G^ Am7 D7",
     "composers": "Traditional",
+    "turnaround": 2,
+    "tree": "[.G^ [.G^ [.G^ [.G^ [.G^ G^ G^ ] [.G^ G^ G^ ] ] [.G^ G^ G^ ] ] [.G^ [.D7 [.Am7 Abo7 Am7 ] D7 ] [.G^ [.D7 [.D7 D7 D7 ] [.D7 D7 D7 ] ] [.G^ [.D7 D7 D7 ] G^ ] ] ] ] [.G^ [.G^ [.D7 Am7 D7 ] [.G^ [.G^ G^ G^ ] [.G^ G^ G^ ] ] ] [.G^ [.D7 [.C^ [.G7 Dm7 G7 ] [.C^ C^ C^ ] ] [.D7 [.A7 [.G^ [.C#o7 C^ C#o7 ] G^ ] [.A7 E7 A7 ] ] D7 ] ] G^ ] ] ] ",
     "year": 1902,
     "meter": "4/4",
     "key": "G"
