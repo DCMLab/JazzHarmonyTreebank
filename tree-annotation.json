@@ -855,7 +855,6 @@
     "year": 1955,
     "meter": "4/4",
     "key": "C",
-    "blues": true,
     "turnaround": 0
   },
   {
@@ -867,7 +866,6 @@
     "year": 1967,
     "meter": "4/4",
     "key": "e",
-    "blues": false,
     "turnaround": 1
   },
   {
@@ -880,8 +878,7 @@
     "composers": "Evans, Bill",
     "year": 1971,
     "meter": "3/4",
-    "key": "c",
-    "blues": false
+    "key": "c"
   },
   {
     "title": "Si Si",
@@ -892,7 +889,6 @@
     "year": 1951,
     "meter": "4/4",
     "key": "F",
-    "blues": true,
     "turnaround": 3
   },
   {
@@ -905,8 +901,7 @@
     "composers": "Kern, Jerome",
     "year": 1933,
     "meter": "4/4",
-    "key": "d",
-    "blues": false
+    "key": "d"
   },
   {
     "title": "Afro Blue",
@@ -918,8 +913,7 @@
     "composers": "Santamaria, Mongo",
     "year": 1959,
     "meter": "3/4",
-    "key": "f",
-    "blues": false
+    "key": "f"
   },
   {
     "title": "Blue Daniel",
@@ -932,8 +926,7 @@
     "composers": "Rosolino, Frank",
     "year": 1978,
     "meter": "3/4",
-    "key": "D",
-    "blues": false
+    "key": "D"
   },
   {
     "title": "Blues For Alice",
@@ -945,8 +938,7 @@
     "composers": "Parker, Charlie",
     "year": 1951,
     "meter": "4/4",
-    "key": "F",
-    "blues": false
+    "key": "F"
   },
   {
     "title": "Brotherhood Of Man",
@@ -958,8 +950,7 @@
     "composers": "Loesser, Frank",
     "year": 1961,
     "meter": "4/4",
-    "key": "E-",
-    "blues": false
+    "key": "E-"
   },
   {
     "title": "Deluge",
@@ -970,7 +961,6 @@
     "year": 1964,
     "meter": "4/4",
     "key": "e-",
-    "blues": false,
     "turnaround": 2
   },
   {
@@ -982,8 +972,7 @@
     "year": 1974,
     "meter": "4/4",
     "key": "E-",
-    "turnaround": -3,
-    "blues": false
+    "turnaround": -3
   },
   {
     "title": "Freight Train",
@@ -996,8 +985,7 @@
     "composers": "Flanagan, Tommy",
     "year": 1962,
     "meter": "4/4",
-    "key": "A-",
-    "blues": false
+    "key": "A-"
   },
   {
     "title": "Got A Match?",
@@ -1009,8 +997,7 @@
     "composers": "Corea, Chick",
     "year": 1990,
     "meter": "4/4",
-    "key": "d",
-    "blues": false
+    "key": "d"
   },
   {
     "title": "Half Nelson",
@@ -1022,8 +1009,7 @@
     "composers": "Davis, Miles",
     "year": 1948,
     "meter": "4/4",
-    "key": "C",
-    "blues": false
+    "key": "C"
   },
   {
     "title": "Leaving",
@@ -1035,8 +1021,7 @@
     "year": 1976,
     "meter": "4/4",
     "key": "B-",
-    "turnaround": 2,
-    "blues": false
+    "turnaround": 2
   },
   {
     "title": "Ligia",
@@ -1057,8 +1042,7 @@
     "composers": "Richie, Beirach",
     "year": 1990,
     "meter": "4/4",
-    "key": "e-",
-    "blues": false
+    "key": "e-"
   },
   {
     "title": "Old Country, The",
@@ -1070,8 +1054,7 @@
     "composers": "Lewis, Curtis & Adderley, Cannonball",
     "year": 1961,
     "meter": "4/4",
-    "key": "d",
-    "blues": false
+    "key": "d"
   },
   {
     "title": "One Finger Snap",
@@ -1082,8 +1065,7 @@
     "year": 1964,
     "meter": "4/4",
     "key": "E-",
-    "turnaround": 2,
-    "blues": false
+    "turnaround": 2
   },
   {
     "title": "Preacher, The",
@@ -1096,8 +1078,7 @@
     "composers": "Silver, Horace",
     "year": 1954,
     "meter": "4/4",
-    "key": "F",
-    "blues": false
+    "key": "F"
   },
   {
     "title": "Recordame",
@@ -1109,8 +1090,7 @@
     "composers": "Henderson, Joe",
     "year": 1963,
     "meter": "4/4",
-    "key": "a",
-    "blues": false
+    "key": "a"
   },
   {
     "title": "Pinocchio",
@@ -1121,8 +1101,7 @@
     "year": 1968,
     "meter": "4/4",
     "key": "e-",
-    "turnaround": -1,
-    "blues": false
+    "turnaround": -1
   },
   {
     "title": "Gloria's Step",
@@ -1133,8 +1112,7 @@
     "composers": "LaFaro, Scott",
     "year": 1960,
     "meter": "4/4",
-    "key": "F",
-    "blues": false
+    "key": "F"
   },
   {
     "title": "Just A Gigolo",
@@ -1146,8 +1124,7 @@
     "composers": "Casucci, Leonello",
     "year": 1928,
     "meter": "4/4",
-    "key": "F",
-    "blues": false
+    "key": "F"
   },
   {
     "title": "Little Boat (O Barquinho)",
@@ -1159,8 +1136,7 @@
     "composers": "Menescal, Roberto",
     "year": 1963,
     "meter": "4/4",
-    "key": "B-",
-    "blues": false
+    "key": "B-"
   },
   {
     "title": "Little B's Poem",
@@ -1172,8 +1148,7 @@
     "year": 1965,
     "meter": "3/4",
     "key": "f",
-    "comments": "chords differ from recording",
-    "blues": false
+    "comments": "chords differ from recording"
   },
   {
     "title": "Armando's Rhumba",
@@ -1185,8 +1160,7 @@
     "composers": "Corea, Chick",
     "year": 1976,
     "meter": "4/4",
-    "key": "c",
-    "blues": false
+    "key": "c"
   },
   {
     "title": "El Gaucho",
@@ -1197,8 +1171,7 @@
     "year": 1965,
     "meter": "4/4",
     "key": "F",
-    "turnaround": -1,
-    "blues": false
+    "turnaround": -1
   },
   {
     "title": "Nostalgia In Times Square",
@@ -1209,8 +1182,7 @@
     "year": 1959,
     "meter": "4/4",
     "key": "F",
-    "turnaround": 0,
-    "blues": true
+    "turnaround": 0
   },
   {
     "title": "Pee Wee",
@@ -1221,8 +1193,7 @@
     "year": 1967,
     "meter": "3/4",
     "key": "D-",
-    "turnaround": -1,
-    "blues": false
+    "turnaround": -1
   },
   {
     "title": "Summertime",
@@ -1234,8 +1205,7 @@
     "composers": "Gershwin, George",
     "year": 1935,
     "meter": "4/4",
-    "key": "a",
-    "blues": false
+    "key": "a"
   },
   {
     "title": "Taste Of Honey, A",
@@ -1247,8 +1217,7 @@
     "comments": "contains (I, IV) constituents",
     "year": 1960,
     "meter": "3/4",
-    "key": "d",
-    "blues": false
+    "key": "d"
   },
   {
     "title": "Why Don't You Do Right?",
@@ -1260,8 +1229,7 @@
     "composers": "McCoy, Kansas Joe",
     "year": 1936,
     "meter": "4/4",
-    "key": "d",
-    "blues": false
+    "key": "d"
   },
   {
     "title": "Adam's Apple",
@@ -1272,8 +1240,7 @@
     "year": 1966,
     "meter": "4/4",
     "key": "A-",
-    "turnaround": 0,
-    "blues": true
+    "turnaround": 0
   },
   {
     "title": "All Blues",
@@ -1284,8 +1251,7 @@
     "year": 1959,
     "meter": "3/4",
     "key": "G",
-    "turnaround": 0,
-    "blues": true
+    "turnaround": 0
   },
   {
     "title": "Bluesette",
@@ -1297,8 +1263,7 @@
     "composers": "Thielemans, Toots",
     "year": 1962,
     "meter": "3/4",
-    "key": "B-",
-    "blues": false
+    "key": "B-"
   },
   {
     "title": "Central Park West",
@@ -1311,8 +1276,7 @@
     "composers": "Coltrane, John",
     "year": 1959,
     "meter": "4/4",
-    "key": "B",
-    "blues": false
+    "key": "B"
   },
   {
     "title": "Footprints",
@@ -1325,8 +1289,7 @@
     "composers": "Shorter, Wayne",
     "year": 1966,
     "meter": "3/4",
-    "key": "c",
-    "blues": false
+    "key": "c"
   },
   {
     "title": "For Jan",
@@ -1338,8 +1301,7 @@
     "comments": "sequence of falling major seconds in the bass at the end",
     "year": 1966,
     "meter": "3/4",
-    "key": "A",
-    "blues": false
+    "key": "A"
   },
   {
     "title": "Four On Six",
@@ -1351,8 +1313,7 @@
     "composers": "Montgomery, Wes",
     "year": 1960,
     "meter": "4/4",
-    "key": "g",
-    "blues": false
+    "key": "g"
   },
   {
     "title": "Freddie Freeloader",
@@ -1363,8 +1324,7 @@
     "year": 1959,
     "meter": "4/4",
     "key": "B-",
-    "turnaround": 0,
-    "blues": true
+    "turnaround": 0
   },
   {
     "title": "Inner Urge",
@@ -1375,8 +1335,7 @@
     "composers": "Henderson, Joe",
     "year": 1965,
     "meter": "4/4",
-    "key": "G",
-    "blues": false
+    "key": "G"
   },
   {
     "title": "Juju",
@@ -1387,8 +1346,7 @@
     "composers": "Shorter, Wayne",
     "year": 1964,
     "meter": "3/4",
-    "key": "B",
-    "blues": false
+    "key": "B"
   },
   {
     "title": "Light Blue",
@@ -1401,8 +1359,7 @@
     "meter": "4/4",
     "key": "C",
     "comments": "iteration of a (I,V) constituent",
-    "turnaround": 3,
-    "blues": false
+    "turnaround": 3
   },
   {
     "title": "Paper Doll",
@@ -1415,8 +1372,7 @@
     "meter": "4/4",
     "key": "F",
     "tree": "[.F6 [.C7 [.F^7 [.F^7 F^7 [.F6 [.C7 [.G7 D7 G7 ] C7 ] F6 ] ] [.F^7 F^7 Fm^7 ] ] [.C7 [.C^7 C^7 A7 ] [.C7 G7 C7 ] ] ] [.F6 [.F6 [.C7 Gm7 C7 ] F6 ] [.F6 [.C7 [.C7 [.C7 Gm7 C7 ] A7 ] [.C7 [.Gm7 [.D7 [.A7 Bb^ [.A7 Bo7 [.A7 F^ A7 ] ] ] D7 ] Gm7 ] C7 ] ] F6 ] ] ] ",
-    "comments": "F^m7 (m5) and A7 (m6), and are voice-leading chords. F (m14) is a low tonic.",
-    "blues": false
+    "comments": "F^m7 (m5) and A7 (m6), and are voice-leading chords. F (m14) is a low tonic."
   },
   {
     "title": "Serenity",
@@ -1428,8 +1384,7 @@
     "year": 1964,
     "meter": "4/4",
     "key": "E-",
-    "tree": "[.Eb^7 [.Eb^7 [.Bb7 [.Fm7 [.A7 [.Gb^7 [.G7 D%7 G7 ] [.Gb^7 Ab^7 Gb^7 ] ] [.A7 Em7 A7 ] ] Fm7 ] Bb7 ] Eb^7 ] [.Eb^7 [.E^7 [.F7 [.Cm7 [.G7 D%7 G7 ] [.Cm7 Cm7 Cm7 ] ] [.F7 [.Gb7 [.Db7 Abm7 Db7 ] [.Gb7 G7 Gb7 ] ] F7 ] ] E^7 ] [.Eb^7 [.Bb7 Fm7 Bb7 ] Eb^7 ] ] ] ",
-    "blues": false
+    "tree": "[.Eb^7 [.Eb^7 [.Bb7 [.Fm7 [.A7 [.Gb^7 [.G7 D%7 G7 ] [.Gb^7 Ab^7 Gb^7 ] ] [.A7 Em7 A7 ] ] Fm7 ] Bb7 ] Eb^7 ] [.Eb^7 [.E^7 [.F7 [.Cm7 [.G7 D%7 G7 ] [.Cm7 Cm7 Cm7 ] ] [.F7 [.Gb7 [.Db7 Abm7 Db7 ] [.Gb7 G7 Gb7 ] ] F7 ] ] E^7 ] [.Eb^7 [.Bb7 Fm7 Bb7 ] Eb^7 ] ] ] "
   },
   {
     "title": "Simone",
@@ -1442,8 +1397,7 @@
     "meter": "3/4",
     "key": "d",
     "comments": "Corrected chord: Em7/A (m2,m6,m22) is actually a Am7 with 9 and 11.",
-    "tree": "[.Dm7 [.Dm7 [.Dm7 Dm7 [.Dm7 Am7 Dm7 ] ] [.Dm7 Eb7 Dm7 ] ] [.Dm7 [.Dm7 [.Eb7 [.Am7 [.Gm7 [.D7 [.Am7 Am7 Am7 ] D7 ] Gm7 ] Am7 ] [.Eb7 Bbm7 Eb7 ] ] [.Dm7 Dm7 [.F^7 Em7 F^7 ] ] ] [.Dm7 [.A7 [.Bb7 [.Fm7 F#m7 Fm7 ] Bb7 ] [.A7 Em7 A7 ] ] [.Dm7 Dm7 [.Dm7 Am7 Dm7 ] ] ] ] ] ",
-    "blues": false
+    "tree": "[.Dm7 [.Dm7 [.Dm7 Dm7 [.Dm7 Am7 Dm7 ] ] [.Dm7 Eb7 Dm7 ] ] [.Dm7 [.Dm7 [.Eb7 [.Am7 [.Gm7 [.D7 [.Am7 Am7 Am7 ] D7 ] Gm7 ] Am7 ] [.Eb7 Bbm7 Eb7 ] ] [.Dm7 Dm7 [.F^7 Em7 F^7 ] ] ] [.Dm7 [.A7 [.Bb7 [.Fm7 F#m7 Fm7 ] Bb7 ] [.A7 Em7 A7 ] ] [.Dm7 Dm7 [.Dm7 Am7 Dm7 ] ] ] ] ] "
   },
   {
     "title": "Spain",
@@ -1454,8 +1408,7 @@
     "composers": "Corea, Chick",
     "year": 1971,
     "meter": "4/4",
-    "key": "b",
-    "blues": false
+    "key": "b"
   },
   {
     "title": "St. Thomas",
@@ -1467,8 +1420,7 @@
     "composers": "Rollins, Sonny",
     "year": 1956,
     "meter": "4/4",
-    "key": "C",
-    "blues": false
+    "key": "C"
   },
   {
     "title": "Summer Band Camp",
@@ -1479,8 +1431,7 @@
     "composers": "Goodrick, Mick",
     "year": 1979,
     "meter": "4/4",
-    "key": "C",
-    "blues": false
+    "key": "C"
   },
   {
     "title": "Ballade",
@@ -1492,8 +1443,7 @@
     "composers": "Parker, Charlie",
     "year": 1950,
     "meter": "4/4",
-    "key": "F",
-    "blues": false
+    "key": "F"
   },
   {
     "title": "Doxy",
@@ -1504,8 +1454,7 @@
     "year": 1954,
     "meter": "4/4",
     "key": "B-",
-    "turnaround": 1,
-    "blues": true
+    "turnaround": 1
   },
   {
     "title": "Midnight Mood",
@@ -1516,8 +1465,7 @@
     "composers": "Zawinul, Joe",
     "year": 1965,
     "meter": "3/4",
-    "key": "D-",
-    "blues": false
+    "key": "D-"
   },
   {
     "title": "Minor Strain",
@@ -1530,8 +1478,7 @@
     "key": "G",
     "turnaround": 4,
     "comments": "chords corrected according to https://www.youtube.com/watch?v=G-LLMy9qjTM.",
-    "tree": "[.Dm7 [.Cm7 [.Dm7 [.Dm7 Dm7 Dm7 ] [.Dm7 Dm7 Dm7 ] ] [.Cm7 [.Cm7 Cm7 Cm7 ] [.Cm7 Cm7 Cm7 ] ] ] [.Dm7 [.Am7 [.Gm7 Gm7 Gm7 ] [.Am7 [.Eb7 Bbm7 Eb7 ] Am7 ] ] Dm7 ] ] ",
-    "blues": false
+    "tree": "[.Dm7 [.Cm7 [.Dm7 [.Dm7 Dm7 Dm7 ] [.Dm7 Dm7 Dm7 ] ] [.Cm7 [.Cm7 Cm7 Cm7 ] [.Cm7 Cm7 Cm7 ] ] ] [.Dm7 [.Am7 [.Gm7 Gm7 Gm7 ] [.Am7 [.Eb7 Bbm7 Eb7 ] Am7 ] ] Dm7 ] ] "
   },
   {
     "title": "Smoke Rings",
@@ -1542,8 +1489,7 @@
     "composers": "Gifford, Gene & Washington, Ned",
     "year": 1932,
     "meter": "4/4",
-    "key": "D-",
-    "blues": false
+    "key": "D-"
   },
   {
     "title": "Song For My Father",
@@ -1555,8 +1501,7 @@
     "composers": "Silver, Horace",
     "year": 1964,
     "meter": "4/4",
-    "key": "f",
-    "blues": false
+    "key": "f"
   },
   {
     "title": "Witch Hunt",
@@ -1568,8 +1513,7 @@
     "composers": "Shorter, Wayne",
     "year": 1961,
     "meter": "4/4",
-    "key": "c",
-    "blues": false
+    "key": "c"
   },
   {
     "title": "Afro Centric",
