@@ -2156,6 +2156,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
     "chords": "Bb^7 D7 Eb^7 G7 Cm7 G7 Cm7 F7 Dm7 C#o7 Cm7 F7 Dm7 C#o7 Cm7 F7 Bb^7 D7 Eb^7 G7 Cm7 G7 Cm7 F7 Fm7 Bb7 Eb^7 Eo7 Bb^7 G7 Cm7 F7",
     "composers": "Churchill, Frank",
+    "turnaround": -1,
+    "tree": "[.Bb^7 [.F7 [.F7 [.F7 Bb^7 [.F7 [.Cm7 [.G7 D7 [.G7 Eb^7 G7 ] ] [.Cm7 Cm7 [.Cm7 G7 Cm7 ] ] ] F7 ] ] [.F7 [.F7 Dm7 [.F7 C#o7 [.F7 Cm7 F7 ] ] ] [.F7 Dm7 [.F7 C#o7 [.F7 Cm7 F7 ] ] ] ] ] [.F7 [.F7 Bb^7 [.F7 [.Cm7 [.G7 D7 [.G7 Eb^7 G7 ] ] [.Cm7 Cm7 [.Cm7 G7 Cm7 ] ] ] F7 ] ] [.F7 [.Eb^7 [.Eb^7 [.Bb7 Fm7 Bb7 ] Eb^7 ] Eo7 ] [.F7 [.Cm7 Bb^7 [.Cm7 G7 Cm7 ] ] F7 ] ] ] ] Bb^7 ] ",
     "year": 1937,
     "meter": "3/4",
     "key": "B-"
