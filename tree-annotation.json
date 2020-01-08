@@ -2357,6 +2357,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1",
     "chords": "Am Abo7 Gm7 C7 B%7 E7 Am A7 Dm7 G7 C^7 F^7 Bb^7 Bb^7 B%7 E7 Am Abo7 Gm7 C7 B%7 E7 E%7 A7 Dm7 Ebo7 C^ F^7 Bb^7 B%7 E7 Am E7",
     "composers": "Jobim, Antonio Carlos",
+    "turnaround": 1,
+    "tree": "[.Am [.E7 [.Am Am [.Am [.E7 [.B%7 [.C7 Abo7 [.C7 Gm7 C7 ] ] B%7 ] E7 ] Am ] ] [.E7 [.Bb^7 [.F^7 [.C^7 [.G7 [.Dm7 A7 Dm7 ] G7 ] C^7 ] F^7 ] [.Bb^7 Bb^7 Bb^7 ] ] [.E7 B%7 E7 ] ] ] [.Am Am [.Am [.Bb^7 [.F^7 [.Dm7 [.A7 [.E7 [.B%7 [.C7 Abo7 [.C7 Gm7 C7 ] ] B%7 ] E7 ] [.A7 E%7 A7 ] ] Dm7 ] [.F^7 Ebo7 [.F^7 C^ F^7 ] ] ] Bb^7 ] [.Am [.E7 B%7 E7 ] Am ] ] ] ] ",
     "year": 1963,
     "meter": "4/4",
     "key": "a"
