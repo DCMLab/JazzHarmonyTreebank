@@ -2535,6 +2535,7 @@
     "beats": "1 1 1 1 1 1 1 1 3 1 1 3 4 1 1 1 1 1 1 1 1 1 1 3 1 1 3 4 1 1 3 1 3 1",
     "chords": "Eb^7 Ab7 Db7 Eb7 Ab7 D7 Eb^7 Dbm7 Gb7 F%7 Bb7 Bm7 E7 Ab7 Ab7 Eb^7 Ab7 Db7 Eb7 Ab7 D7 Eb^7 Dbm7 Gb7 F%7 Bb7 Bm7 E7 Ab7 Ab7 Gb^7 F7 A7 A7",
     "composers": "Dolphy, Eric",
+    "turnaround": 0,
     "year": 1960,
     "meter": "4/4",
     "key": "E-"
@@ -2545,6 +2546,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 3 1 1",
     "chords": "F#m7 B7 Em7 A7 Am7 D7 G^7 C^7 F#%7 B7 Em7 Em7 C#%7 F#7 F#%7 B7 F#m7 B7 Em7 A7 Am7 D7 B%7 E7 Am7 Cm7 F7 Bm7 E7 A7 Dsus D7 G6 G6",
     "composers": "Mandel, Johnny",
+    "turnaround": 0,
+    "tree": "[.G6 [.B7 [.G^7 [.D7 [.A7 [.Em7 [.B7 F#m7 B7 ] Em7 ] A7 ] [.D7 Am7 D7 ] ] G^7 ] [.B7 [.F#7 [.Em7 [.B7 C^7 [.B7 F#%7 B7 ] ] [.Em7 Em7 Em7 ] ] [.F#7 C#%7 F#7 ] ] [.B7 F#%7 B7 ] ] ] [.G6 [.D7 [.A7 [.E7 [.Bm7 [.Am7 [.E7 [.D7 [.A7 [.Em7 [.B7 F#m7 B7 ] Em7 ] A7 ] [.D7 Am7 D7 ] ] [.E7 B%7 E7 ] ] Am7 ] [.Bm7 [.F7 Cm7 F7 ] Bm7 ] ] E7 ] A7 ] [.D7 Dsus D7 ] ] [.G6 G6 G6 ] ] ] ",
     "year": 1965,
     "meter": "4/4",
     "key": "G"
