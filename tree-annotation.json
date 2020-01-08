@@ -2463,6 +2463,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1",
     "chords": "Bbm7 Db7 Go7 Gbo7 Bbm7 Bbm7 C7 F7 Bbm7 G7 C7 C7 Cm7 F7 Gb^7 Db^ Ebm7 Db^7 C7 F7 Bbm7 Bb7 Ebm7 Ab7 D7 Db^7 G7 Gb7 C7 F7 Bbm7 Bbm7 Bbm7 Bbm7",
     "composers": "Petrucciani, Michel",
+    "turnaround": 0,
     "year": 1998,
     "meter": "4/4",
     "key": "b-"
@@ -2473,6 +2474,7 @@
     "beats": "1 3 1 1 1 3 1 1 1 1 3 1 1 1 1 1 1 1 3 1 1 1 2 3 4 1 1 1 1 1 1 1 1 1",
     "chords": "F^ C^ Dm7 Gm7 C7 C7 Am7 Dm7 Gm7 E%7 A7 Dm7 Eb7 Dm7 Eb7 F^ Eb7 Dm7 Dm Bb^7 Gm7 Gm7 Am7 Bb^ Bo7 Csus F^ D7 Gm7 C7 F^ D7 Gm7 Csus",
     "composers": "Mangione, Chuck",
+    "turnaround": -1,
     "year": 1977,
     "meter": "4/4",
     "key": "F"
@@ -2491,10 +2493,12 @@
   },
   {
     "title": "I Fall In Love Too Easily",
-    "measures": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 11 11 12 12 13 13 13 13 13 14 14 15 15 16 16",
-    "beats": "1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 1 3 1 3 1 3 4 5 6 1 3 1 3 1 3",
-    "chords": "Fm7 Bb7 Eb^7 Ab^7 D%7 G7 Cm A7 D%7 G7 Cm7 Cm7 A%7 D7 D%7 G7 A%7 D7 G7 G%7 C7 Fm7 C7 Fm7 Abm7 Db7 Abm7 Db7 G7 C7 Fm7 Bb7 Eb6 C7",
+    "measures": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 11 11 12 12 13 13 13 14 14 15 15 16 16",
+    "beats": "1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 1 3 1 3 1 3 4 1 3 1 3 1 3",
+    "chords": "Fm7 Bb7 Eb^7 Ab^7 D%7 G7 Cm A7 D%7 G7 Cm7 Cm7 A%7 D7 D%7 G7 A%7 D7 G7 G%7 C7 Fm7 C7 Fm7 Abm7 Db7 G7 C7 Fm7 Bb7 Eb6 C7",
     "composers": "Styne, Jule",
+    "turnaround": 1,
+    "tree": "[.Eb6 [.G7 [.Cm7 [.Cm [.G7 [.Ab^7 [.Eb^7 [.Bb7 Fm7 Bb7 ] Eb^7 ] Ab^7 ] [.G7 D%7 G7 ] ] Cm ] [.Cm7 [.G7 [.D%7 A7 D%7 ] G7 ] [.Cm7 Cm7 Cm7 ] ] ] [.G7 [.D7 A%7 D7 ] [.G7 D%7 G7 ] ] ] [.Eb6 [.Bb7 [.Fm7 [.C7 [.G7 [.D7 A%7 D7 ] G7 ] [.C7 G%7 C7 ] ] Fm7 ] [.Bb7 [.Fm7 C7 Fm7 ] [.Bb7 [.Fm7 [.C7 [.Db7 Abm7 Db7 ] [.C7 G7 C7 ] ] Fm7 ] Bb7 ] ] ] Eb6 ] ] ",
     "year": 1944,
     "meter": "4/4",
     "key": "E-"
