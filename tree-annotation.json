@@ -2345,6 +2345,8 @@
     "beats": "1 1 1 1 5 1 1 1 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1",
     "chords": "Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm Gm C7 C7 C7 C7 Gm Gm Gm F7 E7 Eb7 Eb7 D7 D7 Gm Gm Gm Gm",
     "composers": "Grolnick, Don",
+    "turnaround": 0,
+    "tree": "[.Gm [.Gm [.Gm [.Gm [.Gm [.Gm Gm Gm ] [.Gm Gm Gm ] ] [.Gm [.Gm Gm Gm ] [.Gm Gm Gm ] ] ] [.Gm [.Gm [.Gm Gm Gm ] [.Gm Gm Gm ] ] [.Gm [.Gm Gm Gm ] [.Gm Gm Gm ] ] ] ] [.Gm [.C7 [.C7 C7 C7 ] [.C7 C7 C7 ] ] [.Gm [.Gm Gm Gm ] Gm ] ] ] [.Gm [.D7 [.Eb7 [.E7 F7 E7 ] [.Eb7 Eb7 Eb7 ] ] [.D7 D7 D7 ] ] [.Gm [.Gm Gm Gm ] [.Gm Gm Gm ] ] ] ] ",
     "year": 1987,
     "meter": "4/4",
     "key": "g"
