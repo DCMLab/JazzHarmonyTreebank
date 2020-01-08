@@ -2697,6 +2697,8 @@
     "beats": "1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1",
     "chords": "Bb^7 Bb^7 Eb7 Eb7 Cm7 F7 Bb^7 G7 Cm7 F7 Bb^7 Bb^7 Eb7 Eb7 Cm7 F7 Bb6 Bb6 Fm7 Bb7 Eb^7 Eb^7 Ebm7 Ab7 Db7 Gb7 F7 Bb^7 Bb^7 Eb7 Eb7 Cm7 F7 Bb6 Bb6",
     "composers": "Woode, William Henri & Bird, Bill & McRae, Teddy",
+    "turnaround": 0,
+    "tree": "[.Bb6 [.Bb6 [.Bb^7 [.Bb^7 Bb^7 Bb^7 ] [.Bb^7 [.F7 [.Eb7 Eb7 Eb7 ] [.F7 Cm7 F7 ] ] Bb^7 ] ] [.Bb6 [.Bb^7 [.F7 [.Cm7 G7 Cm7 ] F7 ] [.Bb^7 Bb^7 Bb^7 ] ] [.Bb6 [.F7 [.Eb7 Eb7 Eb7 ] [.F7 Cm7 F7 ] ] [.Bb6 Bb6 Bb6 ] ] ] ] [.Bb6 [.F7 [.Eb^7 [.Bb7 Fm7 Bb7 ] [.Eb^7 Eb^7 Eb^7 ] ] [.F7 [.Gb7 [.Db7 [.Ab7 Ebm7 Ab7 ] Db7 ] Gb7 ] F7 ] ] [.Bb6 [.Bb^7 Bb^7 Bb^7 ] [.Bb6 [.F7 [.Eb7 Eb7 Eb7 ] [.F7 Cm7 F7 ] ] [.Bb6 Bb6 Bb6 ] ] ] ] ] ",
     "year": 1940,
     "meter": "4/4",
     "key": "B-"
@@ -2707,6 +2709,7 @@
     "beats": "1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 3 1 3",
     "chords": "Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Bb7 Bb7 Bb7 Eb7 Eb7 D7 G7 C7 C7 C7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7 Bb7 Eb7",
     "composers": "Ellis, Pee Wee",
+    "turnaround": -1,
     "year": 1982,
     "meter": "4/4",
     "key": "B-"
@@ -2717,6 +2720,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3",
     "chords": "Dm7 G7 Dm7 G7 Dm7 G7 Dm7 G7 C6 C6 Dm7 G7 C^7 C^7 Ebm7 Ab7 Ebm7 Ab7 Dm7 G7 Dm7 G7 Dm7 G7 Dm7 G7 C6 C6 D7 D7 Dm7 G7 C6 Em7 A7",
     "composers": "Kern, Jerome",
+    "turnaround": 2,
+    "tree": "[.C6 [.C^7 [.G7 [.G7 [.G7 Dm7 G7 ] [.G7 Dm7 G7 ] ] [.G7 [.G7 Dm7 G7 ] [.G7 Dm7 G7 ] ] ] [.C^7 [.C6 C6 C6 ] [.C^7 [.G7 Dm7 G7 ] [.C^7 C^7 C^7 ] ] ] ] [.C6 [.G7 [.Ab7 [.Ab7 Ebm7 Ab7 ] [.Ab7 Ebm7 Ab7 ] ] [.G7 [.G7 [.G7 Dm7 G7 ] [.G7 Dm7 G7 ] ] [.G7 [.G7 Dm7 G7 ] [.G7 Dm7 G7 ] ] ] ] [.C6 [.C6 C6 C6 ] [.C6 [.G7 [.D7 D7 D7 ] [.G7 Dm7 G7 ] ] C6 ] ] ] ] ",
     "year": 1942,
     "meter": "4/4",
     "key": "C"
