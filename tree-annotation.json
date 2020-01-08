@@ -2287,6 +2287,7 @@
     "beats": "1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 4",
     "chords": "C7 Ab7 G7 C7 F7 Bb7 Eb6 G7 C7 Ab7 G7 C7 F7 Bb7 Eb6 Eb7 Ab6 Ao7 Eb6 Eb7 Ab6 Ao7 D%7 G7 C7 Ab7 G7 C7 F7 Bb7 Eb6 Ab7 G7",
     "composers": "Redman, Don",
+    "turnaround": 3,
     "year": 1929,
     "meter": "4/4",
     "key": "E-"
@@ -2297,6 +2298,8 @@
     "beats": "1 3 1 3 1 3 1 3 1 3 1 1 1 3 1 3 1 3 1 3 1 3 4 1 3 1 1 3 1 3 1 1 3",
     "chords": "Bb^7 Dbo7 Cm7 F7 Bb^7 Dbo7 Cm7 F7 Dm7 Gm7 C7 C7 Cm7 F7 Bb^7 Dbo7 Cm7 F7 Bb^7 Dbo7 Cm7 Ebm7 Ab7 Dm7 Gm7 C7 Bb^ Gm7 C7 F7 Bb6 Cm7 F7",
     "composers": "Gershwin, George",
+    "turnaround": 2,
+    "tree": "[.Bb6 [.F7 [.F7 [.Bb^7 Bb^7 [.Bb^7 [.F7 Dbo7 [.F7 Cm7 F7 ] ] Bb^7 ] ] [.F7 Dbo7 [.F7 Cm7 F7 ] ] ] [.F7 [.C7 [.Gm7 Dm7 Gm7 ] [.C7 C7 C7 ] ] [.F7 Cm7 F7 ] ] ] [.Bb6 [.Bb^7 Bb^7 [.Bb^7 [.F7 Dbo7 [.F7 Cm7 F7 ] ] Bb^7 ] ] [.Bb6 [.Ab7 Dbo7 [.Ab7 Cm7 [.Ab7 Ebm7 Ab7 ] ] ] [.Bb6 [.F7 [.C7 [.Gm7 Dm7 Gm7 ] C7 ] [.F7 [.C7 Bb^ [.C7 Gm7 C7 ] ] F7 ] ] Bb6 ] ] ] ] ",
     "year": 1928,
     "meter": "4/4",
     "key": "B-"
