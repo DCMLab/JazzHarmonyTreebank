@@ -2801,6 +2801,8 @@
     "beats": "1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3",
     "chords": "G^7 G^7 Am7 D7 D7 D7 G6 Am7 D7 G^7 Bbo7 Am7 D7 Am7 D7 G^7 Am7 D7 G^7 G^7 Am7 D7 B7 B7 E7 E7 E7 E7 A7 Bbo7 G^7 D7 G6 Am7 D7",
     "composers": "Wayne, Mabel",
+    "turnaround": 2,
+    "tree": "[.G6 [.G^7 [.G6 [.G^7 G^7 G^7 ] [.G6 [.D7 Am7 D7 ] [.G6 [.D7 D7 D7 ] G6 ] ] ] [.G^7 [.G^7 [.D7 Am7 D7 ] G^7 ] [.G^7 [.D7 Bbo7 [.D7 Am7 D7 ] ] [.G^7 [.D7 Am7 D7 ] G^7 ] ] ] ] [.G6 [.G^7 [.D7 Am7 D7 ] [.G^7 G^7 G^7 ] ] [.G6 [.D7 Am7 D7 ] [.G6 [.D7 [.A7 [.E7 [.B7 B7 B7 ] [.E7 E7 E7 ] ] [.A7 [.E7 E7 E7 ] A7 ] ] [.D7 Bbo7 [.D7 G^7 D7 ] ] ] G6 ] ] ] ] ",
     "year": 1936,
     "meter": "4/4",
     "key": "G"
