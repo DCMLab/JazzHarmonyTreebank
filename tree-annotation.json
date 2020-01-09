@@ -2941,6 +2941,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 3 1 3",
     "chords": "Ab^7 Ab^7 Ab^7 Ab^7 Ab6 F7 Bb7 Bb7 Bbm7 Eb7 C7 Fm7 Bb7 Bb7 Eb7 Eb7 Ab^7 Ab^7 Ab^7 Ab^7 Ab7 Ab7 Db^7 Db^7 Db^7 Do7 Ab^7 Bb7 Eb7 Ab^7 F7 Bb7 Eb7 Ab6 Eb7",
     "composers": "Pinkard, Maceo & Tauber, Doris & Tracey, William",
+    "turnaround": 1,
+    "tree": "[.Ab6 [.Eb7 [.Ab6 [.Ab^7 [.Ab^7 Ab^7 Ab^7 ] [.Ab^7 Ab^7 Ab^7 ] ] Ab6 ] [.Eb7 [.Bb7 [.Fm7 [.Eb7 [.Bb7 F7 [.Bb7 Bb7 Bb7 ] ] [.Eb7 Bbm7 Eb7 ] ] [.Fm7 C7 Fm7 ] ] [.Bb7 Bb7 Bb7 ] ] [.Eb7 Eb7 Eb7 ] ] ] [.Ab6 [.Ab^7 [.Ab^7 Ab^7 Ab^7 ] [.Ab^7 Ab^7 Ab^7 ] ] [.Ab6 [.Eb7 [.Db^7 [.Ab7 Ab7 Ab7 ] [.Db^7 Db^7 Db^7 ] ] [.Eb7 [.Db^7 Db^7 Do7 ] [.Eb7 [.Bb7 Ab^7 Bb7 ] Eb7 ] ] ] [.Ab6 Ab^7 [.Ab6 [.Eb7 [.Bb7 F7 Bb7 ] Eb7 ] Ab6 ] ] ] ] ] ",
     "year": 1930,
     "meter": "4/4",
     "key": "A-"
