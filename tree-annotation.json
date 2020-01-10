@@ -3136,6 +3136,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1",
     "chords": "F^7 F^7 E%7 A7 Dm7 G7 Cm7 F7 Bb^7 Bbm7 Eb7 F^7 F^7 B%7 E7 Am7 D7 Gm7 C7 F^7 F^7 E%7 A7 Dm7 G7 Cm7 F7 Bb^7 Bbm7 Eb7 A%7 D7 Gm7 C7 F^7 F^7",
     "composers": "Reid, Billy",
+    "turnaround": 0,
+    "tree": "[.F^7 [.C7 [.F^7 [.F^7 F^7 F^7 ] [.F^7 [.Eb7 [.Bb^7 [.F7 [.Cm7 [.G7 [.Dm7 [.A7 E%7 A7 ] Dm7 ] G7 ] Cm7 ] F7 ] Bb^7 ] [.Eb7 Bbm7 Eb7 ] ] [.F^7 F^7 F^7 ] ] ] [.C7 [.Gm7 [.D7 [.Am7 [.E7 B%7 E7 ] Am7 ] D7 ] Gm7 ] C7 ] ] [.F^7 [.F^7 F^7 F^7 ] [.F^7 [.Eb7 [.Bb^7 [.F7 [.Cm7 [.G7 [.Dm7 [.A7 E%7 A7 ] Dm7 ] G7 ] Cm7 ] F7 ] Bb^7 ] [.Eb7 Bbm7 Eb7 ] ] [.F^7 [.C7 [.Gm7 [.D7 A%7 D7 ] Gm7 ] C7 ] [.F^7 F^7 F^7 ] ] ] ] ] ",
     "year": 1945,
     "meter": "4/4",
     "key": "F"
