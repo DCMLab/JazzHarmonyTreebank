@@ -3123,6 +3123,9 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 3 1 3",
     "chords": "F^7 Abo7 Gm7 C7 F^7 Abo7 Gm7 C7 F^7 Cm7 F7 Bb^7 Bb^7 G7 G7 Gm7 C7 F^7 Abo7 Gm7 C7 F^7 Cm7 F7 Bb^7 Bb^7 Bb^7 Bo7 F^7 D7 Gm7 C7 F6 D7 Gm7 C7",
     "composers": "McHugh, Jimmy",
+    "comments": "F^7 (m9) functions both as tonic and dominant to the subdominant Bb^7",
+    "turnaround": 3,
+    "tree": "[.F6 [.C7 [.C7 [.C7 F^7 [.C7 Abo7 [.C7 Gm7 C7 ] ] ] [.C7 F^7 [.C7 Abo7 [.C7 Gm7 C7 ] ] ] ] [.C7 [.Bb^7 [.F7 F^7 [.F7 Cm7 F7 ] ] [.Bb^7 Bb^7 Bb^7 ] ] [.C7 [.G7 G7 G7 ] [.C7 Gm7 C7 ] ] ] ] [.F6 [.C7 [.Bb^7 [.F7 [.C7 F^7 [.C7 [.Abo7 Abo7 ] [.C7 Gm7 C7 ] ] ] [.F7 F^7 [.F7 Cm7 F7 ] ] ] [.Bb^7 Bb^7 Bb^7 ] ] [.C7 [.Bb^7 Bb^7 Bo7 ] [.C7 [.Gm7 F^7 [.Gm7 D7 Gm7 ] ] C7 ] ] ] F6 ] ] ",
     "year": 1928,
     "meter": "4/4",
     "key": "F"
