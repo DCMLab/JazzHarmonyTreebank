@@ -238,7 +238,7 @@ ax2.legend()
 
 ax3.set_xlabel('Length')
 ax3.set_ylabel('Max tree depth')
-ax3.set_title('The maximum depths of tree analyses.\nThe lower and upper lines show the lower and upper bounds possible for depth at a specific length')
+ax3.set_title('The maximum depths of tree analyses. We omit 4 tunes with width above 40\nThe lower and upper lines show the lower and upper bounds possible for depth at a specific length')
 
 ax4.set_xlabel('Turnaround length')
 ax4.set_ylabel('Count')
