@@ -171,7 +171,8 @@ label='Analysed')
 #Plotting the coverage of tunes over chord sequence lengths (omitting the 42 longest tunes)
 indexlengths = sorted(lengths.keys())
 bar_width = 1
-opacity = 0.5
+opacity = 0.8
+
 
 sortedlengths = sorted(lengths.items())
 
@@ -180,11 +181,14 @@ alpha=opacity,
 color='b',
 label='Total')
 
+opacity = 0.5
+
 treelengths = ax2.bar(indexlengths, list(map(lambda x: x[1][1], sortedlengths)), bar_width,
 alpha=opacity,
 color='w',
 label='Analysed')
 
+opacity = 0.8
 
 # Plotting the widths and heights of analysed trees - We also draw the maximum and minimum possible depths assuming only binary rules used
 ax3.plot(list(map(lambda x: x[1],depths)), list(map(lambda x: x[3], depths)), 'o')
