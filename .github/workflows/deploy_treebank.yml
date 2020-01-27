@@ -23,6 +23,9 @@ jobs:
     - name: update treebank
       run: |
         python generate_treebank.py
+    - name: update plots
+      run: |
+        python generate_plots.py
     - name: deploy treebank
       uses: peaceiris/actions-gh-pages@v2.5.1
       env:

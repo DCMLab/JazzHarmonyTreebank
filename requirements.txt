@@ -1,2 +1,5 @@
 lark-parser
 Wand
+numpy
+matplotlib
+
