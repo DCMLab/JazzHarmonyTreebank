@@ -36328,12 +36328,7 @@
                         },
                         {
                           "label": "Fm7",
-                          "children": [
-                            {
-                              "label": "Fm7",
-                              "children": []
-                            }
-                          ]
+                          "children": []
                         }
                       ]
                     }
@@ -58007,12 +58002,7 @@
                               "children": [
                                 {
                                   "label": "Abo7",
-                                  "children": [
-                                    {
-                                      "label": "Abo7",
-                                      "children": []
-                                    }
-                                  ]
+                                  "children": []
                                 },
                                 {
                                   "label": "C7",
