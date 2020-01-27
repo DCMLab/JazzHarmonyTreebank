@@ -55475,17 +55475,12 @@
                               "label": "Eb7",
                               "children": [
                                 {
+                                  "label": "Bbm7",
+                                  "children": []
+                                },
+                                {
                                   "label": "Eb7",
-                                  "children": [
-                                    {
-                                      "label": "Bbm7",
-                                      "children": []
-                                    },
-                                    {
-                                      "label": "Eb7",
-                                      "children": []
-                                    }
-                                  ]
+                                  "children": []
                                 }
                               ]
                             },
