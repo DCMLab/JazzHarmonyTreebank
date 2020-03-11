@@ -61802,17 +61802,12 @@
                           "label": "G7",
                           "children": [
                             {
+                              "label": "D%7",
+                              "children": []
+                            },
+                            {
                               "label": "G7",
-                              "children": [
-                                {
-                                  "label": "D%7",
-                                  "children": []
-                                },
-                                {
-                                  "label": "G7",
-                                  "children": []
-                                }
-                              ]
+                              "children": []
                             }
                           ]
                         },
