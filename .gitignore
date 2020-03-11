@@ -3,3 +3,5 @@
 __pycache__
 .vscode
 *.ipynb
+public/treebank.json
+explore_treebank.py
