@@ -3183,6 +3183,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1 3 1 1 3 1 1",
     "chords": "Eb7 Ebm7 Db^7 Db^7 Ebm7 Ebm7 Db^7 Bb7 Eb7 Ebm7 Db^7 Db^7 Ebm7 Ebm7 Db^7 Db^7 Fm Fm Eb^7 Eb^7 Fm Fm Bsus F^7 Ebsus Eb7 Absus Ab7 F%7 Bbsus Bb7 Ebm7 Absus Ab7 Db^7 Absus",
     "composers": "Deodato, Eumir & Valle, Paulo",
+    "turnaround": 1,
     "year": 1965,
     "meter": "4/4",
     "key": "E-"
@@ -3193,6 +3194,8 @@
     "beats": "1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1",
     "chords": "Eb6 Eb7 Abm6 Abm6 Eb^ Bb7 Eb^ Ao7 Fm7 Bb7 Eb6 Eb7 Abm6 Abm6 Eb^ Bb7 Eb^ Eb^ A%7 D7 Gm7 Gm7 A%7 D7 Gm7 Gb7 Fm7 Bb7 Eb6 Eb7 Abm6 Abm6 Eb^ Bb7 Eb^ Eb^",
     "composers": "Skilkret, Nathaniel",
+    "turnaround": 0,
+    "tree": " ",
     "year": 1928,
     "meter": "4/4",
     "key": "E-"
@@ -3203,6 +3206,7 @@
     "beats": "1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 3 1 1 3",
     "chords": "Bb^7 G7 Cm7 A7 Bb^7 D7 Eb^7 D%7 G7 Cm7 A7 Bb^7 G7 C7 C7 Cm7 F7 Bb^7 G7 Cm7 A7 Bb^7 D7 Eb^7 D%7 G7 Cm7 Ab7 Bb^7 G7 C7 Cm7 F7 Bb6 Cm7 F7",
     "composers": "Loesser, Frank",
+    "turnaround": 2,
     "year": 1948,
     "meter": "4/4",
     "key": "B-"
@@ -3213,6 +3217,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 3 1 1 3 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1",
     "chords": "Gm7 C7 C7 C7 F^7 Bb7 Am7 Abo7 Gm7 C7 Bb7 Am7 D7 D7 Bm7 E7 A6 A%7 D7 Gm7 C7 C7 C7 F^7 Bb7 Am7 Abo7 Gm7 C7 Bb7 Am7 D7 Gm7 C7 F6 F6",
     "composers": "Foster, Frank",
+    "turnaround": 0,
     "year": 1955,
     "meter": "4/4",
     "key": "F"
@@ -3223,6 +3228,7 @@
     "beats": "1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3",
     "chords": "Eb^7 Eb^7 Eo7 Eo7 Fm7 Bb7 Eb^7 Bbm7 Eb7 Ab^7 Ab^7 Ao7 Ao7 Bbm7 Eb7 Ab^7 Ab^7 Fm7 Bb7 Eb^7 Eb^7 D%7 G7 Cm7 F7 Fm7 Bb7 Eb^7 Eb^7 G%7 C7 Fm7 Bb7 Eb^7 Fm7 Bb7",
     "composers": "Gershwin, George",
+    "turnaround": 2,
     "year": 1929,
     "meter": "4/4",
     "key": "E-"
@@ -3244,6 +3250,8 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1",
     "chords": "F^7 F^7 Bb7 Bb7 F^7 Dm7 Gm7 C7 F^7 F^7 Bb7 Bb7 Am7 Dm7 Gm7 C7 F6 F6 Em7 A7 Dm7 Dm7 A%7 D7 Gm7 C7 F^7 F^7 Bb7 Bb7 Am7 Dm7 Gm7 C7 F6 F6",
     "composers": "Rodgers, Richard",
+    "turnaround": 0,
+    "tree": "[.F6 [.F6 [.C7 [.F^7 [.F^7 F^7 F^7 ] [.F^7 [.Bb7 Bb7 Bb7 ] F^7 ] ] [.C7 [.Gm7 Dm7 Gm7 ] C7 ] ] [.F6 [.F^7 F^7 F^7 ] [.F6 [.C7 [.Gm7 [.Dm7 [.Am7 [.Bb7 Bb7 Bb7 ] Am7 ] Dm7 ] Gm7 ] C7 ] [.F6 F6 F6 ] ] ] ] [.F6 [.C7 [.Gm7 [.Dm7 [.A7 Em7 A7 ] [.Dm7 Dm7 Dm7 ] ] [.Gm7 [.D7 A%7 D7 ] Gm7 ] ] C7 ] [.F6 [.F^7 F^7 F^7 ] [.F6 [.C7 [.Gm7 [.Dm7 [.Am7 [.Bb7 Bb7 Bb7 ] Am7 ] Dm7 ] Gm7 ] C7 ] [.F6 F6 F6 ] ] ] ] ] ",
     "year": 1938,
     "meter": "4/4",
     "key": "F"
