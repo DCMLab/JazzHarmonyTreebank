@@ -61,3 +61,11 @@ def plot_qtree(qtree_str, resolution=300, print_log=False):
             print(log)
         img = Image(filename = d + "/main.pdf", resolution=resolution)
     return img
+
+def leaf_labels(tree):
+  if len(tree['children']) == 0:
+    yield tree['label']
+  else:
+    for child in tree['children']:
+      for label in leaf_labels(child):
+        yield label
