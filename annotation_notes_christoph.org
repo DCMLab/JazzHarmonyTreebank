@@ -1,0 +1,116 @@
+* General
+
+- initial tonic
+- blues form (esp. IV)
+
+* Pieces [15/25]
+
+** DONE Red Clay [OK]
+
+- initial tonic low? (I-V?)
+- sus chords are weird, but probably right
+
+** DONE Equinox [OK]
+
+- blues IV problem
+
+** DONE The Jody Grind [OK]
+
+- blues IV problem
+- holy sh*t, dat VII-bII-I
+  - nice
+
+** DONE Mr. P.C. [OK]
+
+- blues IV problem
+
+** DONE Blues For Wood [OK]
+
+- blues IV problem (here as bVI)
+
+** DONE Interplay [OK]
+
+- blues IV problem
+
+** TODO Solar [OK]                                                  :discuss:
+
+- alternative option: prep F Db, prep Db C, prep G C
+  - feels like a double preparation, not prol Db G, but prep F Db is weird
+
+** DONE Birk's Works [OK]
+
+- blues IV problem
+- transcription questionable, but not significantly
+
+** DONE Blue in Green [OK]
+
+- transcription a bit weird: chorus + ending
+
+** TODO Booker's Waltz [?]                                          :discuss:
+
+- would attach Eb7 higher
+  - preparing Fm7 or
+  - preparing Ab
+- rest ok
+
+** DONE Contemplation [OK]
+
+** TODO Friday the 13th [?]                                         :discuss:
+
+- here turnaround as I-V, in other cases (Solar) missing I added
+- would prefer double preparation F7 and D7
+  - but prol also ok
+
+** TODO If you never come to me [?]                                 :discuss:
+
+- improvement: Dm7 - Fm7 as double prep
+  - Dm7 prepares G7 -> subst by Bb7 -> prepared again by Fm7
+- disagree: Bb7 - E7 is interruption, Bb7 is global D, E7 is applied
+  - either double prep of C (from Bb7 and G7)
+  - or prol Bb7 G7
+- alternative: G7 (and possibly Bb7) prepare final Cmaj7
+  - C7 is applied to F, but otherwise detached
+  - reason: G7 sounds like global dominant, should prepare global tonic
+    - G7 C7 is nice surface trick, but more like interruption
+- alternative: Bbmaj7 does not prepare A7 but prolongs D-region (Bb7 later on)
+  - Bmaj7 is technically a VL thing, but can still be seen as prep of Bbmaj7
+
+** DONE Pent Up House [OK]
+
+** TODO Sweet Georgia Bright [OK,?]                                 :discuss:
+
+- improvement: second Bb7 does not go to Eb7 but to final C7
+- constituents: should the 2nd Bb7 belong to the first part?
+
+** DONE Valse Hot [OK]
+
+** DONE Wayne's Thang [OK]
+
+** DONE We will meet again [OK]
+
+** TODO Blue Bossa [OK,?]                                           :discuss:
+
+- disagree: bII is a subdominant!!!
+
+** DONE Israel [OK]
+
+** DONE Mac the Knife [OK]
+
+** TODO Sugar [?]                                              :constituents:
+
+- why start doing I-V stuff here but not elsewhere?
+  - doesn't make sense for 1st 4 bars -> G7 is more turnaround than HC
+  - maybe different for 2nd 4 bars
+
+** TODO When the saints go marching in [?]                     :constituents:
+
+- constituents inconsistent
+  - why not I-V for complete first half?
+  - why resolved to the first I in 2nd part, not last?
+
+** TODO Work song                                              :constituents:
+
+- fine except for I-V
+
+** TODO Beatrice
+
