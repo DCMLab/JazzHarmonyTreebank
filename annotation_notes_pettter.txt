@@ -1,0 +1,48 @@
+Corvocado : OK 
+
+
+'How High The Moon' : I-V open constituent
+
+
+'You Stepped Out Of A Dream': Deep I-V open constituent
+
+I get why it's drawn as it is, but to me it feels weird connecting the Db7
+to Eb rather than C
+
+
+"This Can't Be Love" : I-V open constituent in first A
+
+Different from the Fakebook transscription - not so easy to check for me
+
+'Take The A Train' : 
+
+Should maybe actually be a I-V constituent if the first A turnaround is
+included in the tree? (G7 treelet at 0100) That turnaround is omitted e.g.
+in the fakebook (it does have a Db9 going back to the C starting the final
+A part).
+
+'Just In Time' : I-II open constituent(?)
+
+Why are some Gm in treelet at 100 part of their own tree, while one is
+hanging off the top C7? "Tonicization" vs preparation?
+
+
+'Just Friends' : I-V open constituent
+
+Again transcriptions differ. In the real book, the G7 at 10000 is a Db7
+(movement by semitone vs by fifth). Also, the F#%7 at 11000100 is omitted.
+
+'Jersey Bounce' : Strangely _not_ a I-V open constituent?
+
+
+
+
+
+
+
+
+
+
+
+
+
