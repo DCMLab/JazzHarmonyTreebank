@@ -34,6 +34,37 @@ Again transcriptions differ. In the real book, the G7 at 10000 is a Db7
 
 'Jersey Bounce' : Strangely _not_ a I-V open constituent?
 
+After discussion with Daniel - this _should_ be a I-V open constituent in
+the first A-part, meaning the Abo7 and Gm7 at 01000 and 010010 respectively
+should form the right-most part of the subtree at 00
+
+"I'll Close My Eyes" : I-V open constituent
+
+It's not obvious to me what part of the turnaround/half cadence should end
+up on which side of the tree (especially since the transcription I find has
+a Abo7 instead of the D7, and a Gb7/C instead of a C7 - but that's
+basically the same..). After some thought and discussion with Daniel, it is
+either fine as it is, or it is possbly a very long turnaround.
+
+"I Can't Give You Anything But Love" : i-V open constituents en masse
+
+The question here is, again whether these are half cadences or turnarounds.
+Not an easy decision.
+
+"I Can't Believe...You're In Love..."
+
+Another one I can't find a lead sheet or recording of right away.
+
+'Hackensack' : OK
+
+'Fine Romance, A' : Open I-V constituent
+
+I'm not sure if the second chord is a preparation of the third (as
+written), or a prolongation of the first (similar for the fourth, and also
+in the repeat ofc), but this depends a bit on how you feel the phrasing in
+the melody. 
+
+
 
 
 
