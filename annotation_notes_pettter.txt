@@ -78,10 +78,27 @@ Book I, I have an Ab as the first chord of the last four bars (it's a Cm in
 the tree), which - I would argue - does not necessarily prepare the
 following F7, but rather serves as a prolongation of the final tonic.
 
+'Day By Day' : Open I-V constituent?
 
+The tune is ultimately in G, but plays around to such a degree in A dorian
+that it almost acts as a secondary tonic, especially around the move
+between A and B - specifically, I read the annotation of the A7-E7 treelet
+that spans the A part as a "II-VI" (or (I-V)/ii) open constituent. 
 
+I might also include the last Am7 of part A as part of the left-hand
+treelet, but this is a separate issue.
 
+'Dancing in the Dark : Open I-V constituent
 
+No transcription, I don't know the tune
+
+'Candy'
+
+Pretty straightforward, though one may quibble about the exact way the A
+phrase is broken down hierarchically - I personally don't understand why
+the Eb is privileged as preparing the Bb rather than part of the general
+chromatic descending pattern down to Cm, but this may be something that is
+clearer with explanation.
 
 
 
