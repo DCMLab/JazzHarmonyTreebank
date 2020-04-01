@@ -1,5 +1,6 @@
-Corvocado : OK 
+'Corvocado' : 
 
+OK 
 
 'How High The Moon' : I-V open constituent
 
@@ -10,7 +11,7 @@ I get why it's drawn as it is, but to me it feels weird connecting the Db7
 to Eb rather than C
 
 
-"This Can't Be Love" : I-V open constituent in first A
+'This Can't Be Love' : I-V open constituent in first A
 
 Different from the Fakebook transscription - not so easy to check for me
 
@@ -38,7 +39,7 @@ After discussion with Daniel - this _should_ be a I-V open constituent in
 the first A-part, meaning the Abo7 and Gm7 at 01000 and 010010 respectively
 should form the right-most part of the subtree at 00
 
-"I'll Close My Eyes" : I-V open constituent
+'I'll Close My Eyes' : I-V open constituent
 
 It's not obvious to me what part of the turnaround/half cadence should end
 up on which side of the tree (especially since the transcription I find has
@@ -46,12 +47,12 @@ a Abo7 instead of the D7, and a Gb7/C instead of a C7 - but that's
 basically the same..). After some thought and discussion with Daniel, it is
 either fine as it is, or it is possbly a very long turnaround.
 
-"I Can't Give You Anything But Love" : i-V open constituents en masse
+'I Can't Give You Anything But Love' : i-V open constituents en masse
 
 The question here is, again whether these are half cadences or turnarounds.
 Not an easy decision.
 
-"I Can't Believe...You're In Love..."
+'I Can't Believe...You're In Love...'
 
 Another one I can't find a lead sheet or recording of right away.
 
@@ -115,6 +116,56 @@ like
 [.$Ab$ [.$Ebm7$ [.$Bbm7$ [.$F7$ [.$F7$ [.$F7$ [.$Ebm7$ $Bbm7$ $Ebm7$ ] [.$F7$ $Cm7$ $F7$ ] ] ] [.$F7$ [.$Ebm7$ $Bbm7$ $Ebm7$ ] [.$F7$ [.$F7$ $Gb$ $F7$ ] ] ] ] $Bbm7$ ] $Ebm7$ ] $Ab$ ]
 
 which uses open constituents.
+
+'Zingaro (Retrato Em Branco E Preto)' Open I-V constituent
+
+I don't know the tune, can't say anything more..
+
+'Why Do I Love You?' Open I-V constituents (four of them)
+
+OK, I think.
+
+'Time On My Hands'
+
+OK, as far as I can tell
+
+'Them There Eyes' Open I-V constituent
+
+Might instead be a I-ii open constituent if we move the treelet rooted at
+the Bb7 at 010000 to be the head of the Ab tree at 00 (aligning with the
+way things are arranged in the B part). This may definitely make things
+more complex though, and requires "open predominants".
+
+'Stella by Starlight'
+
+OK
+
+'So Nice (Summer Samba)' Open I-V constituent
+
+Apart from that mostly OK. Do you see Eb7 as preparing or prolonging the
+C7?
+
+'Remember'
+
+OK
+
+'Nuages' Open I-V constituent
+
+OK otherwise.
+
+'My Melancholy Baby' Open I-V constituent
+
+Looks OK, but I can't necessarily match the chords to the tune
+
+'Look For The Silver Lining' Open I-V constituent
+
+LGTM
+
+'In A Little Spanish Town'
+
+
+
+
 
 
 
