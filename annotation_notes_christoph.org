@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Pieces [15/25]
+* Pieces [22/50]
 
 ** DONE Red Clay [OK]
 
@@ -112,5 +112,110 @@
 
 - fine except for I-V
 
-** TODO Beatrice
+** TODO Beatrice                                                    :discuss:
 
+- first two Dm are relative tonic
+- going to Am and onward is F5S back to tonic
+- can be seen differently, but what is Dm7-Bbm7? hex?
+
+** TODO Jackie-ing                                             :constituents:
+
+- mark HC
+
+** TODO Ladie Bird                                                  :discuss:
+
+- Am7 D7 is another preparation, not prol of A7
+
+** TODO On The Trail                                           :constituents:
+
+- mark HC
+
+** DONE Peace
+
+** TODO Sunny                                                  :constituents:
+
+- mark HC
+
+** TODO United                                                      :discuss:
+
+- encode II-V-Is on Bb, Gb, and F as P-D-T
+
+** TODO Funkallero                                                  :discuss:
+
+- Abmaj7 establishes P, prepares G
+- Db7 prepares Cm7
+
+** TODO Yesterdays                                                  :discuss:
+
+- HCs in the beginning?
+- Dm7 prepares E7? ("departing I")
+
+** DONE Afro Blue
+
+** TODO Blue Daniel                                                 :discuss:
+
+- Dmaj7 in the middle is new tonic
+  - C7 after that is backdoor to D6
+
+** DONE Blues for Alice
+
+** TODO Brotherhood of Man                             :constituents:discuss:
+
+- mark HC
+- HC not correctly connected (should look forward)
+
+** DONE Freight Train
+
+** TODO Got a Match?                                                :discuss:
+
+- A7 in middle prepares pre-final tonic
+  - Gm7 tree prepares that A7
+  - Eb7 tree interrupts the dominant 
+    - either prol or double prep
+
+** TODO Half Nelson                                                 :discuss:
+
+- Ab7 D7 double prep
+
+** TODO Leaving                                                :typo:discuss:
+
+- typo: last chord should be Bb?
+- makes middle Bmaj7 top-level
+  - Gm7 in beginning prol of tonic
+
+** DONE The Old Country
+
+** TODO The Preacher                                                :discuss:
+
+- HC at middle?
+- A7 prepares D7 (as well as C7 between them)
+- transcription errors: C7s after Bo should be Fs
+
+** DONE Recordame
+
+** TODO Just A Gigolo                                               :discuss:
+
+- Gm7 doesn't go to D7 but prolongs next Gm7
+
+** DONE Little Boat
+
+** TODO Armando's Rhumba                                               :typo:
+
+- chords are weird around Abo7 D7
+  - but structure is correct either way
+
+** TODO Summertime                                             :constituents:
+
+- mark HC
+
+** TODO Why Don't You Do Right?                                     :discuss:
+
+- HC?
+- B%7 doesn't prepare A7
+  - either prol of Dm7 (same oct) or prep Bb7
+
+** TODO Bluesette                                                   :discuss:
+
+- F7 is prolonged, 2nd to last F7 does not prep G7
+- (opt) Bmaj7 as double prep instead of prol to F7?
+- (opt) Gm7 as prol of tonic (but also ok like this)
