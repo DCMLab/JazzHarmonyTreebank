@@ -3,63 +3,52 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Pieces [22/50]
+* Discussed Pieces [13/32]
 
-** DONE Red Clay [OK]
+** TODO Red Clay
 
-- initial tonic low? (I-V?)
+- mark HC
 - sus chords are weird, but probably right
 
-** DONE Equinox [OK]
+** DONE Equinox
 
-- blues IV problem
+** TODO The Jody Grind
 
-** DONE The Jody Grind [OK]
+- bind first 2 parts
 
-- blues IV problem
-- holy sh*t, dat VII-bII-I
-  - nice
+** DONE Mr. P.C.
 
-** DONE Mr. P.C. [OK]
+** DONE Blues For Wood
 
-- blues IV problem
+** TODO Interplay
 
-** DONE Blues For Wood [OK]
+- 2nd part not a constituent
 
-- blues IV problem (here as bVI)
+** TODO Solar                                                       :discuss:
 
-** DONE Interplay [OK]
+- double prep of Dbmaj7 and G7 (turnaround) to Cmmaj7
+- connection of Fmaj7 as global or local?
+- Bb7 as global dominant?
+  - "deceptive" cadence or no?
+  - add comment!
+ 
+** DONE Birk's Works
 
-- blues IV problem
-
-** TODO Solar [OK]                                                  :discuss:
-
-- alternative option: prep F Db, prep Db C, prep G C
-  - feels like a double preparation, not prol Db G, but prep F Db is weird
-
-** DONE Birk's Works [OK]
-
-- blues IV problem
-- transcription questionable, but not significantly
-
-** DONE Blue in Green [OK]
-
-- transcription a bit weird: chorus + ending
+** DONE Blue in Green
 
 ** TODO Booker's Waltz [?]                                          :discuss:
 
 - would attach Eb7 higher
   - preparing Fm7 or
   - preparing Ab
-- rest ok
+  - add comment!
 
-** DONE Contemplation [OK]
+** DONE Contemplation
 
 ** TODO Friday the 13th [?]                                         :discuss:
 
-- here turnaround as I-V, in other cases (Solar) missing I added
-- would prefer double preparation F7 and D7
-  - but prol also ok
+- 4 open const. + missing final tonic
+  - F and D double prep
 
 ** TODO If you never come to me [?]                                 :discuss:
 
@@ -72,15 +61,13 @@
   - C7 is applied to F, but otherwise detached
   - reason: G7 sounds like global dominant, should prepare global tonic
     - G7 C7 is nice surface trick, but more like interruption
-- alternative: Bbmaj7 does not prepare A7 but prolongs D-region (Bb7 later on)
-  - Bmaj7 is technically a VL thing, but can still be seen as prep of Bbmaj7
 
-** DONE Pent Up House [OK]
+** DONE Pent Up House
 
 ** TODO Sweet Georgia Bright [OK,?]                                 :discuss:
 
-- improvement: second Bb7 does not go to Eb7 but to final C7
-- constituents: should the 2nd Bb7 belong to the first part?
+- C7 Bb7 -> 2 open const. in the first part
+  - second Bb7 does not go to Eb7 but to final C7
 
 ** DONE Valse Hot [OK]
 
@@ -96,27 +83,26 @@
 
 ** DONE Mac the Knife [OK]
 
-** TODO Sugar [?]                                              :constituents:
+** TODO Sugar [?]                                      :constituents:discuss:
 
-- why start doing I-V stuff here but not elsewhere?
-  - doesn't make sense for 1st 4 bars -> G7 is more turnaround than HC
-  - maybe different for 2nd 4 bars
+- mark open const.
+- first 4 bars are not open const., bar 4 is pickup
+- second part should go to second house -> not open, resolves to I
 
 ** TODO When the saints go marching in [?]                     :constituents:
 
-- constituents inconsistent
-  - why not I-V for complete first half?
-  - why resolved to the first I in 2nd part, not last?
+- middle Fmaj7 should go to end
+- mark open const.
 
 ** TODO Work song                                              :constituents:
 
-- fine except for I-V
+- mark open const.
 
 ** TODO Beatrice                                                    :discuss:
 
-- first two Dm are relative tonic
-- going to Am and onward is F5S back to tonic
-- can be seen differently, but what is Dm7-Bbm7? hex?
+- first 2 Dm7 go together
+- connect to big D(m)7 section
+- falling fifths from there
 
 ** TODO Jackie-ing                                             :constituents:
 
@@ -124,7 +110,7 @@
 
 ** TODO Ladie Bird                                                  :discuss:
 
-- Am7 D7 is another preparation, not prol of A7
+- Am7 D7 is another preparation G7
 
 ** TODO On The Trail                                           :constituents:
 
@@ -143,7 +129,11 @@
 ** TODO Funkallero                                                  :discuss:
 
 - Abmaj7 establishes P, prepares G
-- Db7 prepares Cm7
+- Db7 prepares adjacent Cm7 (local transition)
+
+
+* Piece Reviews [6/18]
+
 
 ** TODO Yesterdays                                                  :discuss:
 
