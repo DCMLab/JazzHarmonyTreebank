@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [42/50]
+* Discussed Pieces [43/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -175,7 +175,8 @@
 
 ** DONE Freight Train
 
-** TODO Got a Match?                                                :discuss:
+** DONE Got a Match?                                                :discuss:
+   CLOSED: [2020-04-15 Wed 17:24]
 
 - A7 constituent from bar 9 to 12 
   - Gm7 tree prepares that A7
