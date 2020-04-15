@@ -413,7 +413,7 @@
     "keys": "Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab Ab",
     "turnaround": 2,
     "tree": "[.Ab^7 [.Ab^7 Ab^7 [.Ab^7 [.Fm7 [.C7 Eb7 [.C7 G%7 C7 ] ] Fm7 ] [.Ab^7 [.Db7 [.Bb7 Db7 Bb7 ] Db7 ] Ab^7 ] ] ] [.Ab^7 [.Eb7 [.Bbm7 B7 Bbm7 ] Eb7 ] [.Ab^7 Ab^7 Ab^7 ] ] ] ",
-    "comments": "\"\"\"http://www.guitarcats.com/realbook-jazz-standards/bookers-waltz\"\" show different chords\"",
+    "comments": "Eb7 in measure 2 has a double function. It also refers to the main tonic chord Ab^7.",
     "composers": "Little, Booker",
     "year": 1961,
     "meter": "3/4",
