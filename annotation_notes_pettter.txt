@@ -62,6 +62,8 @@ a Abo7 instead of the D7, and a Gb7/C instead of a C7 - but that's
 basically the same..). After some thought and discussion with Daniel, it is
 either fine as it is, or it is possbly a very long turnaround.
 
+DONE (open constituent annotated)
+
 ** 'I Can't Give You Anything But Love' : i-V open :constituent:s en masse
 
 The question here is, again whether these are half cadences or turnarounds.
