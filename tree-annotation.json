@@ -819,7 +819,7 @@
     "chords": "Am7 C7 F^7 B%7 E7 Am7 C7 F^7 B%7 E7 Am7 C7 F^7 Bb7 B%7 E7 Am7 E7",
     "keys": "Am Am Am Am Am Am Am Am Am Am Am Am Am Am Am Am Am Am",
     "turnaround": 1,
-    "tree": "[.Am7 [.E7 [.E7 Am7 [.E7 [.F^7 C7 F^7 ] [.E7 B%7 E7 ] ] ] [.E7 Am7 [.E7 [.F^7 C7 F^7 ] [.E7 B%7 E7 ] ] ] ] [.Am7 [.Bb7 Am7 [.Bb7 [.F^7 C7 F^7 ] Bb7 ] ] [.Am7 [.E7 B%7 E7 ] Am7 ] ] ] ",
+    "tree": "[.Am7 [.E7* [.E7* Am7 [.E7 [.F^7 C7 F^7 ] [.E7 B%7 E7 ] ] ] [.E7* Am7 [.E7 [.F^7 C7 F^7 ] [.E7 B%7 E7 ] ] ] ] [.Am7 [.Bb7* Am7 [.Bb7 [.F^7 C7 F^7 ] Bb7 ] ] [.Am7 [.E7 B%7 E7 ] Am7 ] ] ] ",
     "composers": "Hebb, Bobby",
     "year": 1963,
     "meter": "4/4",

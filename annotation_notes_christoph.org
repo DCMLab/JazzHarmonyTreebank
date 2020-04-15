@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [36/50]
+* Discussed Pieces [37/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -134,7 +134,8 @@
 
 ** DONE Peace
 
-** TODO Sunny                                                  :constituents:
+** DONE Sunny                                                  :constituents:
+   CLOSED: [2020-04-15 Wed 17:07]
 
 - mark HC
 
