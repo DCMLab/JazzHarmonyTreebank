@@ -77,12 +77,16 @@ Another one I can't find a lead sheet or recording of right away.
 
 ** 'Hackensack' : OK
 
+DONE
+
 ** 'Fine Romance, A' : I-V open :constituent:
 
 I'm not sure if the second chord is a preparation of the third (as
 written), or a prolongation of the first (similar for the fourth, and also
 in the repeat ofc), but this depends a bit on how you feel the phrasing in
 the melody. 
+
+DONE (open constituent annotated)
 
 ** 'Donna Lee' : I-V open :constituent:
 
