@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [49/50]
+* Discussed Pieces [50/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -231,7 +231,8 @@
 - open lamento constituents
 - B%7 prepares Bb7
 
-** TODO Bluesette                                                   :discuss:
+** DONE Bluesette                                                   :discuss:
+   CLOSED: [2020-04-15 Wed 17:56]
 
 - F7 is prolonged, 2nd to last F7 does not prep G7
 - Bmaj7 as double prep instead of prol to F7?
