@@ -13,6 +13,8 @@ to Eb rather than C
 
 Db as voice leading constituent between C and Eb
 
+DONE
+
 ** 'This Can't Be Love' :TODO check it!: I-V open :constituent: in first A
 
 Different from the Fakebook transscription - not so easy to check for me
