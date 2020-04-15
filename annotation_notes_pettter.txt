@@ -37,12 +37,14 @@ C#o7 prep for Bb6
 Bb6 is a "low tonic" problem? Should be looked at for future developments
 of theory - see also The Preacher. 
 
-DONE (comment about Bb6 in measure 21 added)
+DONE (comment about Bb6 in measure 21 added, annotate open constituent)
 
 ** 'Just Friends' : I-V open :constituent:
 
 Again transcriptions differ. In the real book, the G7 at 10000 is a Db7
 (movement by semitone vs by fifth). Also, the F#%7 at 11000100 is omitted.
+
+DONE (annotate open constituent)
 
 ** 'Jersey Bounce' : Strangely _not_ a I-V open :constituent:?
 
