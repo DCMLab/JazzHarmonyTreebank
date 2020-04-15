@@ -469,7 +469,7 @@
     "chords": "C^7 B^7 Bb^7 A7 Dm7 Dm7 Fm7 Bb7 E7 A7 D7 G7 C7 F7 C^7 Db7",
     "keys": "C C C C C C C C C C C C C C C C",
     "turnaround": 1,
-    "tree": "[.C^7 C^7 [.C^7 [.F7 [.C7 [.G7 [.D7 [.A7 [.E7 [.Bb7 [.Fm7 [.Dm7 [.A7 [.Bb^7 B^7 Bb^7 ] A7 ] [.Dm7 Dm7 Dm7 ] ] Fm7 ] Bb7 ] E7 ] A7 ] D7 ] G7 ] C7 ] F7 ] C^7 ] ] ",
+    "tree": "[.C^7 [.Bb7* C^7 [.Bb7 [.Dm7 [.A7 [.Bb^7 B^7 Bb^7 ] A7 ] [.Dm7 Dm7 Dm7 ] ] [.Bb7 Fm7 Bb7 ] ] ] [.C^7 [.G7 [.D7 [.A7 E7 A7 ] D7 ] G7 ] [.C^7 [.F7 C7 F7 ] C^7 ] ] ] ",
     "composers": "Jobim, Antonio Carlos",
     "year": 1964,
     "meter": "4/4",
