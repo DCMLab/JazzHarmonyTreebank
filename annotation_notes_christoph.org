@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [39/50]
+* Discussed Pieces [41/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -150,14 +150,16 @@
 - Abmaj7 establishes P, prepares G
 - Db7 prepares adjacent Cm7 (local transition)
 
-** TODO Yesterdays                                                  :discuss:
+** DONE Yesterdays                                                  :discuss:
+   CLOSED: [2020-04-15 Wed 17:17]
 
 - HCs in the beginning? -> no
 - Dm7 prepares E7? ("departing I")
 
 ** DONE Afro Blue
 
-** TODO Blue Daniel                                                 :discuss:
+** DONE Blue Daniel                                                 :discuss:
+   CLOSED: [2020-04-15 Wed 17:19]
 
 - Dmaj7 in the middle is new tonic
   - C7 after that is backdoor to D6
