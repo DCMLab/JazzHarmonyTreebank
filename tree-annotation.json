@@ -946,7 +946,7 @@
     "beats": "1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 3 1 3 1 1",
     "chords": "Eb^ Eb^ Eb^ Eb^ Eb^ Fm7 Gm7 C7 F7 Bb7 Eb^ Eb^ Ab7 Co7 Gm7 C7 Fm7 Bb7 Eb^ Bb7",
     "turnaround": 1,
-    "tree": "[.Eb^ [.Eb^ [.Eb^ [.Eb^ Eb^ Eb^ ] [.Eb^ Eb^ Eb^ ] ] [.Bb7 Eb^ [.Bb7 [.F7 [.C7 [.Gm7 Fm7 Gm7 ] C7 ] F7 ] Bb7 ] ] ] [.Eb^ [.Eb^ Eb^ Eb^ ] [.Eb^ [.Bb7 [.Fm7 [.C7 [.Gm7 Ab7 [.Gm7 Co7 Gm7 ] ] C7 ] Fm7 ] Bb7 ] Eb^ ] ] ] ",
+    "tree": "[.Eb^ [.Bb7* [.Eb^ [.Eb^ Eb^ Eb^ ] [.Eb^ Eb^ Eb^ ] ] [.Bb7* Eb^ [.Bb7 [.F7 [.C7 [.Gm7 Fm7 Gm7 ] C7 ] F7 ] Bb7 ] ] ] [.Eb^ [.Eb^ Eb^ Eb^ ] [.Eb^ [.Bb7 [.Fm7 [.C7 [.Gm7 Ab7 [.Gm7 Co7 Gm7 ] ] C7 ] Fm7 ] Bb7 ] Eb^ ] ] ] ",
     "composers": "Loesser, Frank",
     "year": 1961,
     "meter": "4/4",
