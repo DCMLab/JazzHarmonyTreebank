@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [31/50]
+* Discussed Pieces [33/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -105,11 +105,13 @@
 - middle Fmaj7 should go to end
 - mark open const.
 
-** TODO Work song                                              :constituents:
+** DONE Work song                                              :constituents:
+   CLOSED: [2020-04-15 Wed 16:47]
 
 - mark open const.
 
-** TODO Beatrice                                                    :discuss:
+** DONE Beatrice                                                    :discuss:
+   CLOSED: [2020-04-15 Wed 16:58]
 
 - first 2 Dm7 go together
 - connect to big D(m)7 section
