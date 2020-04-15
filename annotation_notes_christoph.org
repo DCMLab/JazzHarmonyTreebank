@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [38/50]
+* Discussed Pieces [39/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -144,7 +144,8 @@
 
 - encode II-V-Is on Bb, Gb, and F as P-D-T
 
-** TODO Funkallero                                                  :discuss:
+** DONE Funkallero                                                  :discuss:
+   CLOSED: [2020-04-15 Wed 17:12]
 
 - Abmaj7 establishes P, prepares G
 - Db7 prepares adjacent Cm7 (local transition)
