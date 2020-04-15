@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [35/50]
+* Discussed Pieces [36/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -127,7 +127,8 @@
 
 - Am7 D7 is another preparation G7
 
-** TODO On The Trail                                           :constituents:
+** DONE On The Trail                                           :constituents:
+   CLOSED: [2020-04-15 Wed 17:06]
 
 - mark HC
 
