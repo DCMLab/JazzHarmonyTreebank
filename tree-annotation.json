@@ -720,7 +720,7 @@
     "chords": "Fm Fm Fm Fm Fm Fm C7 C7 Fm Fm Fm Fm F7 Bb7 G7 C7 Fm",
     "keys": "Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm Fm",
     "turnaround": 0,
-    "tree": "[.Fm [.C7 [.Fm [.Fm Fm Fm ] [.Fm Fm Fm ] ] [.C7 [.Fm Fm Fm ] [.C7 C7 C7 ] ] ] [.Fm [.Fm [.Fm Fm Fm ] [.Fm Fm Fm ] ] [.Fm [.C7 [.Bb7 F7 Bb7 ] [.C7 G7 C7 ] ] Fm ] ] ] ",
+    "tree": "[.Fm [.C7* [.Fm [.Fm Fm Fm ] [.Fm Fm Fm ] ] [.C7* [.Fm Fm Fm ] [.C7 C7 C7 ] ] ] [.Fm [.Fm [.Fm Fm Fm ] [.Fm Fm Fm ] ] [.Fm [.C7 [.Bb7 F7 Bb7 ] [.C7 G7 C7 ] ] Fm ] ] ] ",
     "composers": "Adderley, Nat",
     "year": 1960,
     "meter": "4/4",
