@@ -1224,7 +1224,7 @@
     "beats": "1 3 1 3 1 3 1 3 1 1 3 1 3 1 3 1 3 1 3 1 3 1 3",
     "chords": "Dm7 B%7 Bb7 A7 Dm7 B%7 Bb7 A7 Gm7 Gm7 A7 Dm7 B%7 Bb7 A7 Bb7 A7 Bb7 A7 Dm7 B%7 Bb7 A7",
     "turnaround": 3,
-    "tree": "[.Dm7 [.Dm7 [.Dm7 Dm7 [.Dm7 [.A7 B%7 [.A7 Bb7 A7 ] ] Dm7 ] ] [.Dm7 [.A7 B%7 [.A7 Bb7 A7 ] ] [.Dm7 [.A7 Gm7 [.A7 Gm7 A7 ] ] Dm7 ] ] ] [.Dm7 [.A7 B%7 [.A7 Bb7 A7 ] ] [.Dm7 [.A7 [.A7 Bb7 A7 ] [.A7 Bb7 A7 ] ] Dm7 ] ] ] ",
+    "tree": "[.Dm7 [.A7* [.A7* [.A7* Dm7 [.A7 [.Bb7 B%7 Bb7 ] A7 ] ] [.A7* Dm7 [.A7 [.Bb7 B%7 Bb7 ] A7 ] ] ] [.A7* [.Dm7 [.A7 [.Gm7 Gm7 Gm7 ] A7 ] Dm7 ] [.A7 [.Bb7 [.B%7 B%7 ] Bb7 ] A7 ] ] ] [.Dm7 [.A7 [.A7 Bb7 A7 ] [.A7 Bb7 A7 ] ] Dm7 ] ] ",
     "composers": "McCoy, Kansas Joe",
     "year": 1936,
     "meter": "4/4",

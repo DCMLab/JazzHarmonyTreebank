@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [48/50]
+* Discussed Pieces [49/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -225,7 +225,8 @@
 
 - mark HC
 
-** TODO Why Don't You Do Right?                                     :discuss:
+** DONE Why Don't You Do Right?                                     :discuss:
+   CLOSED: [2020-04-15 Wed 17:45]
 
 - open lamento constituents
 - B%7 prepares Bb7
