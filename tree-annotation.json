@@ -291,9 +291,10 @@
     "chords": "Cm^7 Cm^7 Gm7 C7 F^7 F^7 Fm7 Bb7 Eb^7 Ebm7 Ab7 Db^7 D%7 G7",
     "keys": "Cm Cm FM FM FM FM EbM EbM EbM DbM DbM DbM Cm Cm",
     "turnaround": 0,
-    "tree": "[.Cm^7 [.Cm^7 Cm^7 Cm^7 ] [.Cm^7 [.G7 [.F^7 [.C7 Gm7 C7 ] [.F^7 F^7 F^7 ] ] [.G7 [.Db^7 [.Ab7 [.Eb^7 [.Bb7 Fm7 Bb7 ] Eb^7 ] [.Ab7 Ebm7 Ab7 ] ] Db^7 ] [.G7 D%7 G7 ] ] ] Cm^7 ] ] ",
+    "tree": "[.Cm^7 [.G7* [.Cm^7 Cm^7 Cm^7 ] [.G7* [.Db^7 [.Ab7 [.Eb^7 [.Bb7 [.F^7 [.C7 Gm7 C7 ] [.F^7 F^7 F^7 ] ] [.Bb7 Fm7 Bb7 ] ] Eb^7 ] [.Ab7 Ebm7 Ab7 ] ] Db^7 ] [.G7 D%7 G7 ] ] ] Cm^7 ] ",
     "approved": "Daniel",
     "composers": "Davis, Miles",
+    "comments": "The F major chord in measure 5 could also be analyzed as a preparation of the Db^7 chord (subdominant -> tonic).",
     "year": 1954,
     "meter": "4/4",
     "key": "c"
