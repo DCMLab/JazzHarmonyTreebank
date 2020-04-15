@@ -683,10 +683,10 @@
     "beats": "1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
     "chords": "Cm7 D%7 G7 Cm7 G7 Cm7 Cm7 Gsus G7 Cm7 Gb7 Fm7 Eb7 D%7 G7 Cm7 Db^7",
     "keys": "Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm Cm",
-    "turnaround": 0,
+    "turnaround": 1,
     "tree": "[.Cm7 [.G7* [.Cm7 [.Cm7 Cm7 [.Cm7 [.G7 D%7 G7 ] Cm7 ] ] [.Cm7 G7 [.Cm7 Cm7 Cm7 ] ] ] [.G7 Gsus G7 ] ] [.Cm7 Cm7 [.Cm7 [.G7 [.Fm7 Gb7 Fm7 ] [.G7 [.D%7 Eb7 D%7 ] G7 ] ] Cm7 ] ] ] ",
     "composers": "Turrentine, Stanley",
-    "comments": "Last two chords corrected ",
+    "comments": "Last two chords corrected to use the second house.",
     "year": 1971,
     "meter": "4/4",
     "key": "c"
