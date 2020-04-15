@@ -52,6 +52,8 @@ After discussion with Daniel - this _should_ be a I-V open constituent in
 the first A-part, meaning the Abo7 and Gm7 at 01000 and 010010 respectively
 should form the right-most part of the subtree at 00
 
+DONE (tree corrected using the discussed open constituent)
+
 ** 'I'll Close My Eyes' : I-V open :constituent:
 
 It's not obvious to me what part of the turnaround/half cadence should end
