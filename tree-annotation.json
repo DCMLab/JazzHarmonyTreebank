@@ -756,7 +756,7 @@
     "chords": "Bb^7 Bb^7 Bb^7 Bb^7 Bb^7 Bb^7 Cm7 Fsus Fsus Bb^7 Bb^7 G7 Cm7 F7 Bb^7 Bb^7 Bb^7 Bb^7",
     "keys": "BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM BbM",
     "turnaround": 0,
-    "tree": "[.Bb^7 [.Fsus [.Bb^7 [.Bb^7 Bb^7 Bb^7 ] [.Bb^7 Bb^7 Bb^7 ] ] [.Fsus [.Bb^7 Bb^7 Bb^7 ] [.Fsus [.Fsus Cm7 Fsus ] Fsus ] ] ] [.Bb^7 [.F7 [.Bb^7 Bb^7 Bb^7 ] [.F7 [.Cm7 G7 Cm7 ] F7 ] ] [.Bb^7 [.Bb^7 Bb^7 Bb^7 ] [.Bb^7 Bb^7 Bb^7 ] ] ] ] ",
+    "tree": "[.Bb^7 [.Fsus* [.Bb^7 [.Bb^7 Bb^7 Bb^7 ] [.Bb^7 Bb^7 Bb^7 ] ] [.Fsus* [.Bb^7 Bb^7 Bb^7 ] [.Fsus [.Fsus Cm7 Fsus ] Fsus ] ] ] [.Bb^7 [.F7* [.Bb^7 Bb^7 Bb^7 ] [.F7 [.Cm7 G7 Cm7 ] F7 ] ] [.Bb^7 [.Bb^7 Bb^7 Bb^7 ] [.Bb^7 Bb^7 Bb^7 ] ] ] ] ",
     "approved": "Alternative version used in measure 12",
     "composers": "Monk, Thelonious",
     "year": 1959,
