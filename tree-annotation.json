@@ -3172,6 +3172,7 @@
     "turnaround": 2,
     "tree": "[.Bb6 [.Ab^7 [.Bb^7 Bb^7 Bb^7 ] [.Ab^7 [.Eb^7 [.Bb7 [.F7 [.C7 [.G7 [.D7 A%7 D7 ] [.G7 G7 G7 ] ] [.C7 C7 C7 ] ] [.F7 F7 F7 ] ] [.Bb7 Bb7 Bb7 ] ] [.Eb^7 Eb^7 Eb^7 ] ] Ab^7 ] ] [.Bb6 [.F7 [.C7 [.Gm7 [.D7 A%7 D7 ] [.Gm7 Gm7 Gm ] ] [.C7 Gm7 [.C7 C7 C#o7 ] ] ] [.F7 [.C7 [.Gm7 [.F7 [.C7 [.G7 [.Bb6 Bb6 Bb6 ] [.G7 Ab7 G7 ] ] C7 ] F7 ] [.Gm7 Dm7 Gm7 ] ] C7 ] [.F7 Cm7 F7 ] ] ] Bb6 ] ] ",
     "composers": "Styne, Jule",
+    "comments": "Bb6 in measure 21 does also refer to the final tonic, i.e. it has a double function.",
     "year": 1956,
     "meter": "4/4",
     "key": "B-"
