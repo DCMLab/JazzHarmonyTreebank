@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [47/50]
+* Discussed Pieces [48/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -220,7 +220,8 @@
 - chords are weird around Abo7 D7
   - but structure is correct either way
 
-** TODO Summertime                                             :constituents:
+** DONE Summertime                                             :constituents:
+   CLOSED: [2020-04-15 Wed 17:40]
 
 - mark HC
 
