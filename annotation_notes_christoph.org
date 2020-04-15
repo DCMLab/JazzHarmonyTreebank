@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [34/50]
+* Discussed Pieces [35/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -122,7 +122,8 @@
 
 - mark HC
 
-** TODO Ladie Bird                                                  :discuss:
+** DONE Ladie Bird                                                  :discuss:
+   CLOSED: [2020-04-15 Wed 17:04]
 
 - Am7 D7 is another preparation G7
 
