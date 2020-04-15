@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [43/50]
+* Discussed Pieces [44/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -182,7 +182,8 @@
   - Gm7 tree prepares that A7
   - Ebmaj7 tree prolongs that A7 dominant section
 
-** TODO Half Nelson                                                 :discuss:
+** DONE Half Nelson                                                 :discuss:
+   CLOSED: [2020-04-15 Wed 17:26]
 
 - Ab7 D7 double prep
 
