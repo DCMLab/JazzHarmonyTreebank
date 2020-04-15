@@ -707,7 +707,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1",
     "chords": "F^ F^ F^ F^ F^ F^ C7 C7 F^ F7 Bb^ Bbm F^ G7 C7 F^ C7",
     "turnaround": 1,
-    "tree": "[.F^ [.F^ [.F^ [.F^ F^ F^ ] [.F^ F^ F^ ] ] [.F^ [.C7 [.F^ F^ F^ ] [.C7 C7 C7 ] ] F^ ] ] [.F^ [.C7 [.Bb^ F7 [.Bb^ Bb^ Bbm ] ] [.C7 [.G7 F^ G7 ] C7 ] ] F^ ] ] ",
+    "tree": "[.F^ [.C7* [.F^ [.F^ F^ F^ ] [.F^ F^ F^ ] ] [.C7 [.F^ F^ F^ ] [.C7 C7 C7 ] ] ] [.F^ F^ [.F^ [.C7 [.Bb^ F7 [.Bb^ Bb^ Bbm ] ] [.C7 [.G7 F^ G7 ] C7 ] ] F^ ] ] ] ",
     "composers": "Traditional",
     "year": 1896,
     "meter": "4/4",

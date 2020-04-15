@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [21/50]
+* Discussed Pieces [31/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -13,7 +13,8 @@
 
 ** DONE Equinox
 
-** TODO The Jody Grind
+** DONE The Jody Grind
+   CLOSED: [2020-04-15 Wed 13:53]
 
 - bind first 2 parts
 
@@ -21,11 +22,13 @@
 
 ** DONE Blues For Wood
 
-** TODO Interplay
+** DONE Interplay
+   CLOSED: [2020-04-15 Wed 13:57]
 
 - 2nd part not a constituent
 
-** TODO Solar                                                       :discuss:
+** DONE Solar                                                       :discuss:
+   CLOSED: [2020-04-15 Wed 14:11]
 
 - double prep of Dbmaj7 and G7 (turnaround) to Cmmaj7
 - connection of Fmaj7 as global or local?
@@ -37,7 +40,8 @@
 
 ** DONE Blue in Green
 
-** TODO Booker's Waltz [?]                                          :discuss:
+** DONE Booker's Waltz [?]                                          :discuss:
+   CLOSED: [2020-04-15 Wed 14:15]
 
 - would attach Eb7 higher
   - preparing Fm7 or
@@ -46,12 +50,14 @@
 
 ** DONE Contemplation
 
-** TODO Friday the 13th [?]                                         :discuss:
+** DONE Friday the 13th [?]                                         :discuss:
+   CLOSED: [2020-04-15 Wed 14:19]
 
 - 4 open const. + missing final tonic
   - F and D double prep
 
-** TODO If you never come to me [?]                                 :discuss:
+** DONE If you never come to me [?]                                 :discuss:
+   CLOSED: [2020-04-15 Wed 14:25]
 
 - improvement: Dm7 - Fm7 as double prep
   - Dm7 prepares G7 -> subst by Bb7 -> prepared again by Fm7
@@ -65,7 +71,8 @@
 
 ** DONE Pent Up House
 
-** TODO Sweet Georgia Bright [OK,?]                                 :discuss:
+** DONE Sweet Georgia Bright [OK,?]                                 :discuss:
+   CLOSED: [2020-04-15 Wed 14:28]
 
 - C7 Bb7 -> 2 open const. in the first part
   - second Bb7 does not go to Eb7 but to final C7
@@ -76,7 +83,8 @@
 
 ** DONE We will meet again [OK]
 
-** TODO Blue Bossa [OK,?]                                           :discuss:
+** DONE Blue Bossa [OK,?]                                           :discuss:
+   CLOSED: [2020-04-15 Wed 14:30]
 
 - disagree: bII is a subdominant!!!
 
@@ -84,13 +92,15 @@
 
 ** DONE Mac the Knife [OK]
 
-** TODO Sugar [?]                                      :constituents:discuss:
+** DONE Sugar [?]                                      :constituents:discuss:
+   CLOSED: [2020-04-15 Wed 14:51]
 
 - mark open const.
 - first 4 bars are not open const., bar 4 is pickup
 - second part should go to second house -> not open, resolves to I
 
-** TODO When the saints go marching in [?]                     :constituents:
+** DONE When the saints go marching in [?]                     :constituents:
+   CLOSED: [2020-04-15 Wed 16:42]
 
 - middle Fmaj7 should go to end
 - mark open const.
