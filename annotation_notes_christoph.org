@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [44/50]
+* Discussed Pieces [45/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -187,7 +187,8 @@
 
 - Ab7 D7 double prep
 
-** TODO Leaving                                                :typo:discuss:
+** DONE Leaving                                                :typo:discuss:
+   CLOSED: [2020-04-15 Wed 17:33]
 
 - typo: last chord Bb missing
 - makes middle Bmaj7 top-level
