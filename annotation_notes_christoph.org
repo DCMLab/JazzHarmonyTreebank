@@ -3,9 +3,10 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [20/50]
+* Discussed Pieces [21/50]
 
-** TODO Red Clay
+** DONE Red Clay
+   CLOSED: [2020-04-15 Wed 13:39]
 
 - mark HC
 - sus chords are weird, but probably right
