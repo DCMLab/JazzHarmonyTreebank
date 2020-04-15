@@ -841,7 +841,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 3 1 1",
     "chords": "E%7 A7 Dm Dm E%7 A7 Dm Dm Cm7 F7 Bb^7 Abm7 Db7 Gb^7 Gm7 C7 F^7 F^7",
     "turnaround": 0,
-    "tree": "[.F^7 [.Dm [.Dm [.A7 E%7 A7 ] [.Dm Dm Dm ] ] [.Dm [.A7 E%7 A7 ] [.Dm Dm Dm ] ] ] [.F^7 [.C7 [.Bb^7 [.F7 Cm7 F7 ] [.Bb^7 Bb^7 [.Db7 Abm7 Db7 ] ] ] [.C7 Gb^7 [.C7 Gm7 C7 ] ] ] [.F^7 F^7 F^7 ] ] ] ",
+    "tree": "[.F^7 [.Dm [.Dm [.A7 E%7 A7 ] [.Dm Dm Dm ] ] [.Dm [.A7 E%7 A7 ] [.Dm Dm Dm ] ] ] [.F^7 [.Gb^7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.Gb^7 [.Db7 Abm7 Db7 ] Gb^7 ] ] [.F^7 [.C7 Gm7 C7 ] [.F^7 F^7 F^7 ] ] ] ] ",
     "composers": "Shorter, Wayne",
     "year": 1961,
     "meter": "3/4",

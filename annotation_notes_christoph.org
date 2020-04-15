@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [37/50]
+* Discussed Pieces [38/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -139,7 +139,8 @@
 
 - mark HC
 
-** TODO United                                                      :discuss:
+** DONE United                                                      :discuss:
+   CLOSED: [2020-04-15 Wed 17:10]
 
 - encode II-V-Is on Bb, Gb, and F as P-D-T
 
