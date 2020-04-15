@@ -3,7 +3,7 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [46/50]
+* Discussed Pieces [47/50]
 
 ** DONE Red Clay
    CLOSED: [2020-04-15 Wed 13:39]
@@ -207,7 +207,8 @@
 
 ** DONE Recordame
 
-** TODO Just A Gigolo                                               :discuss:
+** DONE Just A Gigolo                                               :discuss:
+   CLOSED: [2020-04-15 Wed 17:38]
 
 - Gm7 doesn't go to D7 but prolongs next G7
   - D7 prepares Gm or Gm7
