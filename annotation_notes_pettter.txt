@@ -69,6 +69,8 @@ DONE (open constituent annotated)
 The question here is, again whether these are half cadences or turnarounds.
 Not an easy decision.
 
+EXCLUDED FOR NOW (because of the idiomatic cadential ending thing)
+
 ** 'I Can't Believe...You're In Love...' : TODO-Check
 
 Another one I can't find a lead sheet or recording of right away.
