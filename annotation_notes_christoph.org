@@ -208,5 +208,27 @@
 - Bmaj7 as double prep instead of prol to F7?
 - comment: early Gm7 has double function as tonic relative and element in F5S
 
-* Piece Reviews [0/0]
+* Piece Reviews [1/4]
 
+** TODO Central Park West                                           :discuss:
+
+- grouping is odd
+  - halves should go together
+    - first half is full oct cycle
+    - second half is 1 3rd up and down again
+  - B6 and Bmaj7 heads in last part
+
+** DONE Footprints
+
+** TODO Four On Six                                                 :discuss:
+
+- Cadence to Bbmaj7 is prol of Gm7, not prep of Eb7
+
+** TODO Light Blue                                     :constituents:discuss:
+
+- mark open const
+  - needs toplevel tonic to unfold correctly?
+- not sure if proper HCs or just turnarounds
+- first G7 points to Cmaj7, not C7
+
+** Paper Doll
