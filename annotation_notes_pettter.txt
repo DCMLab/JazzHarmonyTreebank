@@ -170,13 +170,44 @@ Two versions of the tree may be a good idea.
 
 I don't know the tune, can't say anything more..
 
+The discussion centered around the relationship between the Bb and A (Bb
+should be a prolonged tonic). This was decided that it was.
+
+Also, what is the D7-E connection, if any?
+
+Christoph argues that the tonicization/modulation to Eb breaks the
+connection between the D7 and the rest of it, while Daniel hears the D7 and
+F minor as a change of color (i.e. a double preparation of E^7 or a
+prolongation of Fm7). 
+
+Solution: Either one tree, the other tree, or both. (Flip a coin.. Daniel
+wins)
+
+TODO: 
+  * Bb7 is a tonic (prolongation of the first tonic)
+  * Mark the half cadence
+  * Add comment about the discussion about D7
+
 ** 'Why Do I Love You?' I-V open :constituent:s (four of them)
 
 OK, I think.
 
+TODO:
+ * Mark half open constituents
+
 ** 'Time On My Hands'
 
-OK, as far as I can tell
+WRONG: OK, as far as I can tell
+
+TODO: Move the second F to the next subtree - leave a I-V constituent in
+the beginning
+
+ Double preparation by or prolongation of the Gm7 in bar 5 and at the end of
+ the B part into the V ending the B part.
+
+
+
+
 
 ** 'Them There Eyes' I-V open :constituent:
 
@@ -185,30 +216,65 @@ the Bb7 at 010000 to be the head of the Ab tree at 00 (aligning with the
 way things are arranged in the B part). This may definitely make things
 more complex though, and requires "open predominants".
 
+TODO: 
+
+ * Mark open constituent
+ * Move the two Eb7 in the first subtree to be on the same level.
+ * (Maybe move the Bb before that to the end of the previous)
+ * Note Helge pattern/schema around the Ddim ("low tonic")
+
 ** 'Stella by Starlight'
 
 OK
+
+TODO:
+ * Connect the F^7 to the Dm7 as a prolongation
 
 ** 'So Nice (Summer Samba)' I-V open :constituent:
 
 Apart from that mostly OK. Do you see Eb7 as preparing or prolonging the
 C7?
 
+TODO
+ * Mark open constituent
+ * ((((Maybe mark the Eb7 as also preparing the final F6 (?)))))
+ * Bind the I-bVII together which then connects to the V, making an open
+   I-V constituent, and do the related changes to the second subtree
+
 ** 'Remember'
 
 OK
+
+A question about the Gb7/C7 constituent: Is that a an "open V-V
+constituent", or is it a prolongation?
 
 ** 'Nuages' I-V open :constituent:
 
 OK otherwise.
 
+TODO:
+ * Mark open constituent
+ * Move the next to final G6 to be a prolongation of the first tonic
+   of the B part
+ * Bbm6 -> Eb7 
+
 ** 'My Melancholy Baby' Open I-V :constituent:
 
 Looks OK, but I can't necessarily match the chords to the tune
 
+TODO:
+ * Mark open constituent
+ * Another Helge! (Bb7 -> Bb?)
+ * (We had a long discussion here about the Helge, and the tonic with the 5
+    in the bass functions as a cadential 6-4, which can be resolved to
+    either the dominant directly or to the)
+
 ** 'Look For The Silver Lining' Open I-V :constituent:
 
 LGTM
+
+TODO:
+ * Mark open constituent
 
 ** 'In A Little Spanish Town'
 
@@ -216,9 +282,16 @@ I'm not sure about the next to last Gmaj7 - I think that's already the
 final tonic rather than a preparation for the D7. I guess this is a prime
 example of the "low tonic" problem?
 
+TODO:
+ * Check the final low tonic thing (is it a Helge?)
+
 ** 'I Love You' Open I-III :constituent:?
 
 The rest looks good to me.
+
+TODO:
+ * Open constituent?
+ * "Blurry harmony"
 
 ** 'I Love Paris'
 
@@ -232,7 +305,7 @@ rather than preparations of the G%7. I agree that it is not, as such,
 superior to the initial tonic, but I wonder if you could arrange it as
 [.$Ab6$ [.$Eb7$ [.$Ab^7$ $Ab^7$ $Ab^7$ ] [.$Eb7$ [.$Ab^7$ [.$Gb7$ [.$G7$ [.$Fm7$ [.$C7$ $Gm7$ $C7$ ] [.$Fm7$ $Fm7$ $Fm7$ ] ] [.$G7$ $D%7$ $G7$ ] ] [.$Gb7$ $Db^7$ $Gb7$ ] ] $Ab^7$ ] [.$Eb7$ [.$Bbm7$ [.$Bb7$ [.$Fm7$ [.$C7$ $G%7$ $C7$ ] $Fm7$ ] $Bb7$ ] $Bbm7$ ] $Eb7$ ] ] ] [.$Ab6$ [.$Ab^7$ $Ab^7$ $Ab^7$ ] [.$Ab6$ [.$Ab^7$ [.$Gb7$ [.$G7$ [.$Fm7$ [.$C7$ $Gm7$ $C7$ ] [.$Fm7$ $Fm7$ $Fm7$ ] ] [.$G7$ $D%7$ $G7$ ] ] [.$Gb7$ $Db^7$ $Gb7$ ] ] $Ab^7$ ] [.$Ab6$ [.$Eb7$ [.$Bbm7$ $F7$ $Bbm7$ ] [.$Eb7$ $Ebsus$ $Eb7$ ] ] $Ab6$ ] ] ] ] 
 
-
+Saved for next time
 
 
 
