@@ -284,10 +284,12 @@ example of the "low tonic" problem?
 
 TODO:
  * Check the final low tonic thing (is it a Helge?)
+ * Bb in measure 10 is a pasing chord to Am7
 
 ** 'I Love You' Open I-III :constituent:?
 
 The rest looks good to me.
+Add to comment field: A major chord chould also be a hexatonic contrast to  the global tonic.
 
 TODO:
  * Open constituent?
