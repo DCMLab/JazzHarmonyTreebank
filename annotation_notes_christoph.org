@@ -3,16 +3,18 @@
 - initial tonic
 - blues form (esp. IV)
 
-* Discussed Pieces [20/50]
+* Discussed Pieces [50/50]
 
-** TODO Red Clay
+** DONE Red Clay
+   CLOSED: [2020-04-15 Wed 13:39]
 
 - mark HC
 - sus chords are weird, but probably right
 
 ** DONE Equinox
 
-** TODO The Jody Grind
+** DONE The Jody Grind
+   CLOSED: [2020-04-15 Wed 13:53]
 
 - bind first 2 parts
 
@@ -20,11 +22,13 @@
 
 ** DONE Blues For Wood
 
-** TODO Interplay
+** DONE Interplay
+   CLOSED: [2020-04-15 Wed 13:57]
 
 - 2nd part not a constituent
 
-** TODO Solar                                                       :discuss:
+** DONE Solar                                                       :discuss:
+   CLOSED: [2020-04-15 Wed 14:11]
 
 - double prep of Dbmaj7 and G7 (turnaround) to Cmmaj7
 - connection of Fmaj7 as global or local?
@@ -36,7 +40,8 @@
 
 ** DONE Blue in Green
 
-** TODO Booker's Waltz [?]                                          :discuss:
+** DONE Booker's Waltz [?]                                          :discuss:
+   CLOSED: [2020-04-15 Wed 14:15]
 
 - would attach Eb7 higher
   - preparing Fm7 or
@@ -45,12 +50,14 @@
 
 ** DONE Contemplation
 
-** TODO Friday the 13th [?]                                         :discuss:
+** DONE Friday the 13th [?]                                         :discuss:
+   CLOSED: [2020-04-15 Wed 14:19]
 
 - 4 open const. + missing final tonic
   - F and D double prep
 
-** TODO If you never come to me [?]                                 :discuss:
+** DONE If you never come to me [?]                                 :discuss:
+   CLOSED: [2020-04-15 Wed 14:25]
 
 - improvement: Dm7 - Fm7 as double prep
   - Dm7 prepares G7 -> subst by Bb7 -> prepared again by Fm7
@@ -64,7 +71,8 @@
 
 ** DONE Pent Up House
 
-** TODO Sweet Georgia Bright [OK,?]                                 :discuss:
+** DONE Sweet Georgia Bright [OK,?]                                 :discuss:
+   CLOSED: [2020-04-15 Wed 14:28]
 
 - C7 Bb7 -> 2 open const. in the first part
   - second Bb7 does not go to Eb7 but to final C7
@@ -75,7 +83,8 @@
 
 ** DONE We will meet again [OK]
 
-** TODO Blue Bossa [OK,?]                                           :discuss:
+** DONE Blue Bossa [OK,?]                                           :discuss:
+   CLOSED: [2020-04-15 Wed 14:30]
 
 - disagree: bII is a subdominant!!!
 
@@ -83,62 +92,74 @@
 
 ** DONE Mac the Knife [OK]
 
-** TODO Sugar [?]                                      :constituents:discuss:
+** DONE Sugar [?]                                      :constituents:discuss:
+   CLOSED: [2020-04-15 Wed 14:51]
 
 - mark open const.
 - first 4 bars are not open const., bar 4 is pickup
 - second part should go to second house -> not open, resolves to I
 
-** TODO When the saints go marching in [?]                     :constituents:
+** DONE When the saints go marching in [?]                     :constituents:
+   CLOSED: [2020-04-15 Wed 16:42]
 
 - middle Fmaj7 should go to end
 - mark open const.
 
-** TODO Work song                                              :constituents:
+** DONE Work song                                              :constituents:
+   CLOSED: [2020-04-15 Wed 16:47]
 
 - mark open const.
 
-** TODO Beatrice                                                    :discuss:
+** DONE Beatrice                                                    :discuss:
+   CLOSED: [2020-04-15 Wed 16:58]
 
 - first 2 Dm7 go together
 - connect to big D(m)7 section
 - falling fifths from there
 
-** TODO Jackie-ing                                             :constituents:
+** DONE Jackie-ing                                             :constituents:
+   CLOSED: [2020-04-15 Wed 17:03]
 
 - mark HC
 
-** TODO Ladie Bird                                                  :discuss:
+** DONE Ladie Bird                                                  :discuss:
+   CLOSED: [2020-04-15 Wed 17:04]
 
 - Am7 D7 is another preparation G7
 
-** TODO On The Trail                                           :constituents:
+** DONE On The Trail                                           :constituents:
+   CLOSED: [2020-04-15 Wed 17:06]
 
 - mark HC
 
 ** DONE Peace
 
-** TODO Sunny                                                  :constituents:
+** DONE Sunny                                                  :constituents:
+   CLOSED: [2020-04-15 Wed 17:07]
 
 - mark HC
 
-** TODO United                                                      :discuss:
+** DONE United                                                      :discuss:
+   CLOSED: [2020-04-15 Wed 17:10]
 
 - encode II-V-Is on Bb, Gb, and F as P-D-T
 
-** TODO Funkallero                                                  :discuss:
+** DONE Funkallero                                                  :discuss:
+   CLOSED: [2020-04-15 Wed 17:12]
 
 - Abmaj7 establishes P, prepares G
 - Db7 prepares adjacent Cm7 (local transition)
 
-** TODO Yesterdays                                                  :discuss:
+** DONE Yesterdays                                                  :discuss:
+   CLOSED: [2020-04-15 Wed 17:17]
 
 - HCs in the beginning? -> no
 - Dm7 prepares E7? ("departing I")
 
 ** DONE Afro Blue
 
-** TODO Blue Daniel                                                 :discuss:
+** DONE Blue Daniel                                                 :discuss:
+   CLOSED: [2020-04-15 Wed 17:19]
 
 - Dmaj7 in the middle is new tonic
   - C7 after that is backdoor to D6
@@ -146,24 +167,28 @@
 
 ** DONE Blues for Alice
 
-** TODO Brotherhood of Man                             :constituents:discuss:
+** DONE Brotherhood of Man                             :constituents:discuss:
+   CLOSED: [2020-04-15 Wed 17:21]
 
 - mark HC
 - HC not correctly connected (should look forward)
 
 ** DONE Freight Train
 
-** TODO Got a Match?                                                :discuss:
+** DONE Got a Match?                                                :discuss:
+   CLOSED: [2020-04-15 Wed 17:24]
 
 - A7 constituent from bar 9 to 12 
   - Gm7 tree prepares that A7
   - Ebmaj7 tree prolongs that A7 dominant section
 
-** TODO Half Nelson                                                 :discuss:
+** DONE Half Nelson                                                 :discuss:
+   CLOSED: [2020-04-15 Wed 17:26]
 
 - Ab7 D7 double prep
 
-** TODO Leaving                                                :typo:discuss:
+** DONE Leaving                                                :typo:discuss:
+   CLOSED: [2020-04-15 Wed 17:33]
 
 - typo: last chord Bb missing
 - makes middle Bmaj7 top-level
@@ -171,7 +196,8 @@
 
 ** DONE The Old Country
 
-** TODO The Preacher                                                :discuss:
+** DONE The Preacher                                                :discuss:
+   CLOSED: [2020-04-15 Wed 17:35]
 
 - exclude for now!!!
   - role of F/C is not clear
@@ -181,7 +207,8 @@
 
 ** DONE Recordame
 
-** TODO Just A Gigolo                                               :discuss:
+** DONE Just A Gigolo                                               :discuss:
+   CLOSED: [2020-04-15 Wed 17:38]
 
 - Gm7 doesn't go to D7 but prolongs next G7
   - D7 prepares Gm or Gm7
@@ -193,16 +220,19 @@
 - chords are weird around Abo7 D7
   - but structure is correct either way
 
-** TODO Summertime                                             :constituents:
+** DONE Summertime                                             :constituents:
+   CLOSED: [2020-04-15 Wed 17:40]
 
 - mark HC
 
-** TODO Why Don't You Do Right?                                     :discuss:
+** DONE Why Don't You Do Right?                                     :discuss:
+   CLOSED: [2020-04-15 Wed 17:45]
 
 - open lamento constituents
 - B%7 prepares Bb7
 
-** TODO Bluesette                                                   :discuss:
+** DONE Bluesette                                                   :discuss:
+   CLOSED: [2020-04-15 Wed 17:56]
 
 - F7 is prolonged, 2nd to last F7 does not prep G7
 - Bmaj7 as double prep instead of prol to F7?

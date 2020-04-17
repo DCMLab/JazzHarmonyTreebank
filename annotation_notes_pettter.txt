@@ -1,45 +1,60 @@
-'Corvocado' : 
+** 'Corvocado' : 
 
-OK 
+DONE (not changed)
 
-'How High The Moon' : I-V open constituent
+** 'How High The Moon' : I-V open :constituent:
 
+DONE (open constituent annotated)
 
-'You Stepped Out Of A Dream': Deep I-V open constituent
+** 'You Stepped Out Of A Dream': Deep I-V open :constituent:
 
 I get why it's drawn as it is, but to me it feels weird connecting the Db7
 to Eb rather than C
 
+Db as voice leading constituent between C and Eb
 
-'This Can't Be Love' : I-V open constituent in first A
+DONE (open constituent annotated)
+
+** 'This Can't Be Love' :TODO check it!: I-V open :constituent: in first A
 
 Different from the Fakebook transscription - not so easy to check for me
 
-'Take The A Train' : 
+** 'Take The A Train' : 
 
-Should maybe actually be a I-V constituent if the first A turnaround is
+Should maybe actually be a I-V :constituent: if the first A turnaround is
 included in the tree? (G7 treelet at 0100) That turnaround is omitted e.g.
 in the fakebook (it does have a Db9 going back to the C starting the final
 A part).
 
-'Just In Time' : I-II open constituent(?)
+DONE (not changed)
+
+** 'Just In Time' : I-bVII open :constituent:(?)
 
 Why are some Gm in treelet at 100 part of their own tree, while one is
 hanging off the top C7? "Tonicization" vs preparation?
+C#o7 prep for Bb6
 
+Bb6 is a "low tonic" problem? Should be looked at for future developments
+of theory - see also The Preacher. 
 
-'Just Friends' : I-V open constituent
+DONE (comment about Bb6 in measure 21 added, annotate open constituent)
+
+** 'Just Friends' : I-V open :constituent:
 
 Again transcriptions differ. In the real book, the G7 at 10000 is a Db7
 (movement by semitone vs by fifth). Also, the F#%7 at 11000100 is omitted.
 
-'Jersey Bounce' : Strangely _not_ a I-V open constituent?
+DONE (annotate open constituent)
+
+** 'Jersey Bounce' : Strangely _not_ a I-V open :constituent:?
 
 After discussion with Daniel - this _should_ be a I-V open constituent in
 the first A-part, meaning the Abo7 and Gm7 at 01000 and 010010 respectively
 should form the right-most part of the subtree at 00
 
-'I'll Close My Eyes' : I-V open constituent
+DONE (tree corrected using the discussed open constituent)
+
+** 'I'll Close My Eyes' : I-V open :constituent:
 
 It's not obvious to me what part of the turnaround/half cadence should end
 up on which side of the tree (especially since the transcription I find has
@@ -47,25 +62,33 @@ a Abo7 instead of the D7, and a Gb7/C instead of a C7 - but that's
 basically the same..). After some thought and discussion with Daniel, it is
 either fine as it is, or it is possbly a very long turnaround.
 
-'I Can't Give You Anything But Love' : i-V open constituents en masse
+DONE (open constituent annotated)
+
+** 'I Can't Give You Anything But Love' : i-V open :constituent:s en masse
 
 The question here is, again whether these are half cadences or turnarounds.
 Not an easy decision.
 
-'I Can't Believe...You're In Love...'
+EXCLUDED FOR NOW (because of the idiomatic cadential ending thing)
+
+** 'I Can't Believe...You're In Love...' : TODO-Check
 
 Another one I can't find a lead sheet or recording of right away.
 
-'Hackensack' : OK
+** 'Hackensack' : OK
 
-'Fine Romance, A' : Open I-V constituent
+DONE
+
+** 'Fine Romance, A' : I-V open :constituent:
 
 I'm not sure if the second chord is a preparation of the third (as
 written), or a prolongation of the first (similar for the fourth, and also
 in the repeat ofc), but this depends a bit on how you feel the phrasing in
 the melody. 
 
-'Donna Lee' : Open I-V constituent
+DONE (open constituent annotated)
+
+** 'Donna Lee' : I-V open :constituent:
 
 Again it's, to me, ambiguous how the phrasing should work. I could the
 final two chords of the A part more as a turnaround (upbeat) rather than a
@@ -74,26 +97,42 @@ half cadence, which would still leave us with a I-II open constituent.
 We could also view the initial chord of the B part as "two chords", one the
 final I of the A part, and one the first I of the B part.
 
+We should include a comment about this ambiguity in the tree.
+
+Christoph has a concern about the Ab in the middle-ish of the first part.
+
 Apart from that the chords also differ between transcriptions. In the Real
 Book I, I have an Ab as the first chord of the last four bars (it's a Cm in
 the tree), which - I would argue - does not necessarily prepare the
 following F7, but rather serves as a prolongation of the final tonic.
 
-'Day By Day' : Open I-V constituent?
+** 'Day By Day' : I-V open :constituent:?
 
 The tune is ultimately in G, but plays around to such a degree in A dorian
 that it almost acts as a secondary tonic, especially around the move
 between A and B - specifically, I read the annotation of the A7-E7 treelet
 that spans the A part as a "II-VI" (or (I-V)/ii) open constituent. 
 
+Listening to various recordings this is handled differently - In the slow
+version with Sinatra, the half cadence is actually on D (so in the main
+key), while other versions maybe don't do as much of it in the first place.
+
+This is an exemplar of an "evaded half cadence", where we go from VI to
+V/V to ii and then (not) to V, but rather to ii-V in A to get back to the
+beginning of the next phrase.
+
+This is a good candidate for including two different trees, as there are
+disagreements about whether or not the first G is a tonic tonic or more
+part of a falling fifth 
+
 I might also include the last Am7 of part A as part of the left-hand
 treelet, but this is a separate issue.
 
-'Dancing in the Dark : Open I-V constituent
+** 'Dancing in the Dark : I-V open :constituent:
 
 No transcription, I don't know the tune
 
-'Candy'
+** 'Candy'
 
 Pretty straightforward, though one may quibble about the exact way the A
 phrase is broken down hierarchically - I personally don't understand why
@@ -101,13 +140,17 @@ the Eb is privileged as preparing the Bb rather than part of the general
 chromatic descending pattern down to Cm, but this may be something that is
 clearer with explanation.
 
-'Beautiful Love' : Open I-V constituent
+Eb^7 -> F
+
+Ebm6 is subordinate to that, and goes (maybe?) to Dm7
+
+** 'Beautiful Love' : I-V open :constituent:
 
 Again a quibble - where does the first Bb7's go in the tree? I feel that it
 is more like a prolongation with the Gm rather than a preparation of the
 penultimate A7.
 
-'Baubles, Bangles And Beads'
+** 'Baubles, Bangles And Beads'
 
 I wonder if it would make sense to restructure the subtree at 1001 to
 make it more similar to the what goes on in the first A part. Something
@@ -117,65 +160,71 @@ like
 
 which uses open constituents.
 
-'Zingaro (Retrato Em Branco E Preto)' Open I-V constituent
+Discussions were not necessarily conclusive.
+
+Two versions of the tree may be a good idea.
+
+** THIS IS HOW FAR WE GOT 2020-04-03
+
+** 'Zingaro (Retrato Em Branco E Preto)' Open I-V :constituent:
 
 I don't know the tune, can't say anything more..
 
-'Why Do I Love You?' Open I-V constituents (four of them)
+** 'Why Do I Love You?' I-V open :constituent:s (four of them)
 
 OK, I think.
 
-'Time On My Hands'
+** 'Time On My Hands'
 
 OK, as far as I can tell
 
-'Them There Eyes' Open I-V constituent
+** 'Them There Eyes' I-V open :constituent:
 
 Might instead be a I-ii open constituent if we move the treelet rooted at
 the Bb7 at 010000 to be the head of the Ab tree at 00 (aligning with the
 way things are arranged in the B part). This may definitely make things
 more complex though, and requires "open predominants".
 
-'Stella by Starlight'
+** 'Stella by Starlight'
 
 OK
 
-'So Nice (Summer Samba)' Open I-V constituent
+** 'So Nice (Summer Samba)' I-V open :constituent:
 
 Apart from that mostly OK. Do you see Eb7 as preparing or prolonging the
 C7?
 
-'Remember'
+** 'Remember'
 
 OK
 
-'Nuages' Open I-V constituent
+** 'Nuages' I-V open :constituent:
 
 OK otherwise.
 
-'My Melancholy Baby' Open I-V constituent
+** 'My Melancholy Baby' Open I-V :constituent:
 
 Looks OK, but I can't necessarily match the chords to the tune
 
-'Look For The Silver Lining' Open I-V constituent
+** 'Look For The Silver Lining' Open I-V :constituent:
 
 LGTM
 
-'In A Little Spanish Town'
+** 'In A Little Spanish Town'
 
 I'm not sure about the next to last Gmaj7 - I think that's already the
 final tonic rather than a preparation for the D7. I guess this is a prime
 example of the "low tonic" problem?
 
-'I Love You' Open I-III constituent?
+** 'I Love You' Open I-III :constituent:?
 
 The rest looks good to me.
 
-'I Love Paris'
+** 'I Love Paris'
 
 LGTM
 
-'Good Life, The' Open I-V constituent
+** 'Good Life, The' I-V open :constituent:
 
 I may want to see the half-way Abmaj7's (0100000 and 110000) as
 prolongations of the tonic (maybe tricky in the left subtree, though)
