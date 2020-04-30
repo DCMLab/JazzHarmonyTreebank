@@ -309,6 +309,51 @@ superior to the initial tonic, but I wonder if you could arrange it as
 
 Saved for next time
 
+** 'Dearly Beloved'
+
+The lead sheet in the first Real Book looks similar but not exact, but
+definitely seems to imply an open I-bII constituent or so. At least, it
+doesn't seem convincing to me to land the first phrase at the second Cmaj7,
+which to me feels more preparatory for the turnaround to Dm7.
+
+** 'Broadway'
+
+LGTM
+
+'Blue Lou'
+
+Looks mostly good - the only concern I would have would be with the
+tree structure in the B part. Arguably the first phrase is an open
+constituent rather than something with a turnaround, but this is a quibble.
+
+** 'Bill Bailey' :helge:
+
+Very clear Helge schema, but good overall.
+
+** '502 Blues'
+
+I don't agree with privileging the Am at the start of the phrases. I hear
+those very much landing in the E7, which in the realbook is notated as
+E7#9, which I think is better understood as a E major/minor thing than a
+spiced up dominant in this case. So I would put those essentially as
+prolongations all of the same top-level E. The tree then becomes:
+[.$Em7"$ [.$E^7$ [.$E7$ [.$E7$ [.$B%7$ [.$Db^7$ $Am7$ $Db^7$ ] $B%7$ ] $E7$ ] [.$E7$ [.$B%7$ [.$Db^7$ $Am7$ $Db^7$ ] $B%7$ ] $E7$ ] ] [.$E^7$ [.$E^7$ [.$B7$ [.$Bb^7$ [.$F7$ $Cm7$ $F7$ ] $Bb^7$ ] [.$B7$ [.$F#%7$ [.$Db7$ $Abm7$ $Db7$ ] $F#%7$ ] $B7$ ] ] $E^7$ ] $E^7$ ] ] [.$Em7"$ [.$E7$ [.$E7$ [.$B%7$ [.$Db^7$ [.$Am7$ $E7$ $Am7$ ] $Db^7$ ] $B%7$ ] $E7$ ] [.$E7$ [.$B%7$ [.$Db^7$ [.$Am7$ $Am7$ ] $Db^7$ ] $B%7$ ] $E7$ ] ] [.$Em7"$ [.$Em7$ [.$B7$ [.$Bb^7$ [.$F7$ $Cm7$ $F7$ ] $Bb^7$ ] [.$B7$ [.$F#%7$ [.$Db7$ $Abm7$ $Db7$ ] $F#%7$ ] $B7$ ] ] $Em7$ ] $Em7"$ ] ] ]
+
+** 'Weaver Of Dreams, A' Open :constituent:
+
+Looks good - it has an open constituent, and one may quibble if it's I-II
+or I-V, but I'm definitely OK with the current version.
+
+** "Struttin' With Some Barbecue" Open :constituent:
+
+(I found this mostly in other keys - any mistakes are mine). The open I-V
+constituent is clear as day. I would rather connect the subtree at 010 (C7)
+to prepare the C#o7 rather than to be on the same level as the final V.
+Apart from this it looks good!
+
+'Smile'
+
+
 
 
 
