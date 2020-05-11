@@ -144,69 +144,57 @@ rule_counter_major = collections.Counter(rules_major)
 most_common_rules_major = rule_counter_major.most_common(20)
 
 #PLOTS
+fig, (ax1, ax2, ax3, ax4, ax5, ax6) = plt.subplots(6,1,figsize=(8,30), gridspec_kw={'height_ratios': [1,1,1,0.7,1.5,1.5], 'hspace': 0.4})
 
-fig, (ax1, ax2, ax3, ax4, ax5, ax6, ax7) = plt.subplots(7,1,figsize=(10,30))
-
+darkgrey = '0.3'
+lightgrey = '0.7'
 
 # Plotting the coverage of tunes over years
 indexyears = sorted(years.keys())
 bar_width = 1
-opacity = 0.8
 
 sortedyears = sorted(years.items())
 
 totyears = ax1.bar(indexyears, list(map(lambda x: x[1][0], sortedyears)), bar_width,
-alpha=opacity,
-color='b',
+color=darkgrey,
 label='Total')
 
-opacity = 0.5
-
 treeyears = ax1.bar(indexyears, list(map(lambda x: x[1][1], sortedyears)), bar_width,
-alpha=opacity,
-color='w',
+color=lightgrey,
 label='Analysed')
 
 
 #Plotting the coverage of tunes over chord sequence lengths (omitting the 42 longest tunes)
 indexlengths = sorted(lengths.keys())
 bar_width = 1
-opacity = 0.8
-
 
 sortedlengths = sorted(lengths.items())
 
 totlengths = ax2.bar(indexlengths, list(map(lambda x: x[1][0], sortedlengths)), bar_width,
-alpha=opacity,
-color='b',
+color=darkgrey,
 label='Total')
 
-opacity = 0.5
-
 treelengths = ax2.bar(indexlengths, list(map(lambda x: x[1][1], sortedlengths)), bar_width,
-alpha=opacity,
-color='w',
+color=lightgrey,
 label='Analysed')
 
-opacity = 0.8
-
 # Plotting the widths and heights of analysed trees - We also draw the maximum and minimum possible depths assuming only binary rules used
-ax3.plot(list(map(lambda x: x[1],depths)), list(map(lambda x: x[3], depths)), 'o')
+ax3.plot(list(map(lambda x: x[1],depths)), list(map(lambda x: x[3], depths)), 'o', alpha=0.6, color=darkgrey)
 widths_of_trees = (list(map(lambda x:x[1], depths)))
-ax3_xvals = np.arange(1,max(widths_of_trees))
-ax3.plot(ax3_xvals, ax3_xvals, 'r')
-ax3.plot(ax3_xvals, list(map(math.log, ax3_xvals)), 'g')
+ax3_xvals = np.arange(1,40)
+ax3.plot(ax3_xvals, ax3_xvals, darkgrey)
+ax3.plot(ax3_xvals, list(map(math.log, ax3_xvals)), darkgrey)
 
 # Plotting the various lengths of turnarounds used
-ax4.bar(turnarounds.keys(),turnarounds.values(), bar_width)
+ax4.bar(turnarounds.keys(),turnarounds.values(), bar_width, color=darkgrey)
 
 # Showing the most common rules used
-rule_strings = list(reversed(list(map(lambda x : x[0][0] + " -> " + x[0][1][0] + " "+ x[0][1][1], most_common_rules))))
-counts = list(reversed(list(map(lambda x : x[1], most_common_rules))))
-y_pos = np.arange(len(rule_strings))
-bar_width=0.8
+# rule_strings = list(reversed(list(map(lambda x : x[0][0] + " -> " + x[0][1][0] + " "+ x[0][1][1], most_common_rules))))
+# counts = list(reversed(list(map(lambda x : x[1], most_common_rules))))
+# y_pos = np.arange(len(rule_strings))
+# bar_width=0.8
 
-ax5.barh(y_pos, counts, bar_width)
+# ax5.barh(y_pos, counts, bar_width)
 
 # ...in minor
 rule_strings_minor = list(reversed(list(map(lambda x : x[0][0] + " -> " + x[0][1][0] + " "+ x[0][1][1], most_common_rules_minor))))
@@ -214,7 +202,7 @@ counts_minor = list(reversed(list(map(lambda x : x[1], most_common_rules_minor))
 y_pos_minor = np.arange(len(rule_strings_minor))
 bar_width=0.8
 
-ax6.barh(y_pos_minor, counts_minor, bar_width)
+ax5.barh(y_pos_minor, counts_minor, bar_width, color=darkgrey)
 
 # ...and in major
 rule_strings_major = list(reversed(list(map(lambda x : x[0][0] + " -> " + x[0][1][0] + " "+ x[0][1][1], most_common_rules_major))))
@@ -222,49 +210,50 @@ counts_major = list(reversed(list(map(lambda x : x[1], most_common_rules_major))
 y_pos_major = np.arange(len(rule_strings_major))
 bar_width=0.8
 
-ax7.barh(y_pos_major, counts_major, bar_width)
+ax6.barh(y_pos_major, counts_major, bar_width, color=darkgrey)
 
 
 # Adding labels and titles
-ax1.set_xlabel('Years')
-ax1.set_ylabel('Count')
-ax1.set_title('Tunes from various years')
+ax1.set_xlabel('year of composition', size='large')
+ax1.set_ylabel('count', size='large')
+ax1.set_title('Jazz standards by year', fontsize='x-large')
 ax1.legend()
 
-ax2.set_xlabel('Lengths')
-ax2.set_ylabel('Count')
-ax2.set_title('Tunes of various lengths, we omit 42 tunes that are longer than 100 chords')
+ax2.set_xlabel('chord sequence length', size='large')
+ax2.set_ylabel('count', size='large')
+ax2.set_title('Jazz standards by chord seq. length (> 100 chords omitted)', fontsize='x-large')
 ax2.legend()
 
-ax3.set_xlabel('Length')
-ax3.set_ylabel('Max tree depth')
-ax3.set_title('The maximum depths of tree analyses. We omit 4 tunes with width above 40\nThe lower and upper lines show the lower and upper bounds possible for depth at a specific length')
+ax3.set_xlabel('chord sequence length', size='large')
+ax3.set_ylabel('tree depth', size='large')
+ax3.set_title('Depths of tree analyses by chord seq. length (lines show bounds)', fontsize='x-large')
+# ax3.set_title('The maximum depths of tree analyses. We omit 4 tunes with width above 40\nThe lower and upper lines show the lower and upper bounds possible for depth at a specific length')
 
 ax4.invert_xaxis()
-ax4.set_xlabel('Turnaround length')
-ax4.set_ylabel('Count')
-ax4.set_title('Proportion of analysed tunes with a specific turnaround length, negative values indicate an added tonic')
+ax4.set_xlabel('turnaround length', size='large')
+ax4.set_ylabel('count', size='large')
+ax4.set_title('Annotated turnaround lengths (pos. vals) & implicit tonics (neg. vals)', fontsize='x-large')
 
-ax5.set_yticks(y_pos)
-ax5.set_yticklabels(rule_strings)
-ax5.set_ylabel("Rules")
-ax5.set_xlabel("Count")
-ax5.set_title("Counts for the 20 most common key-normalized rules")
+# ax5.set_yticks(y_pos)
+# ax5.set_yticklabels(rule_strings)
+# ax5.set_ylabel("Rules")
+# ax5.set_xlabel("Count")
+# ax5.set_title("Counts for the 20 most common key-normalized rules")
 
-ax6.set_yticks(y_pos_minor)
-ax6.set_yticklabels(rule_strings_minor)
-ax6.set_ylabel("Rules")
-ax6.set_xlabel("Count")
-ax6.set_title("Counts for the 20 most common key-normalized rules in minor keys")
+ax5.set_yticks(y_pos_minor)
+ax5.set_yticklabels(rule_strings_minor)
+# ax5.set_ylabel("Rules")
+ax5.set_xlabel("count", size='large')
+ax5.set_title("20 most frequent rules in minor (roots of keys normalized to C)", fontsize='x-large')
 
-ax7.set_yticks(y_pos_major)
-ax7.set_yticklabels(rule_strings_major)
-ax7.set_ylabel("Rules")
-ax7.set_xlabel("Count")
-ax7.set_title("Counts for the 20 most common key-normalized rules in major keys")
+ax6.set_yticks(y_pos_major)
+ax6.set_yticklabels(rule_strings_major)
+# ax6.set_ylabel("Rules")
+ax6.set_xlabel("count", size='large')
+ax6.set_title("20 most frequent rules in major (roots of keys normalized to C)", fontsize='x-large')
 
 plt.tight_layout()
-plt.savefig("public/plots.png")
+plt.savefig("public/plots.png", bbox_inches='tight')
 #plt.show()
 
 
