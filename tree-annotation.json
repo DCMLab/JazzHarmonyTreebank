@@ -972,7 +972,6 @@
     "year": 1974,
     "meter": "4/4",
     "key": "E-",
-    "turnaround": -3
   },
   {
     "title": "Freight Train",
@@ -2262,7 +2261,6 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1",
     "chords": "Bm7 E7 Bm7 E7 Am7 D7 Am7 D7 Bm7 E7 Bm7 E7 Am7 D7 Am7 D7 G^7 G^7 B%7 E7 C#%7 A%7 D7 G^7 C7 Bm7 E7 Bm7 E7 Am7 D7 Am7 D7",
     "composers": "Golson, Benny",
-    "turnaround": 9,
     "tree": "[.G^7 [.D7 [.D7 [.D7 [.D7 [.Am7 [.E7 [.E7 Bm7 E7 ] [.E7 Bm7 E7 ] ] Am7 ] D7 ] [.D7 Am7 D7 ] ] [.D7 [.D7 [.Am7 [.E7 [.E7 Bm7 E7 ] [.E7 Bm7 E7 ] ] Am7 ] D7 ] [.D7 Am7 D7 ] ] ] [.D7 [.G^7 [.G^7 G^7 G^7 ] [.G^7 [.D7 [.C#%7 [.E7 B%7 E7 ] C#%7 ] [.D7 A%7 D7 ] ] G^7 ] ] [.D7 [.D7 [.Am7 [.E7 [.E7 [.Bm7 C7 Bm7 ] E7 ] [.E7 Bm7 E7 ] ] Am7 ] D7 ] [.D7 Am7 D7 ] ] ] ] G^7 ] ",
     "year": 1961,
     "meter": "4/4",
