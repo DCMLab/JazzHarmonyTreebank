@@ -110,6 +110,8 @@ Book I, I have an Ab as the first chord of the last four bars (it's a Cm in
 the tree), which - I would argue - does not necessarily prepare the
 following F7, but rather serves as a prolongation of the final tonic.
 
+TODO
+
 ** 'Day By Day' : I-V open :constituent:?
 
 The tune is ultimately in G, but plays around to such a degree in A dorian
@@ -131,6 +133,8 @@ part of a falling fifth
 
 I might also include the last Am7 of part A as part of the left-hand
 treelet, but this is a separate issue.
+
+TODO
 
 ** 'Dancing in the Dark : I-V open :constituent:
 
@@ -173,6 +177,8 @@ which uses open constituents.
 Discussions were not necessarily conclusive.
 
 Two versions of the tree may be a good idea.
+
+DONE (original tree used)
 
 ** THIS IS HOW FAR WE GOT 2020-04-03
 

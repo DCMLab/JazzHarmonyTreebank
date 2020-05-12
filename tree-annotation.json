@@ -2976,7 +2976,8 @@
     "chords": "Gm7 Gm7 D7 D7 Fm6 Fm6 E^7 Eb^7 Eb^7 Cm7 D7 Bb^7 Bb^7 A7 A7 D^7 Ab7 Gm7 Gm7 D7 D7 Fm6 Fm6 E^7 Eb^7 Eb^7 Cm7 C#o7 Gm Eb^7 Cm7 Ebm7 D7 Gm7 Ebm7",
     "composers": "Jobim, Antonio Carlos",
     "turnaround": 1,
-    "tree": "[.Gm7 [.D^7 [.Gm7 Gm7 Gm7 ] [.D^7 [.A7 [.Bb^7 [.D7 [.Eb^7 [.E^7 [.D7 D7 D7 ] [.E^7 [.Fm6 Fm6 Fm6 ] E^7 ] ] [.Eb^7 Eb^7 Eb^7 ] ] [.D7 Cm7 D7 ] ] [.Bb^7 Bb^7 Bb^7 ] ] [.A7 A7 A7 ] ] D^7 ] ] [.Gm7 [.Gm7 Ab7 [.Gm7 Gm7 Gm7 ] ] [.Gm7 [.D7 [.Eb^7 [.Eb^7 [.E^7 [.D7 D7 D7 ] [.E^7 [.Fm6 Fm6 Fm6 ] E^7 ] ] [.Eb^7 Eb^7 Eb^7 ] ] [.Eb^7 [.Cm7 Cm7 C#o7 ] [.Eb^7 Gm Eb^7 ] ] ] [.D7 Cm7 [.D7 Ebm7 D7 ] ] ] Gm7 ] ] ] ",
+    "tree": "[.Gm7 [.D^7* [.Gm7 [.Gm7 Gm7 Gm7 ] [.Bb^7 [.D7 [.Eb^7 [.E^7 [.D7 D7 D7 ] [.E^7 [.Fm6 Fm6 Fm6 ] E^7 ] ] [.Eb^7 Eb^7 Eb^7 ] ] [.D7 Cm7 D7 ] ] [.Bb^7 Bb^7 Bb^7 ] ] ] [.D^7 [.A7 A7 A7 ] D^7 ] ] [.Gm7 [.Gm7 Ab7 [.Gm7 Gm7 Gm7 ] ] [.Gm7 [.D7 [.Eb^7 [.Eb^7 [.E^7 [.D7 D7 D7 ] [.E^7 [.Fm6 Fm6 Fm6 ] E^7 ] ] [.Eb^7 Eb^7 Eb^7 ] ] [.Eb^7 [.Cm7 Cm7 C#o7 ] [.Eb^7 Gm Eb^7 ] ] ] [.D7 Cm7 [.D7 Ebm7 D7 ] ] ] Gm7 ] ] ] ",
+    "comments": "tonicization of Eb weakens the relation between D7 and E^7",
     "year": 1967,
     "meter": "4/4",
     "key": "g"
