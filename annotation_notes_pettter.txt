@@ -15,7 +15,9 @@ Db as voice leading constituent between C and Eb
 
 DONE (open constituent annotated)
 
-** 'This Can't Be Love' :TODO check it!: I-V open :constituent: in first A
+** 'This Can't Be Love' : I-V open :constituent: in first A
+
+DONE
 
 Different from the Fakebook transscription - not so easy to check for me
 
