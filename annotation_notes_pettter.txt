@@ -158,6 +158,8 @@ Again a quibble - where does the first Bb7's go in the tree? I feel that it
 is more like a prolongation with the Gm rather than a preparation of the
 penultimate A7.
 
+DONE
+
 ** 'Baubles, Bangles And Beads'
 
 I wonder if it would make sense to restructure the subtree at 1001 to
