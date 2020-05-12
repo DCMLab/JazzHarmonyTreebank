@@ -1309,7 +1309,7 @@
     "beats": "1 1 1 1 1 3 1 3 1 3 1 3 1 1 1 1 3 1 3 1 3 1 1 3",
     "chords": "Gm7 Gm7 Gm7 Gm7 Cm7 F7 Bbm7 Eb7 Am7 D7 Ebm7 Ab7 Gm7 Gm7 Gm7 Cm7 F7 Bb^7 Gm7 Eb7 D7 Gm7 A%7 D7",
     "turnaround": 2,
-    "tree": "[.Gm7 [.D7 [.Gm7 [.Gm7 Gm7 Gm7 ] [.Gm7 Gm7 Gm7 ] ] [.D7 [.Eb7 [.Bbm7 [.F7 Cm7 F7 ] Bbm7 ] Eb7 ] [.D7 [.D7 Am7 D7 ] [.Ab7 Ebm7 Ab7 ] ] ] ] [.Gm7 [.Gm7 [.Gm7 Gm7 Gm7 ] Gm7 ] [.Gm7 [.D7 [.Eb7 [.Bb^7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] Gm7 ] Eb7 ] D7 ] Gm7 ] ] ] ",
+    "tree": "[.Gm7 [.D7 [.Gm7 [.Gm7 Gm7 Gm7 ] [.Gm7 Gm7 Gm7 ] ] [.D7 [.Eb7 [.Bbm7 [.F7 Cm7 F7 ] Bbm7 ] Eb7 ] [.D7 [.D7 Am7 D7 ] [.Ab7 Ebm7 Ab7 ] ] ] ] [.Gm7 [.Gm7 [.Gm7 Gm7 Gm7 ] Gm7 ] [.Gm7 [.Bb^7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] Gm7 ] [.Gm7 [.D7 Eb7 D7 ] Gm7 ] ] ] ] ",
     "composers": "Montgomery, Wes",
     "year": 1960,
     "meter": "4/4",
