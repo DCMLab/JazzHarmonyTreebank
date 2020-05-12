@@ -232,7 +232,7 @@ the Bb7 at 010000 to be the head of the Ab tree at 00 (aligning with the
 way things are arranged in the B part). This may definitely make things
 more complex though, and requires "open predominants".
 
-TODO: 
+DONE: 
 
  * Mark open constituent
  * Move the two Eb7 in the first subtree to be on the same level.
