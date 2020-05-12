@@ -238,7 +238,7 @@
 - Bmaj7 as double prep instead of prol to F7?
 - comment: early Gm7 has double function as tonic relative and element in F5S
 
-* Piece Reviews [3/4]
+* Piece Reviews [4/4]
 
 ** DONE Central Park West                                           :discuss:
    CLOSED: [2020-05-12 Tue 13:57]
@@ -256,7 +256,8 @@
 
 - Cadence to Bbmaj7 is prol of Gm7, not prep of Eb7
 
-** TODO Light Blue                                     :constituents:discuss:
+** DONE Light Blue                                     :constituents:discuss:
+   CLOSED: [2020-05-12 Tue 14:11]
 
 - mark open const
   - needs toplevel tonic to unfold correctly?
