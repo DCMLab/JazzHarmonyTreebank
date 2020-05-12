@@ -208,14 +208,14 @@ DONE:
 
 OK, I think.
 
-TODO:
+DONE:
  * Mark half open constituents
 
 ** 'Time On My Hands'
 
 WRONG: OK, as far as I can tell
 
-TODO: Move the second F to the next subtree - leave a I-V constituent in
+DONE: Move the second F to the next subtree - leave a I-V constituent in
 the beginning
 
  Double preparation by or prolongation of the Gm7 in bar 5 and at the end of
