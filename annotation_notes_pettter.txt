@@ -73,9 +73,11 @@ Not an easy decision.
 
 EXCLUDED FOR NOW (because of the idiomatic cadential ending thing)
 
-** 'I Can't Believe...You're In Love...' : TODO-Check
+** 'I Can't Believe...You're In Love...' : Check
 
 Another one I can't find a lead sheet or recording of right away.
+
+DONE
 
 ** 'Hackensack' : OK
 
@@ -133,6 +135,8 @@ treelet, but this is a separate issue.
 ** 'Dancing in the Dark : I-V open :constituent:
 
 No transcription, I don't know the tune
+
+DONE
 
 ** 'Candy'
 
