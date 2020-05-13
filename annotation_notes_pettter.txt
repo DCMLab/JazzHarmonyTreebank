@@ -345,11 +345,15 @@ DONE
 
 LGTM
 
+DONE
+
 'Blue Lou'
 
 Looks mostly good - the only concern I would have would be with the
 tree structure in the B part. Arguably the first phrase is an open
 constituent rather than something with a turnaround, but this is a quibble.
+
+DONE
 
 ** 'Bill Bailey' :helge:
 
