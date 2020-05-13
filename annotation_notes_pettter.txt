@@ -301,7 +301,7 @@ I'm not sure about the next to last Gmaj7 - I think that's already the
 final tonic rather than a preparation for the D7. I guess this is a prime
 example of the "low tonic" problem?
 
-TODO:
+DONE:
  * Check the final low tonic thing (is it a Helge?)
  * Bb in measure 10 is a pasing chord to Am7
 
