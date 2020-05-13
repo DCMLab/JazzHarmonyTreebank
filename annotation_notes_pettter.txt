@@ -392,6 +392,30 @@ DONE
 
 'Smile'
 
+The Colorado Fakebook had a different ending, but the rest looks good. 
+
+OK!
+
+'Shine' Open I-V :constituent:
+
+Open I-V constituent. You could make an argument for the first two four-bar
+phrases to also be considered I-V's, but that's not how I hear the Ella
+recording at least. The Fakebook transcription substitute Fm7 Bb7 for 
+Ab7 Ab7 Db7 and has some other minor differences, but nothing major.
+
+Tree looks good.
+
+TODO: Mark open constituent
+
+'Shadow Of Your Smile, The' Open? Constituent?
+
+This is a weird tune. I tend not to hear the Em7 (bars 3,11,19) as
+preparing the A7, but much more "tonicy" than that. That also tracks with
+having the B7 as the "V" of an open "I-V" constituent.
+
+So, I would probably say that the whole first part is "actually" in E
+minor, and only after bar 19 does it start to shift to being in G major.
+
 
 
 
