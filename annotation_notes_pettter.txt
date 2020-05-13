@@ -292,7 +292,7 @@ DONE:
 
 LGTM
 
-TODO:
+DONE:
  * Mark open constituent
 
 ** 'In A Little Spanish Town'
