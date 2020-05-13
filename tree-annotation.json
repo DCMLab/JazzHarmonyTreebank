@@ -1996,7 +1996,7 @@
     "chords": "Bb7 Eb7 Ab6 Ab6 Ebm7 Ab7 Db^7 Db^7 Db6 Gb7 Ab6 F7 Bb7 Bb7 Eb7 F7 Bb7 Eb7 Ab6 Ab6 Ebm7 Ab7 Db^7 Db^7 Db7 Do7 Ab6 F7 Bb7 Eb7 Ab6 F7",
     "composers": "Ellington, Duke",
     "turnaround": 1,
-    "tree": "[.Ab6 [.Eb7 [.Ab6 [.Ab6 [.Eb7 Bb7 Eb7 ] [.Ab6 Ab6 Ab6 ] ] [.Ab6 [.Gb7 [.Db^7 [.Ab7 Ebm7 Ab7 ] [.Db^7 Db^7 Db^7 ] ] [.Gb7 Db6 Gb7 ] ] Ab6 ] ] [.Eb7 [.Bb7 F7 [.Bb7 Bb7 Bb7 ] ] Eb7 ] ] [.Ab6 [.Ab6 [.Eb7 [.Bb7 F7 Bb7 ] Eb7 ] [.Ab6 Ab6 Ab6 ] ] [.Ab6 [.Eb7 [.Db^7 [.Ab7 Ebm7 Ab7 ] [.Db^7 Db^7 Db^7 ] ] [.Eb7 [.Db7 Db7 Do7 ] [.Eb7 [.Bb7 [.F7 Ab6 F7 ] Bb7 ] Eb7 ] ] ] Ab6 ] ] ] ",
+    "tree": "[.Ab6 [.Eb7* [.Ab6 [.Ab6 [.Eb7 Bb7 Eb7 ] [.Ab6 Ab6 Ab6 ] ] [.Ab6 [.Gb7 [.Db^7 [.Ab7 Ebm7 Ab7 ] [.Db^7 Db^7 Db^7 ] ] [.Gb7 Db6 Gb7 ] ] Ab6 ] ] [.Eb7 [.Bb7 F7 [.Bb7 Bb7 Bb7 ] ] Eb7 ] ] [.Ab6 [.Ab6 [.Eb7 [.Bb7 F7 Bb7 ] Eb7 ] [.Ab6 Ab6 Ab6 ] ] [.Ab6 [.Eb7 [.Db^7 [.Ab7 Ebm7 Ab7 ] [.Db^7 Db^7 Db^7 ] ] [.Eb7 [.Db7 Db7 Do7 ] [.Eb7 [.Bb7 [.F7 Ab6 F7 ] Bb7 ] Eb7 ] ] ] Ab6 ] ] ] ",
     "year": 1940,
     "meter": "4/4",
     "key": "A-"
