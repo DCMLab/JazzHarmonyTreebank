@@ -1808,7 +1808,7 @@
     "beats": "1 3 1 3 1 3 1 1 3 4 1 3 4 1 3 1 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1",
     "chords": "F^ A7 Dm Cm7 Bb^ Csus F^ F^ Bb^ F^ F^ C^ F^ C^ G7 C7 F^ A7 Dm Cm7 Bb^ Csus F^ Bo7 F^ C#o7 Dm Bo7 F^ Csus F^",
     "turnaround": 0,
-    "tree": "[.F^ [.C7 [.F^ [.F^ F^ [.Dm A7 Dm ] ] [.F^ [.Csus Cm7 [.Csus Bb^ Csus ] ] F^ ] ] [.C7 [.F^ [.F^ F^ [.F^ Bb^ F^ ] ] [.F^ F^ [.F^ C^ F^ ] ] ] [.C7 C^ [.C7 G7 C7 ] ] ] ] [.F^ [.F^ [.F^ F^ [.Dm A7 Dm ] ] [.F^ [.Csus Cm7 [.Csus Bb^ Csus ] ] F^ ] ] [.F^ [.F^ [.F^ Bo7 F^ ] [.Dm C#o7 Dm ] ] [.F^ [.F^ Bo7 F^ ] [.F^ Csus F^ ] ] ] ] ] ",
+    "tree": "[.F^ [.C7* [.F^ [.F^ F^ [.Dm A7 Dm ] ] [.F^ [.Csus Cm7 [.Csus Bb^ Csus ] ] F^ ] ] [.C7 [.F^ [.F^ F^ [.F^ Bb^ F^ ] ] [.F^ F^ [.F^ C^ F^ ] ] ] [.C7 C^ [.C7 G7 C7 ] ] ] ] [.F^ [.F^ [.F^ F^ [.Dm A7 Dm ] ] [.F^ [.Csus Cm7 [.Csus Bb^ Csus ] ] F^ ] ] [.F^ [.F^ [.F^ Bo7 F^ ] [.Dm C#o7 Dm ] ] [.F^ [.F^ Bo7 F^ ] [.F^ Csus F^ ] ] ] ] ] ",
     "composers": "Taylor, Billy",
     "year": 1963,
     "meter": "4/4",
