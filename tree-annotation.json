@@ -2881,7 +2881,7 @@
     "composers": "Reinhardt, Django",
     "comments": "Bm6 interpreted as a substitution for Eb9",
     "turnaround": 0,
-    "tree": "[.G6 [.D7 [.G6 [.G6 [.D7 Bbm6 D7 ] [.G6 G6 G6 ] ] [.G6 [.D7 Bbm6 D7 ] [.G6 G6 [.G6 D7 G6 ] ] ] ] [.D7 [.A7 [.Em6 [.B7 B7 B7 ] [.Em6 Em6 Em6 ] ] [.A7 A7 [.A7 Ab7 A7 ] ] ] [.D7 D7 D7 ] ] ] [.G6 [.G6 [.D7 Bbm6 D7 ] [.G6 G6 G6 ] ] [.G6 [.D7 [.Bbm6 [.G6 [.F7 [.C^ [.G7 Ab7 G7 ] [.C^ C^ C^ ] ] [.F7 Cm6 F7 ] ] [.G6 G6 G6 ] ] Bbm6 ] D7 ] [.G6 G6 [.G6 D7 G6 ] ] ] ] ] ",
+    "tree": "[.G6 [.D7* [.G6 [.G6 [.D7 Eb7 D7 ] [.G6 G6 G6 ] ] [.G6 [.D7 Eb7 D7 ] [.G6 G6 [.G6 D7 G6 ] ] ] ] [.D7 [.A7 [.Em6 [.B7 B7 B7 ] [.Em6 Em6 Em6 ] ] [.A7 A7 [.A7 Ab7 A7 ] ] ] [.D7 D7 D7 ] ] ] [.G6 [.G6 [.G6 [.D7 Eb7 D7 ] [.G6 G6 G6 ] ] [.G6 [.F7 [.C^ [.G7 Ab7 G7 ] [.C^ C^ C^ ] ] [.F7 Cm6 F7 ] ] [.G6 G6 G6 ] ] ] [.G6 [.D7 Eb7 D7 ] [.G6 G6 [.G6 D7 G6 ] ] ] ] ] ",
     "year": 1939,
     "meter": "4/4",
     "key": "G"

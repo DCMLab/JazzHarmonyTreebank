@@ -263,12 +263,15 @@ OK
 
 A question about the Gb7/C7 constituent: Is that a an "open V-V
 constituent", or is it a prolongation?
+=> it's a prolongation
+
+DONE
 
 ** 'Nuages' I-V open :constituent:
 
 OK otherwise.
 
-TODO:
+DONE:
  * Mark open constituent
  * Move the next to final G6 to be a prolongation of the first tonic
    of the B part
