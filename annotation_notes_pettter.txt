@@ -243,7 +243,7 @@ DONE:
 
 OK
 
-TODO:
+DONE:
  * Connect the F^7 to the Dm7 as a prolongation
 
 ** 'So Nice (Summer Samba)' I-V open :constituent:
