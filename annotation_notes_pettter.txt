@@ -407,7 +407,7 @@ Ab7 Ab7 Db7 and has some other minor differences, but nothing major.
 
 Tree looks good.
 
-TODO: Mark open constituent
+DONE: Mark open constituent
 
 'Shadow Of Your Smile, The' Open? Constituent?
 
@@ -417,6 +417,8 @@ having the B7 as the "V" of an open "I-V" constituent.
 
 So, I would probably say that the whole first part is "actually" in E
 minor, and only after bar 19 does it start to shift to being in G major.
+
+DONE
 
 
 
