@@ -2043,7 +2043,7 @@
     "composers": "Tristano, Lennie",
     "comments": "low tonic in measure 27",
     "turnaround": 0,
-    "tree": "[.Cm6 [.G7 [.Cm6 [.Cm6 Cm6 Cm6 ] [.Cm6 [.Db7 D7 Db7 ] [.Cm6 Cm6 Cm6 ] ] ] [.G7 [.Fm6 [.C7 [.G7 D7 G7 ] [.C7 G%7 C7 ] ] [.Fm6 Fm6 Fm6 ] ] [.G7 [.D7 Cm6 [.D7 D7 D7 ] ] G7 ] ] ] [.Cm6 [.Cm6 Cm6 Cm6 ] [.Cm6 [.G7 [.Fm6 [.C7 [.G7 D7 G7 ] [.C7 C7 C7 ] ] [.Fm6 Fm6 Fm6 ] ] [.G7 [.D%7 [.D%7 Fm6 D%7 ] [.D%7 Cm6 [.D%7 A7 D%7 ] ] ] G7 ] ] [.Cm6 Cm6 Cm6 ] ] ] ] ",
+    "tree": "[.Cm6 [.G7* [.Cm6 [.Cm6 Cm6 Cm6 ] [.Cm6 [.Db7 D7 Db7 ] [.Cm6 Cm6 Cm6 ] ] ] [.G7 [.Fm6 [.C7 [.G7 D7 G7 ] [.C7 G%7 C7 ] ] [.Fm6 Fm6 Fm6 ] ] [.G7 [.D7 Cm6 [.D7 D7 D7 ] ] G7 ] ] ] [.Cm6 [.Cm6 Cm6 Cm6 ] [.Cm6 [.G7 [.Fm6 [.C7 [.G7 D7 G7 ] [.C7 C7 C7 ] ] [.Fm6 Fm6 Fm6 ] ] [.G7 [.D%7 [.D%7 Fm6 D%7 ] [.D%7 Cm6 [.D%7 A7 D%7 ] ] ] G7 ] ] [.Cm6 Cm6 Cm6 ] ] ] ] ",
     "year": 1952,
     "meter": "4/4",
     "key": "c"
