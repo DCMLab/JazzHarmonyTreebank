@@ -339,6 +339,8 @@ definitely seems to imply an open I-bII constituent or so. At least, it
 doesn't seem convincing to me to land the first phrase at the second Cmaj7,
 which to me feels more preparatory for the turnaround to Dm7.
 
+DONE
+
 ** 'Broadway'
 
 LGTM
