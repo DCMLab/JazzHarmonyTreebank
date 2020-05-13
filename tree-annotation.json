@@ -3325,6 +3325,7 @@
     "beats": "1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 3 1 3 1 1",
     "chords": "Abm6 Eb^7 Abm6 Abm6 Abm6 Eb^7 Abm6 Abm6 Gm7 C7 Fm7 Bb7 Eb^7 D7 Db7 C7 Fm7 Bb7 Abm6 Eb^7 Abm6 Abm6 Abm6 Eb^7 Gm7 C7 Ab^7 A%7 D7 Gm7 C7 Fm7 C7 Fm7 Bb7 Eb6 Eb6",
     "composers": "Porter, Cole",
+    "turnaround": 0,
     "year": 1954,
     "meter": "4/4",
     "key": "E-"
@@ -3335,6 +3336,8 @@
     "beats": "1 1 1 1 3 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 3 1 3",
     "chords": "C^7 Gb7 F^7 E%7 A7 Am7 D7 Dm7 G7 C^7 Gb7 F^7 E%7 A7 Am7 D7 Dm7 G7 Gm7 C7 F^7 Bb7 Em7 A7 D7 G7 C^7 Gb7 F^7 E%7 A7 Dm7 G7 C6 A7 D7 G7",
     "composers": "Kahn, Donald",
+    "turnaround": 3,
+    "tree": "[.C6 [.G7* [.G7* C^7 [.G7 [.F^7 Gb7 F^7 ] [.G7 [.D7 [.A7 E%7 A7 ] [.D7 Am7 D7 ] ] [.G7 Dm7 G7 ] ] ] ] [.G7* C^7 [.G7 [.F^7 Gb7 F^7 ] [.G7 [.D7 [.A7 E%7 A7 ] [.D7 Am7 D7 ] ] [.G7 Dm7 G7 ] ] ] ] ] [.C6 [.G7 [.F^7 [.C7 Gm7 C7 ] F^7 ] [.G7 [.D7 [.A7 Bb7 [.A7 Em7 A7 ] ] D7 ] G7 ] ] [.C6 C^7 [.C6 [.G7 [.F^7 Gb7 F^7 ] [.G7 [.Dm7 [.A7 E%7 A7 ] Dm7 ] G7 ] ] C6 ] ] ] ] ",
     "year": 1957,
     "meter": "4/4",
     "key": "A-"
