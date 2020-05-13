@@ -1370,7 +1370,7 @@
     "year": 1943,
     "meter": "4/4",
     "key": "F",
-    "tree": "[.F6 [.C7 [.F^7 [.F^7 F^7 [.F6 [.C7 [.G7 D7 G7 ] C7 ] F6 ] ] [.F^7 F^7 Fm^7 ] ] [.C7 [.C^7 C^7 A7 ] [.C7 G7 C7 ] ] ] [.F6 [.F6 [.C7 Gm7 C7 ] F6 ] [.F6 [.C7 [.C7 [.C7 Gm7 C7 ] A7 ] [.C7 [.Gm7 [.D7 [.A7 Bb^ [.A7 Bo7 [.A7 F^ A7 ] ] ] D7 ] Gm7 ] C7 ] ] F6 ] ] ] ",
+    "tree": "[.F6 [.C7* [.F^7 F^7 [.F6 [.C7 [.G7 D7 G7 ] C7 ] F6 ] ] [.C7 [.A7 [.C^7 [.Fm^7 F^7 Fm^7 ] C^7 ] A7 ] [.C7 G7 C7 ] ] ] [.F6 [.F6 [.C7 Gm7 C7 ] F6 ] [.F6 [.C7 [.C7 Gm7 C7 ] A7 ] [.F6 [.C7 [.F^ [.Bb^ Bb^ Bo7 ] F^ ] [.C7 [.Gm7 [.D7 A7 D7 ] Gm7 ] C7 ] ] F6 ] ] ] ] ",
     "comments": "F^m7 (m5) and A7 (m6), and are voice-leading chords. F (m14) is a low tonic."
   },
   {
