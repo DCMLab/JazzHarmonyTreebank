@@ -251,7 +251,7 @@ DONE:
 Apart from that mostly OK. Do you see Eb7 as preparing or prolonging the
 C7?
 
-TODO
+DONE
  * Mark open constituent
  * ((((Maybe mark the Eb7 as also preparing the final F6 (?)))))
  * Bind the I-bVII together which then connects to the V, making an open
