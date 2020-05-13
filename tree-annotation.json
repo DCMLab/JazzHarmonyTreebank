@@ -1600,7 +1600,7 @@
     "beats": "1 3 1 3 1 3 1 2 3 4 1 3 1 3 1 3 1 2 3 4 1 1 3 1 3 1 3",
     "chords": "F^7 B7 Bb^7 Eb7 Am7 D7 Gm7 Am7 Bb6 C7 Fm7 Bbm7 G7 C7 Am7 D7 Am7 Bbm7 Cm7 D7 G7 C7 Bbm7 Am7 Dm7 Gm7 C7",
     "turnaround": -1,
-    "tree": "[.F^7 [.C7 [.C7 F^7 [.C7 [.Gm7 [.D7 [.Eb7 [.Bb^7 B7 Bb^7 ] Eb7 ] [.D7 Am7 D7 ] ] Gm7 ] [.C7 Am7 [.C7 Bb6 C7 ] ] ] ] [.C7 [.C7 [.G7 [.D7 [.C7 [.Bbm7 Fm7 Bbm7 ] [.C7 G7 C7 ] ] [.D7 [.D7 Am7 D7 ] [.D7 Am7 [.D7 [.Cm7 Bbm7 Cm7 ] D7 ] ] ] ] G7 ] C7 ] [.C7 [.Gm7 [.Dm7 [.Am7 Bbm7 Am7 ] Dm7 ] Gm7 ] C7 ] ] ] F^7 ] ",
+    "tree": "[.F^7 [.C7* [.C7* F^7 [.C7 [.Gm7 [.D7 [.Eb7 [.Bb^7 B7 Bb^7 ] Eb7 ] [.D7 Am7 D7 ] ] Gm7 ] [.C7 Am7 [.C7 Bb6 C7 ] ] ] ] [.C7 [.C7 [.G7 [.D7 [.C7 [.Bbm7 Fm7 Bbm7 ] [.C7 G7 C7 ] ] [.D7 [.D7 Am7 D7 ] [.D7 Am7 [.D7 [.Cm7 Bbm7 Cm7 ] D7 ] ] ] ] G7 ] C7 ] [.C7 [.Gm7 [.Dm7 [.Am7 Bbm7 Am7 ] Dm7 ] Gm7 ] C7 ] ] ] F^7 ] ",
     "composers": "Hefti, Neal",
     "year": 1965,
     "meter": "4/4",
