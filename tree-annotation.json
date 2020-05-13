@@ -2521,7 +2521,7 @@
     "composers": "Hickman, Art",
     "comments": "measures 10, 15, 16, and 26 changed in aggreement with https://d29ci68ykuu27r.cloudfront.net/items/19425510/cover_images/cover-large_file.png",
     "turnaround": 0,
-    "tree": "[.G6 [.D7 [.G6 [.G6 [.D7 A7 D7 ] [.G6 G6 G6 ] ] [.G6 [.F7 [.C^ [.G7 G7 G7 ] [.C^ C^ C^ ] ] [.F7 Cm F7 ] ] G6 ] ] [.D7 [.A7 E7 [.A7 A7 A7 ] ] [.D7 Am7 D7 ] ] ] [.G6 [.G6 [.G6 [.D7 A7 D7 ] [.G6 G6 G6 ] ] [.G6 [.F7 [.C^ [.G7 G7 G7 ] [.C^ C^ C^ ] ] [.F7 Cm F7 ] ] G6 ] ] [.G6 [.D7 [.A7 E7 A7 ] D7 ] [.G6 G6 G6 ] ] ] ] ",
+    "tree": "[.G6 [.D7* [.G6 [.G6 [.D7 A7 D7 ] [.G6 G6 G6 ] ] [.G6 [.F7 [.C^ [.G7 G7 G7 ] [.C^ C^ C^ ] ] [.F7 Cm F7 ] ] G6 ] ] [.D7 [.A7 E7 [.A7 A7 A7 ] ] [.D7 Am7 D7 ] ] ] [.G6 [.G6 [.G6 [.D7 A7 D7 ] [.G6 G6 G6 ] ] [.G6 [.F7 [.C^ [.G7 G7 G7 ] [.C^ C^ C^ ] ] [.F7 Cm F7 ] ] G6 ] ] [.G6 [.D7 [.A7 E7 A7 ] D7 ] [.G6 G6 G6 ] ] ] ] ",
     "year": 1917,
     "meter": "4/4",
     "key": "G"
