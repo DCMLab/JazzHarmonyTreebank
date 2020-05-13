@@ -16337,60 +16337,42 @@
       "label": "F6",
       "children": [
         {
-          "label": "C7",
+          "label": "C7*",
           "children": [
             {
               "label": "F^7",
               "children": [
                 {
                   "label": "F^7",
+                  "children": []
+                },
+                {
+                  "label": "F6",
                   "children": [
                     {
-                      "label": "F^7",
-                      "children": []
-                    },
-                    {
-                      "label": "F6",
+                      "label": "C7",
                       "children": [
                         {
-                          "label": "C7",
+                          "label": "G7",
                           "children": [
                             {
-                              "label": "G7",
-                              "children": [
-                                {
-                                  "label": "D7",
-                                  "children": []
-                                },
-                                {
-                                  "label": "G7",
-                                  "children": []
-                                }
-                              ]
+                              "label": "D7",
+                              "children": []
                             },
                             {
-                              "label": "C7",
+                              "label": "G7",
                               "children": []
                             }
                           ]
                         },
                         {
-                          "label": "F6",
+                          "label": "C7",
                           "children": []
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "label": "F^7",
-                  "children": [
-                    {
-                      "label": "F^7",
-                      "children": []
                     },
                     {
-                      "label": "Fm^7",
+                      "label": "F6",
                       "children": []
                     }
                   ]
@@ -16401,11 +16383,29 @@
               "label": "C7",
               "children": [
                 {
-                  "label": "C^7",
+                  "label": "A7",
                   "children": [
                     {
                       "label": "C^7",
-                      "children": []
+                      "children": [
+                        {
+                          "label": "Fm^7",
+                          "children": [
+                            {
+                              "label": "F^7",
+                              "children": []
+                            },
+                            {
+                              "label": "Fm^7",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "label": "C^7",
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "label": "A7",
@@ -16465,87 +16465,87 @@
                       "label": "C7",
                       "children": [
                         {
+                          "label": "Gm7",
+                          "children": []
+                        },
+                        {
+                          "label": "C7",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "label": "A7",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "label": "F6",
+                  "children": [
+                    {
+                      "label": "C7",
+                      "children": [
+                        {
+                          "label": "F^",
+                          "children": [
+                            {
+                              "label": "Bb^",
+                              "children": [
+                                {
+                                  "label": "Bb^",
+                                  "children": []
+                                },
+                                {
+                                  "label": "Bo7",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "label": "F^",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
                           "label": "C7",
                           "children": [
                             {
                               "label": "Gm7",
-                              "children": []
+                              "children": [
+                                {
+                                  "label": "D7",
+                                  "children": [
+                                    {
+                                      "label": "A7",
+                                      "children": []
+                                    },
+                                    {
+                                      "label": "D7",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "label": "Gm7",
+                                  "children": []
+                                }
+                              ]
                             },
                             {
                               "label": "C7",
                               "children": []
                             }
                           ]
-                        },
-                        {
-                          "label": "A7",
-                          "children": []
                         }
                       ]
                     },
                     {
-                      "label": "C7",
-                      "children": [
-                        {
-                          "label": "Gm7",
-                          "children": [
-                            {
-                              "label": "D7",
-                              "children": [
-                                {
-                                  "label": "A7",
-                                  "children": [
-                                    {
-                                      "label": "Bb^",
-                                      "children": []
-                                    },
-                                    {
-                                      "label": "A7",
-                                      "children": [
-                                        {
-                                          "label": "Bo7",
-                                          "children": []
-                                        },
-                                        {
-                                          "label": "A7",
-                                          "children": [
-                                            {
-                                              "label": "F^",
-                                              "children": []
-                                            },
-                                            {
-                                              "label": "A7",
-                                              "children": []
-                                            }
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "label": "D7",
-                                  "children": []
-                                }
-                              ]
-                            },
-                            {
-                              "label": "Gm7",
-                              "children": []
-                            }
-                          ]
-                        },
-                        {
-                          "label": "C7",
-                          "children": []
-                        }
-                      ]
+                      "label": "F6",
+                      "children": []
                     }
                   ]
-                },
-                {
-                  "label": "F6",
-                  "children": []
                 }
               ]
             }
@@ -18178,39 +18178,39 @@
       "label": "Dm7",
       "children": [
         {
-          "label": "Cm7",
+          "label": "Dm7",
           "children": [
             {
               "label": "Dm7",
               "children": [
                 {
                   "label": "Dm7",
-                  "children": [
-                    {
-                      "label": "Dm7",
-                      "children": []
-                    },
-                    {
-                      "label": "Dm7",
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 },
                 {
                   "label": "Dm7",
-                  "children": [
-                    {
-                      "label": "Dm7",
-                      "children": []
-                    },
-                    {
-                      "label": "Dm7",
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
+            {
+              "label": "Dm7",
+              "children": [
+                {
+                  "label": "Dm7",
+                  "children": []
+                },
+                {
+                  "label": "Dm7",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Dm7",
+          "children": [
             {
               "label": "Cm7",
               "children": [
@@ -18241,55 +18241,55 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "label": "Dm7",
-          "children": [
+            },
             {
-              "label": "Am7",
+              "label": "Dm7",
               "children": [
-                {
-                  "label": "Gm7",
-                  "children": [
-                    {
-                      "label": "Gm7",
-                      "children": []
-                    },
-                    {
-                      "label": "Gm7",
-                      "children": []
-                    }
-                  ]
-                },
                 {
                   "label": "Am7",
                   "children": [
                     {
-                      "label": "Eb7",
+                      "label": "Gm7",
                       "children": [
                         {
-                          "label": "Bbm7",
+                          "label": "Gm7",
                           "children": []
                         },
                         {
-                          "label": "Eb7",
+                          "label": "Gm7",
                           "children": []
                         }
                       ]
                     },
                     {
                       "label": "Am7",
-                      "children": []
+                      "children": [
+                        {
+                          "label": "Eb7",
+                          "children": [
+                            {
+                              "label": "Bbm7",
+                              "children": []
+                            },
+                            {
+                              "label": "Eb7",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "label": "Am7",
+                          "children": []
+                        }
+                      ]
                     }
                   ]
+                },
+                {
+                  "label": "Dm7",
+                  "children": []
                 }
               ]
-            },
-            {
-              "label": "Dm7",
-              "children": []
             }
           ]
         }
@@ -19512,10 +19512,10 @@
       "label": "C^",
       "children": [
         {
-          "label": "G7",
+          "label": "G7*",
           "children": [
             {
-              "label": "G7",
+              "label": "G7*",
               "children": [
                 {
                   "label": "C^",
@@ -19825,7 +19825,7 @@
       "Fsus",
       "G^7",
       "Fm7",
-      "E^7",
+      "Eb^7",
       "D7",
       "G^7",
       "Fm7",
@@ -19837,126 +19837,131 @@
       "label": "G^7",
       "children": [
         {
-          "label": "G^7",
+          "label": "D7*",
           "children": [
             {
-              "label": "G^7",
+              "label": "D7*",
               "children": [
                 {
-                  "label": "G^7",
-                  "children": []
-                },
-                {
-                  "label": "G^7",
+                  "label": "D7*",
                   "children": [
                     {
-                      "label": "Fm7",
-                      "children": []
-                    },
-                    {
-                      "label": "G^7",
+                      "label": "D7*",
                       "children": [
+                        {
+                          "label": "G^7",
+                          "children": []
+                        },
                         {
                           "label": "D7",
                           "children": [
                             {
-                              "label": "Eb^7",
+                              "label": "Fm7",
                               "children": []
                             },
                             {
                               "label": "D7",
-                              "children": []
+                              "children": [
+                                {
+                                  "label": "Eb^7",
+                                  "children": []
+                                },
+                                {
+                                  "label": "D7",
+                                  "children": []
+                                }
+                              ]
                             }
                           ]
-                        },
+                        }
+                      ]
+                    },
+                    {
+                      "label": "D7*",
+                      "children": [
                         {
                           "label": "G^7",
                           "children": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "label": "G^7",
-              "children": [
-                {
-                  "label": "Fm7",
-                  "children": []
-                },
-                {
-                  "label": "G^7",
-                  "children": [
-                    {
-                      "label": "D7",
-                      "children": [
-                        {
-                          "label": "Eb^7",
-                          "children": []
                         },
                         {
                           "label": "D7",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "label": "G^7",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "label": "G^7",
-          "children": [
-            {
-              "label": "Ab7",
-              "children": [
-                {
-                  "label": "D7",
-                  "children": [
-                    {
-                      "label": "Fm7",
-                      "children": []
-                    },
-                    {
-                      "label": "D7",
-                      "children": [
-                        {
-                          "label": "Eb^7",
-                          "children": []
-                        },
-                        {
-                          "label": "D7",
-                          "children": []
+                          "children": [
+                            {
+                              "label": "Fm7",
+                              "children": []
+                            },
+                            {
+                              "label": "D7",
+                              "children": [
+                                {
+                                  "label": "Eb^7",
+                                  "children": []
+                                },
+                                {
+                                  "label": "D7",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "label": "Ab7",
+                  "label": "D7*",
                   "children": [
                     {
-                      "label": "Ebm7",
-                      "children": []
+                      "label": "D7*",
+                      "children": [
+                        {
+                          "label": "G^7",
+                          "children": []
+                        },
+                        {
+                          "label": "D7",
+                          "children": [
+                            {
+                              "label": "Fm7",
+                              "children": []
+                            },
+                            {
+                              "label": "D7",
+                              "children": [
+                                {
+                                  "label": "Eb^7",
+                                  "children": []
+                                },
+                                {
+                                  "label": "D7",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
                     },
                     {
                       "label": "Ab7",
-                      "children": []
+                      "children": [
+                        {
+                          "label": "Ebm7",
+                          "children": []
+                        },
+                        {
+                          "label": "Ab7",
+                          "children": []
+                        }
+                      ]
                     }
                   ]
                 }
               ]
             },
             {
-              "label": "G^7",
+              "label": "D7*",
               "children": [
                 {
                   "label": "Fsus",
@@ -19990,37 +19995,28 @@
                   ]
                 },
                 {
-                  "label": "G^7",
+                  "label": "D7*",
                   "children": [
                     {
                       "label": "G^7",
                       "children": []
                     },
                     {
-                      "label": "G^7",
+                      "label": "D7",
                       "children": [
                         {
                           "label": "Fm7",
                           "children": []
                         },
                         {
-                          "label": "G^7",
+                          "label": "D7",
                           "children": [
                             {
-                              "label": "D7",
-                              "children": [
-                                {
-                                  "label": "E^7",
-                                  "children": []
-                                },
-                                {
-                                  "label": "D7",
-                                  "children": []
-                                }
-                              ]
+                              "label": "Eb^7",
+                              "children": []
                             },
                             {
-                              "label": "G^7",
+                              "label": "D7",
                               "children": []
                             }
                           ]
@@ -20032,6 +20028,10 @@
               ]
             }
           ]
+        },
+        {
+          "label": "G^7",
+          "children": []
         }
       ]
     },
