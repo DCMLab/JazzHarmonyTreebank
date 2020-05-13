@@ -420,6 +420,42 @@ minor, and only after bar 19 does it start to shift to being in G major.
 
 DONE
 
+'Rose Room' I-V :constituent:
+
+I'm not convinced of second G6 being a tonic. It sounds dominant to me, and
+it is in the lead sheet I found, going chromatically down to E7, which
+would lead to that whole subtree being attached to the E7 instead.
+
+TODO: Mark open constituent, possibly see above.
+
+
+'In A Shanty In Old Shanty Town' I-V :constituent:
+
+Looks good.
+
+TODO: Mark open constituent
+
+
+'I Fall In Love Too Easily' I-V :constituent:
+
+I have a Cm7 instead of the first Ab^7, which is also what I hear on the
+Chet recording. This, to me, might be a prolongation of the later Cm7
+rather than a preparation of the Dø7.
+
+Still, with the chords as written, I'm more or less fine with the tree
+as-is
+
+TODO: Mark open constituent.
+
+
+"Groovin' High" I-V :constituent:
+
+I'm not sure how to understand the D7 to C7 dependency - I might've
+connected it to Eb instead. No biggie.
+
+TODO: Mark open constituent.
+
+
 
 
 
