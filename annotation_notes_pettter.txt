@@ -377,6 +377,8 @@ DONE
 Looks good - it has an open constituent, and one may quibble if it's I-II
 or I-V, but I'm definitely OK with the current version.
 
+DONE
+
 ** "Struttin' With Some Barbecue" Open :constituent:
 
 (I found this mostly in other keys - any mistakes are mine). The open I-V
