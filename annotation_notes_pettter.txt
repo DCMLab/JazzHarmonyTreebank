@@ -310,13 +310,15 @@ DONE:
 The rest looks good to me.
 Add to comment field: A major chord chould also be a hexatonic contrast to  the global tonic.
 
-TODO:
+DONE:
  * Open constituent?
  * "Blurry harmony"
 
 ** 'I Love Paris'
 
 LGTM
+
+DONE
 
 ** 'Good Life, The' I-V open :constituent:
 
@@ -327,6 +329,8 @@ superior to the initial tonic, but I wonder if you could arrange it as
 [.$Ab6$ [.$Eb7$ [.$Ab^7$ $Ab^7$ $Ab^7$ ] [.$Eb7$ [.$Ab^7$ [.$Gb7$ [.$G7$ [.$Fm7$ [.$C7$ $Gm7$ $C7$ ] [.$Fm7$ $Fm7$ $Fm7$ ] ] [.$G7$ $D%7$ $G7$ ] ] [.$Gb7$ $Db^7$ $Gb7$ ] ] $Ab^7$ ] [.$Eb7$ [.$Bbm7$ [.$Bb7$ [.$Fm7$ [.$C7$ $G%7$ $C7$ ] $Fm7$ ] $Bb7$ ] $Bbm7$ ] $Eb7$ ] ] ] [.$Ab6$ [.$Ab^7$ $Ab^7$ $Ab^7$ ] [.$Ab6$ [.$Ab^7$ [.$Gb7$ [.$G7$ [.$Fm7$ [.$C7$ $Gm7$ $C7$ ] [.$Fm7$ $Fm7$ $Fm7$ ] ] [.$G7$ $D%7$ $G7$ ] ] [.$Gb7$ $Db^7$ $Gb7$ ] ] $Ab^7$ ] [.$Ab6$ [.$Eb7$ [.$Bbm7$ $F7$ $Bbm7$ ] [.$Eb7$ $Ebsus$ $Eb7$ ] ] $Ab6$ ] ] ] ] 
 
 Saved for next time
+
+DONE (Ab prolonged)
 
 ** 'Dearly Beloved'
 
