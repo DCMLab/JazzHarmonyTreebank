@@ -2203,7 +2203,7 @@
     "composers": "Davis, Miles",
     "comments": "key corrected",
     "turnaround": 0,
-    "tree": "[.D^7 [.A7 [.D^7 [.A7 Em7 A7 ] [.D^7 D^7 D^7 ] ] [.A7 [.Bb^7 [.F7 [.C^7 [.G7 Dm7 G7 ] [.C^7 C^7 C^7 ] ] [.F7 Cm7 F7 ] ] [.Bb^7 Bb^7 Gm7 ] ] [.A7 Em7 [.A7 [.Bb^7 F7 Bb^7 ] A7 ] ] ] ] [.D^7 [.D^7 [.A7 Em7 A7 ] [.D^7 D^7 D^7 ] ] [.D^7 [.A7 [.Bb^7 [.F7 [.C^7 [.G7 Dm7 G7 ] [.C^7 C^7 C^7 ] ] [.F7 Cm7 F7 ] ] [.Bb^7 Bb^7 Gm7 ] ] [.A7 Em7 A7 ] ] [.D^7 D^7 D^7 ] ] ] ] ",
+    "tree": "[.D^7 [.A7* [.D^7 [.A7 Em7 A7 ] [.D^7 D^7 D^7 ] ] [.A7 [.Bb^7 [.F7 [.C^7 [.G7 Dm7 G7 ] [.C^7 C^7 C^7 ] ] [.F7 Cm7 F7 ] ] [.Bb^7 Bb^7 Gm7 ] ] [.A7 Em7 [.A7 [.Bb^7 F7 Bb^7 ] A7 ] ] ] ] [.D^7 [.D^7 [.A7 Em7 A7 ] [.D^7 D^7 D^7 ] ] [.D^7 [.A7 [.Bb^7 [.F7 [.C^7 [.G7 Dm7 G7 ] [.C^7 C^7 C^7 ] ] [.F7 Cm7 F7 ] ] [.Bb^7 Bb^7 Gm7 ] ] [.A7 Em7 A7 ] ] [.D^7 D^7 D^7 ] ] ] ] ",
     "year": 1953,
     "meter": "4/4",
     "key": "D"
