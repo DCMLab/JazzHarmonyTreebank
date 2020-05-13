@@ -3313,6 +3313,8 @@
     "beats": "1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 3 1 1 1 1 3 1 1 1 3 1 1 1 1 1 1 1 1 1 3 1",
     "chords": "F^7 F^7 F^7 F^7 C7 C7 Gm7 C7 F^7 F^7 F^7 F^7 F^7 C7 C7 Gm7 C7 F^7 Bb^7 F^7 Bb^7 Bbm7 F^7 A7 Dm7 G7 G7 C7 F^7 F^7 F^7 F^7 C7 C7 Gm7 C7 F^7",
     "composers": "Greene, Joe",
+    "turnaround": 0,
+    "tree": "[.F^7 [.F^7 [.F^7 [.F^7 [.F^7 F^7 F^7 ] [.F^7 F^7 F^7 ] ] [.F^7 [.C7 C7 C7 ] [.F^7 [.C7 Gm7 C7 ] F^7 ] ] ] [.F^7 [.F^7 [.F^7 F^7 F^7 ] [.F^7 F^7 F^7 ] ] [.F^7 [.C7 [.C7 C7 C7 ] [.C7 Gm7 C7 ] ] F^7 ] ] ] [.F^7 [.C7* [.F^7 [.F^7 Bb^7 F^7 ] [.F^7 [.Bb^7 Bb^7 Bbm7 ] F^7 ] ] [.C7 [.G7 [.Dm7 A7 Dm7 ] [.G7 G7 G7 ] ] C7 ] ] [.F^7 [.F^7 [.F^7 F^7 F^7 ] [.F^7 F^7 F^7 ] ] [.F^7 [.C7 C7 C7 ] [.F^7 [.C7 Gm7 C7 ] F^7 ] ] ] ] ]",
     "year": 1947,
     "meter": "4/4",
     "key": "F"
