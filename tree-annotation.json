@@ -1477,7 +1477,7 @@
     "key": "G",
     "turnaround": 4,
     "comments": "chords corrected according to https://www.youtube.com/watch?v=G-LLMy9qjTM.",
-    "tree": "[.Dm7 [.Cm7 [.Dm7 [.Dm7 Dm7 Dm7 ] [.Dm7 Dm7 Dm7 ] ] [.Cm7 [.Cm7 Cm7 Cm7 ] [.Cm7 Cm7 Cm7 ] ] ] [.Dm7 [.Am7 [.Gm7 Gm7 Gm7 ] [.Am7 [.Eb7 Bbm7 Eb7 ] Am7 ] ] Dm7 ] ] "
+    "tree": "[.Dm7 [.Dm7 [.Dm7 Dm7 Dm7 ] [.Dm7 Dm7 Dm7 ] ] [.Dm7 [.Cm7 [.Cm7 Cm7 Cm7 ] [.Cm7 Cm7 Cm7 ] ] [.Dm7 [.Am7 [.Gm7 Gm7 Gm7 ] [.Am7 [.Eb7 Bbm7 Eb7 ] Am7 ] ] Dm7 ] ] ] "
   },
   {
     "title": "Smoke Rings",
