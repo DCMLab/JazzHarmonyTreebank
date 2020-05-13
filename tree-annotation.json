@@ -3436,6 +3436,8 @@
     "beats": "1 1 3 1 1 1 1 1 1 3 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 3 1 1 1 1 1 1",
     "chords": "Dm7 E%7 A7 Dm7 D7 G7 C7 F^7 E%7 A7 Dm7 E%7 A7 Dm7 D7 G7 C7 F^7 F^7 E7 A7 Dm7 Dm7 D7 G7 C7 E%7 A7 Dm7 E%7 A7 Dm7 D7 G7 C7 F^7 F^7",
     "composers": "Palmer, Jack & Williams, Spencer",
+    "turnaround": 0,
+    "tree": "[.F^7 [.F^7 [.F^7 [.C7 [.G7 [.Dm7 Dm7 [.Dm7 [.A7 E%7 A7 ] Dm7 ] ] [.G7 D7 G7 ] ] C7 ] F^7 ] [.F^7 [.C7 [.G7 [.Dm7 [.Dm7 [.A7 E%7 A7 ] Dm7 ] [.Dm7 [.A7 E%7 A7 ] Dm7 ] ] [.G7 D7 G7 ] ] C7 ] [.F^7 F^7 F^7 ] ] ] [.F^7 [.C7 [.G7 [.Dm7 [.A7 E7 A7 ] [.Dm7 Dm7 Dm7 ] ] [.G7 D7 G7 ] ] C7 ] [.F^7 [.C7 [.G7 [.Dm7 [.Dm7 [.A7 E%7 A7 ] Dm7 ] [.Dm7 [.A7 E%7 A7 ] Dm7 ] ] [.G7 D7 G7 ] ] C7 ] [.F^7 F^7 F^7 ] ] ] ] ",
     "year": 1926,
     "meter": "4/4",
     "key": "F"
