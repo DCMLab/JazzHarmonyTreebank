@@ -386,6 +386,10 @@ constituent is clear as day. I would rather connect the subtree at 010 (C7)
 to prepare the C#o7 rather than to be on the same level as the final V.
 Apart from this it looks good!
 
+... also Helge schema
+
+DONE
+
 'Smile'
 
 
