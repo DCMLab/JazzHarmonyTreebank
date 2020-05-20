@@ -11263,11 +11263,11 @@
       "Cm^7",
       "Gb^7",
       "B^7",
-      "Bb",
+      "Bb^",
       "D7"
     ],
     "tree": {
-      "label": "Bb",
+      "label": "Bb^",
       "children": [
         {
           "label": "Gm7",
@@ -11346,7 +11346,7 @@
           ]
         },
         {
-          "label": "Bb",
+          "label": "Bb^",
           "children": [
             {
               "label": "Bb^",
@@ -11371,7 +11371,7 @@
               ]
             },
             {
-              "label": "Bb",
+              "label": "Bb^",
               "children": [
                 {
                   "label": "B^7",
@@ -11423,7 +11423,7 @@
                   ]
                 },
                 {
-                  "label": "Bb",
+                  "label": "Bb^",
                   "children": []
                 }
               ]
