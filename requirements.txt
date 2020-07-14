@@ -2,4 +2,4 @@ lark-parser
 Wand
 numpy
 matplotlib
-
+ipython

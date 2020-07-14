@@ -1,9 +1,11 @@
 import os
 import json
-from treebank_library import qtree_to_dict
+import treebank_library as tb
 
-with open('tree-annotation.json', 'r') as f:
-    tunes = json.load(f)
+#with open('tree-annotation.json', 'r') as f:
+#    tunes = json.load(f)
+
+tunes = tb.load_treebank('tree-annotation.json')
 
 for t in tunes:
     t['measures'] = list(map(int, t['measures'].split()))
@@ -12,7 +14,9 @@ for t in tunes:
     (num, denom) = t['meter'].split('/')
     t['meter'] = {'numerator': int(num), 'denominator': int(denom)}
     if 'tree' in t:
-        t['tree'] = qtree_to_dict(t['tree'])
+        open_tree = tb.qtree_to_dict(t['tree'])
+        t['open_constituent_tree'] = open_tree
+        t['complete_constituent_tree'] = tb.unfold_open_constituents(open_tree)
 
 if not os.path.exists("public"):
     os.mkdir("public")
