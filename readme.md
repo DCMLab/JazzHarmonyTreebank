@@ -6,17 +6,18 @@ The treebank is available in the file `treebank.json`, structured as a
 JSON with the following fields:
 
  * `title`: The title of the piece
- * `measures`: A list of the measures in the piece
- * `beats`: A list of the beats where the chords appear. We do not allow
-    chords to span more than a single measure, so this list will be at
-    least as long as the list of measures. Moreover, there is at least one
+ * `measures`: A monotonically increasing list of integers indicating the
+    measures in the piece. Some measures appear more than once, indicating
+    that more than one chord appears in it.
+ * `beats`: A list of the beats where the chords appear. This list will be
+    the same length as the `measures` list. There is at least a
     `1` item for each measure, denoting what chord is played on the
     downbeat. Additional entries are integers that indicate on what beat
     subsequent chords within the same measure start at. In a standard 4/4
     measure with two chords, the list could contain, for example `[1,3]` to
     indicate that the second chord comes in at beat 3.
  * `chords`: The list of chords. The length of this list will be the same
-   as the `beats` list. Chords are strings composed of 
+   as the `measures` and `beats` lists. Chords are strings composed of 
    * a fundamental (an uppercase letter A-G optionally with a `#` or `b` to
      indicate accidentals).
    * For minor chords a lowercase `m`, for augmented chords a `+`, and for
