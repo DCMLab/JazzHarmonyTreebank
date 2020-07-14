@@ -64,17 +64,22 @@ JSON with the following fields:
 The treebank was initially published at ISMIR 2020, and if you use it for
 your research, please reference the paper presenting it:
 
-"The Jazz Harmony Treebank" by _D. Harasim, C. Finkensiep, P. Ericson, M.
-Rohrmeier_ in _Proceedings of the International Conference of Music
-Information Retrieval 2020_, pp. x-y
-
+"The Jazz Harmony Treebank" by _D. Harasim, C. Finkensiep, P. Ericson, T. J. O'Donnell, and M. Rohrmeier_ in the _Proceedings of the 20th International Society for Music Information Retrieval Conference_ (2020)
 
 
 ## Acknowledgements
 
-This project was conducted at the Latour Chair in Digital and Cognitive Musicology, generously funded by Mr Claude Latour.
-
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No 760081 – PMSB.
+This project has received funding from the European Research Council
+(ERC) under the European Union's Horizon 2020 research and innovation
+program under grant agreement No 760081 – PMSB. We gratefully
+acknowledge the support of the Natural Sciences and Engineering
+Research Council of Canada (NSERC), the Fonds de Recherche du
+Québec, Société et Culture (FRQSC), and the Canada CIFAR
+AI Chairs program. We thank Claude Latour for supporting this research
+through the Latour Chair in Digital Musicology. The authors
+additionally thank the anonymous referees for their valuable comments
+and the members of the Digital and Cognitive Musicology Lab (DCML) for
+fruitful discussions.
 
 ![](images/erc-logo.jpg?raw=true)
 ![](images/eu-flag.png?raw=true)
