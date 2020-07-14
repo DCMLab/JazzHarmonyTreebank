@@ -2616,7 +2616,7 @@
     "composers": "Rowles, Jimmy",
     "turnaround": 0,
     "tree": "[.Em7 [.E^7 [.B7 [.F#%7 [.E7* [.E7* Am7 [.E7 Db^7 [.E7 B%7 E7 ] ] ] [.E7* Am7 [.E7 Db^7 [.E7 B%7 E7 ] ] ] ] [.F#%7 [.Db7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.Db7 Abm7 Db7 ] ] F#%7 ] ] B7 ] [.E^7 E^7 E^7 ] ] [.Em7 [.B7 [.F#%7 [.E7* [.E7* [.Am7 E7 Am7 ] [.E7 Db^7 [.E7 B%7 E7 ] ] ] [.E7* Am7 [.E7 Db^7 [.E7 B%7 E7 ] ] ] ] [.F#%7 [.Db7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.Db7 Abm7 Db7 ] ] F#%7 ] ] B7 ] [.Em7 Em7 Em7 ] ] ] ",
-    "alternate_tree": "[.Em7 [.E^7 [.E7 [.E7 [.B%7 [.Db^7 Am7 Db^7 ] B%7 ] E7 ] [.E7 [.B%7 [.Db^7 Am7 Db^7 ] B%7 ] E7 ] ] [.E^7 [.E^7 [.B7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.B7 [.F#%7 [.Db7 Abm7 Db7 ] F#%7 ] B7 ] ] E^7 ] E^7 ] ] [.Em7" [.E7 [.E7 [.B%7 [.Db^7 [.Am7 E7 Am7 ] Db^7 ] B%7 ] E7 ] [.E7 [.B%7 [.Db^7 [.Am7 Am7 ] Db^7 ] B%7 ] E7 ] ] [.Em7" [.Em7 [.B7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.B7 [.F#%7 [.Db7 Abm7 Db7 ] F#%7 ] B7 ] ] Em7 ] Em7 ] ] ]",
+    "alternate_tree": "[.Em7 [.E^7 [.E7 [.E7 [.B%7 [.Db^7 Am7 Db^7 ] B%7 ] E7 ] [.E7 [.B%7 [.Db^7 Am7 Db^7 ] B%7 ] E7 ] ] [.E^7 [.E^7 [.B7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.B7 [.F#%7 [.Db7 Abm7 Db7 ] F#%7 ] B7 ] ] E^7 ] E^7 ] ] [.Em7 [.E7 [.E7 [.B%7 [.Db^7 [.Am7 E7 Am7 ] Db^7 ] B%7 ] E7 ] [.E7 [.B%7 [.Db^7 [.Am7 Am7 ] Db^7 ] B%7 ] E7 ] ] [.Em7 [.Em7 [.B7 [.Bb^7 [.F7 Cm7 F7 ] Bb^7 ] [.B7 [.F#%7 [.Db7 Abm7 Db7 ] F#%7 ] B7 ] ] Em7 ] Em7 ] ] ]",
     "year": 1966,
     "meter": "3/4",
     "key": "a"
