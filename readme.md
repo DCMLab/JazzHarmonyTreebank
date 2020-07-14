@@ -17,7 +17,7 @@ JSON with the following fields:
     indicate that the second chord comes in at beat 3.
  * `chords`: The list of chords. The length of this list will be the same
    as the `beats` list. Chords are strings composed of 
-   * a fundamental (an uppercase letter A-G optionally with a `\#` or `b` to
+   * a fundamental (an uppercase letter A-G optionally with a `#` or `b` to
      indicate accidentals).
    * For minor chords a lowercase `m`, for augmented chords a `+`, and for
      sus chords a `sus`. Chords with no extra text here are major.
