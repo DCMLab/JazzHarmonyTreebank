@@ -117,11 +117,12 @@ for t in tunes:
         # The year of publication
         # The title
         # The tree itself
-        depths.append((len(t.get('chords')),width_of_tree(t.get('tree')),treedepth(t.get('tree'))/math.log(width_of_tree(t.get('tree'))),treedepth(t.get('tree')),t.get('year'),t.get('title'),t.get('tree')))
+        tree = t['open_constituent_tree']
+        depths.append((len(t.get('chords')),width_of_tree(tree),treedepth(tree)/math.log(width_of_tree(tree)),treedepth(tree),t.get('year'),t.get('title'),tree))
         # We extract all the rule applications in each tree, and make a common list, as well segregated by minor/major
-        t_rules = get_rules(t['tree'],get_key(t['tree']))
+        t_rules = get_rules(tree,get_key(tree))
         rules += t_rules
-        if (key_is_minor(get_key(t['tree']))):
+        if (key_is_minor(get_key(tree))):
             rules_minor += t_rules
         else:
             rules_major += t_rules
