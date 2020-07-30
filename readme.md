@@ -78,9 +78,29 @@ plot-tree (requires PDF-LaTeX)
 
 ## Corpus statistics
 
+Below are some general statistics about the corpus, as described in the
+paper introducing the present dataset:
+
+
+> The first plot shows that the analyzed pieces is chosen relatively independently from the year
+of composition.  The second plot shows the bias for short pieces in
+this subset.  The third plot shows that the length of turnarounds, if
+present, usually ranges between 1 and 3.
+
+> The two last plots show separately for major and minor keys how often a
+context-free grammar rule is used in the hierarchical analyses.  For these
+plots, all chord sequences were transposed to C major or to C minor,
+respectively.  Prolongations of the tonic, preparations of the tonic by the
+fifth scale degree, and preparations of the fifth scale degree by the
+second are by far the most common rules. 
+
+
 ![](plots.png?raw=true)
 
 ## Tree figures
+
+TODO: In the directory `tree-plots` we have plotted each analyses as a PDF
+for easy visualization.
 
 ## Research
 
