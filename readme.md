@@ -78,6 +78,8 @@ plot-tree (requires PDF-LaTeX)
 
 ## Corpus statistics
 
+![](plots.png?raw=true)
+
 ## Tree figures
 
 ## Research
@@ -86,6 +88,14 @@ The treebank was initially published at ISMIR 2020, and if you use it for
 your research, please reference the paper presenting it:
 
 "The Jazz Harmony Treebank" by _D. Harasim, C. Finkensiep, P. Ericson, T. J. O'Donnell, and M. Rohrmeier_ in the _Proceedings of the 20th International Society for Music Information Retrieval Conference_ (2020)
+
+The iRealPro dataset that this research builds on was first presented in
+
+_Daniel Shanahan, Yuri Broze, and Richard Rodgers_. "A Diachronic Analysis
+of Harmonic Schemata in Jazz." In Proceedings  of the  12th  International
+Conference on Music Perception and Cognition and the 8th Triennial
+Conference of the European Society for the Cognitive Sciences of Music,
+pages 909–917, 2012.
 
 
 ## Acknowledgements
