@@ -107,7 +107,7 @@ for t in tunes:
             lengths[len(t['chords'])] = (tot, withTree + 1)
 
     # Do minimal analysis on the trees
-    if (t.get('tree') != None) and (len(t.get('chords')) < 40):
+    if (t.get('trees') != None) and (len(t.get('chords')) < 40):
         # We check the depths and widths of the trees, and also record
         # In order, the tuples contain:
         # The length of the chord sequence
@@ -117,7 +117,7 @@ for t in tunes:
         # The year of publication
         # The title
         # The tree itself
-        tree = t['open_constituent_tree']
+        tree = t['trees'][0]['open_constituent_tree']
         depths.append((len(t.get('chords')),width_of_tree(tree),treedepth(tree)/math.log(width_of_tree(tree)),treedepth(tree),t.get('year'),t.get('title'),tree))
         # We extract all the rule applications in each tree, and make a common list, as well segregated by minor/major
         t_rules = get_rules(tree,get_key(tree))
