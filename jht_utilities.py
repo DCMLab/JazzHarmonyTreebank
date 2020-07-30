@@ -1,8 +1,7 @@
 import os
 import tempfile
-#from wand.image import Image
-#import wand.display
 from lark import Lark
+import json
 
 # conversion between qtree and dict trees
 # ---------------------------------------
@@ -71,12 +70,14 @@ def plot_tex(tex_str, filename, print_log=False):
 #        img = Image(filename = d + "/main.pdf", resolution=resolution)
 #    return img
 
-def plot_qtree(qtree_str, filename, print_log=False):
+def plot_qtree(qtree_str, filename, do_escape=True, print_log=False):
+    if do_escape:
+      qtree_str = latex_escape(qtree_str)
     tex_str = "\\begin{tikzpicture}\n\\Tree %s\n\\end{tikzpicture}"%(qtree_str)
     plot_tex(tex_str, filename, print_log=print_log)
 
-def plot_dict(tree_dict, filename, print_log=False):
-    plot_qtree(dict_to_qtree(tree_dict),filename,print_log=print_log)
+def plot_dict(tree_dict, filename, do_escape=True, print_log=False):
+    plot_qtree(dict_to_qtree(tree_dict),filename,do_escape=do_escape,print_log=print_log)
 
 # open constituents
 # -----------------

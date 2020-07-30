@@ -64,17 +64,35 @@ JSON with the following fields:
 
 ## Utility library
 
-QTree string from JSON tree and vice versa
+We include a very basic set of utility functions for interacting with the
+dataset in `jht_utilities.py`. In particular, it contains the following
+functions:
 
-open -> complete constituent trees
+ * `qtree_to_dict`: This converts a tree on the simple string form `[.A B [.C D E]]`
+   to a Python dict on the format stored in the treebank, as in
+   `{'label': 'A', 'children': [{'label': 'B', 'children': []}, {'label': 'C', 'children': [{'label': 'D', 'children': []}, {'label': 'E', 'children': []}]}]}`
 
-yield function
+ * `dict_to_qtree`: This function converts a tree on the treebank format
+   back into a string on the above form.
 
-tree-map
+ * `plot_qtree` and `plot_dict` both use `pdflatex` and `tikz` to generate
+   pleasant visualisations of a single tree, and takes, in addition to the
+   tree also a filename to which the tree should be written.
 
-depth-first tree traversal
+ * For the following, we assume the tree to be in dict form, as given e.g.
+   by loading the treebank using `json.load`.
+ 
+ * `contains_open_constituents` traverses the tree to look
+   for nodes marked as open constituents (see the paper for details)
 
-plot-tree (requires PDF-LaTeX)
+ * `unfold_open_constituents` traverses the tree and transforms it to
+   recover the encoded complete dependency structure, removing any open
+   constituents on the way.
+ 
+ * `leaf_labels` recovers the string of labels of the leaves of the tree
+   (`[B, D, E]`) in the above example.
+
+
 
 ## Corpus statistics
 
@@ -107,12 +125,14 @@ for easy visualization.
 The treebank was initially published at ISMIR 2020, and if you use it for
 your research, please reference the paper presenting it:
 
-"The Jazz Harmony Treebank" by _D. Harasim, C. Finkensiep, P. Ericson, T. J. O'Donnell, and M. Rohrmeier_ in the _Proceedings of the 20th International Society for Music Information Retrieval Conference_ (2020)
+_D. Harasim, C. Finkensiep, P. Ericson, T. J. O'Donnell, and M.
+Rohrmeier_. "The Jazz Harmony Treebank." In Proceedings of the 20th
+International Society for Music Information Retrieval Conference (2020)
 
 The iRealPro dataset that this research builds on was first presented in
 
 _Daniel Shanahan, Yuri Broze, and Richard Rodgers_. "A Diachronic Analysis
-of Harmonic Schemata in Jazz." In Proceedings  of the  12th  International
+of Harmonic Schemata in Jazz." In Proceedings of the  12th  International
 Conference on Music Perception and Cognition and the 8th Triennial
 Conference of the European Society for the Cognitive Sciences of Music,
 pages 909–917, 2012.
