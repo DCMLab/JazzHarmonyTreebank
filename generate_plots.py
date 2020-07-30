@@ -90,7 +90,7 @@ for t in tunes:
         (tot, withTree) = years[t['year']]
         years[t['year']] = (tot + 1, withTree)
     # And of the proportion of said tunes that have been analysed
-    if (t.get('tree') != None):
+    if (t.get('trees') != None):
         (tot,withTree) = years[t['year']]
         years[t['year']] = (tot, withTree + 1)
         
@@ -102,7 +102,7 @@ for t in tunes:
         else:
             (tot, withTree) = lengths[len(t['chords'])]
             lengths[len(t['chords'])] = (tot + 1, withTree)
-        if (t.get('tree') != None):
+        if (t.get('trees') != None):
             (tot,withTree) = lengths[len(t['chords'])]
             lengths[len(t['chords'])] = (tot, withTree + 1)
 
