@@ -1,8 +1,10 @@
 # Jazz Harmony Treebank
 
-This repo contains the iRealPro chord sequences including tree annotations.
+This repository contains the **Jazz Harmony Treebank**, a corpus of
+hierarchical harmonic analyses of jazz chord sequences selected from the
+iRealPro corpus due to Shanahan et. al.
 
-TODO: tree image
+![](images/summertime.png?raw=true)
 
 The treebank is available in the file `treebank.json`, structured as a
 JSON with the following fields:
