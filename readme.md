@@ -77,7 +77,9 @@ functions:
 
  * `plot_qtree` and `plot_dict` both use `pdflatex` and `tikz` to generate
    pleasant visualisations of a single tree, and takes, in addition to the
-   tree also a filename to which the tree should be written.
+   tree also a filename to which the tree should be written, and optionally 
+   whether or not some basic escaping of LaTeX symbols should be applied to 
+   the node labels.
 
  * For the following, we assume the tree to be in dict form, as given e.g.
    by loading the treebank using `json.load`.
