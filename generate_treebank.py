@@ -20,10 +20,10 @@ for t in tunes:
     t['chords'] = t['chords'].split()
     (num, denom) = t['meter'].split('/')
     t['meter'] = {'numerator': int(num), 'denominator': int(denom)}
-    if 'tree' in t:
-        open_tree = tb.qtree_to_dict(t['tree'])
-        t['open_constituent_tree'] = open_tree
-        t['complete_constituent_tree'] = tb.unfold_open_constituents(open_tree)
+    if 'trees' in t:
+        t['trees'] = list(map(qtree_to_treepair,t['trees']))
+    t.pop("approved",None)
+    t.pop("keys",None)
 
 if not os.path.exists("public"):
     os.mkdir("public")
