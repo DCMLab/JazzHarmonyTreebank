@@ -36,40 +36,31 @@ JSON with the following fields:
    for repeated choruses. A negative number of `-2` indicates that the tune
    should be repeated and end on the second chord from the beginning of the
    `chords` list to end properly.
- * TODO: update after tree -> trees change,
-   `open_constituent_tree` and `complete_constituent_tree` both contain
-   harmonic tree analyses of the full harmonic sequence, as ended at the
-   chord indicated by the `turnaround`. The difference between the two
-   trees is further described in the paper, but briefly constitutes whether
-   or not the tree is a strict (`complete`) dependency structure, or
-   whether some (`open`) constituents have multiple subconstituents all
-   referring to some future chord. The trees are JSON objects recursively
-   defined as having a `label` (which is a chord taken from the `chords`
-   list), and a list `children` of either zero or two subtrees, which are
-   themselves trees.
+ * `trees` : A list of all the tree analyses for the piece. If this element
+   exists, it contains at least one tree analysis. Each analysis is a JSON
+   object consisting of of two elements: `open_constituent_tree` and 
+   `complete_constituent_tree`. Both contain harmonic tree analyses of the
+   full harmonic sequence, as ended at the chord indicated by the
+   `turnaround`. The difference between the two trees is further described
+   in the paper, but briefly constitutes whether or not the tree is a
+   strict (`complete`) dependency structure, or whether some (`open`)
+  constituents have multiple subconstituents all referring to some future
+  chord. The trees are JSON objects recursively defined as having a `label`
+  (which is a chord taken from the `chords` list), and a list `children` of
+  either zero or two subtrees, which are themselves trees.
  * `comments`: A string containing any comments from the annotation
    procedure, for example noting alternate chord sequences from other
    sources, fixed transcription errors, ambiguities chord roles etc.
- * `composers`: A string with the name(s) of the composer(s) of the tune
+ * `composers`: A string with the name(s) of the composer(s) of the tune,
+   as recorded in the iRealPro corpus.
  * `year`: An integer representation of the year (CE) the tune was
- * composed, according to the iRealPro corpus published by Shanahan et. al.
+ * composed, according to the iRealPro corpus.
  * `meter`: A JSON object containing two integers, `numerator` and
    `denominator` indicating the meter of the piece.
- * `key`: The key as annotated in the iRealPro corpus. This is an uppercase
-   (for major keys) or lowercase (for minor keys) letter between a-g,
-   possibly followed by a `-` to indicate a lowering accidental. 
- * `keys`: TODO: do we want to keep this? I don't know what it is. REMOVE
- * 'tree': TODO: similar here, this seems to be a text representation of
-   the tree, but not every song in the corpus has it, even if it has
-   open/complete_constituent_tree REMOVE THIS, REPLACE WITH LIBRARY
-   FUNCTION TO MAKE QTREE FROM JSON
- * 'approved': TODO: This should be removed, right?
- * 'alternate_trees': What do we say about this? Is this an open or complete
-   constituency tree? It is implemented to do that from the string?
-   
-
-   trees -> [{open_constituent_tree
-            complete_constituent_tree}]
+ * `key`: The key of the piece, as annotated in the iRealPro corpus. This
+   is an uppercase (for major keys) or lowercase (for minor keys) letter
+   between a-g, possibly followed by a `-` to indicate a lowering
+   accidental. 
 
 ## Utility library
 
