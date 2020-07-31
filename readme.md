@@ -24,7 +24,7 @@ JSON with the following fields:
    as the `measures` and `beats` lists. Chords are strings composed of 
    * a fundamental (an uppercase letter A-G optionally with a `#` or `b` to
      indicate accidentals).
-   * For minor chords a lowercase `m`, for augmented chords a `+`, for diminished chords a `o`, and for
+   * For minor chords a lowercase `m`, for augmented chords a `+`, for half and fully diminished chords a `%` and `o`, respectively, and for
      sus chords a `sus`. Chords with no extra text here are major.
    * An optional `6`, `7` or `^7` indicating an added sixth, minor, or
      major sevenths, respectively.
