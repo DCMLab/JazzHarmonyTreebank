@@ -68,7 +68,7 @@ We include a very basic set of utility functions for interacting with the
 dataset in `jht_utilities.py`. In particular, it contains the following
 functions:
 
- * `qtree_to_dict`: This converts a tree on the simple string form `[.A B [.C D E]]`
+ * `qtree_to_dict`: This converts a tree on [qtree](https://www.ctan.org/pkg/tikz-qtree) string form `[.A B [.C D E]]`
    to a Python dict on the format stored in the treebank, as in
    `{'label': 'A', 'children': [{'label': 'B', 'children': []}, {'label': 'C', 'children': [{'label': 'D', 'children': []}, {'label': 'E', 'children': []}]}]}`
 
