@@ -104,7 +104,7 @@ paper introducing the present dataset:
 
 > The first plot shows that the analyzed pieces is chosen relatively independently from the year
 of composition.  The second plot shows the bias for short pieces in
-this subset.  The third plot shows that the length of turnarounds, if
+this subset.  The [fourth] _(the third plot was omitted from the paper)_ plot shows that the length of turnarounds, if
 present, usually ranges between 1 and 3.
 
 > The two last plots show separately for major and minor keys how often a
