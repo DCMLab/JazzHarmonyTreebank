@@ -1,5 +1,6 @@
 import os
 import json
+import hashlib
 import treebank_library as tb
 
 treefig_directory="rendered-trees"
@@ -14,10 +15,7 @@ def hash_html_path(hsh):
 
 def find_or_create_tree(t):
   qtree = tb.dict_to_qtree(t)
-  hsh = hash(qtree)
-  if(hsh < 0): # 2s complement
-    hsh += 1<<64 # 64bit int
-  hsh = hex(hsh)
+  hsh = hashlib.sha1(qtree.encode()).hexdigest()
   if(not os.path.exists(hash_output_path(hsh))):
     img = tb.plot_qtree(tb.latex_escape(qtree),resolution=200,print_log=False)
     with open(hash_output_path(hsh),"wb") as f:
