@@ -26,9 +26,6 @@ jobs:
     - name: update plots
       run: |
         python generate_plots.py
-    - name: destroy ImageMagick security
-      run: |
-        sed -i -r s/none/all/ /etc/ImageMagick*/policy.xml
     - name: update tree renderings 
       run: |
         python generate_treeplots.py
