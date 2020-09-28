@@ -18,7 +18,6 @@ jobs:
         python-version: 3.7
     - name: Install dependencies
       run: |
-        apt install -y poppler-utils pdflatex
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: update treebank
@@ -29,6 +28,7 @@ jobs:
         python generate_plots.py
     - name: update tree renderings 
       run: |
+        sudo sed -i -r s/none/all/ /etc/ImageMagick-6/policy.xml
         python generate_treeplots.py
     - name: deploy treebank
       uses: peaceiris/actions-gh-pages@v2.5.1

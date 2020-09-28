@@ -77,8 +77,8 @@ def plot_tex(tex_str, resolution=300, print_log=False):
         log = os.popen(command).read()
         if print_log:
             print(log)
-        img = convert_from_path(d+"/main.pdf")[0]
-#        img = Image(filename = d + "/main.pdf", resolution=resolution)
+#        img = convert_from_path(d+"/main.pdf")[0]
+        img = Image(filename = d + "/main.pdf", resolution=resolution)
     return img
 
 def plot_qtree(qtree_str, resolution=300, print_log=False):
