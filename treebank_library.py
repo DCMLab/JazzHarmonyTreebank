@@ -104,7 +104,7 @@ def display_all_trees(treebank, source='tree'):
     tunes = [t for t in treebank if source in t]
     for tune in tunes:
         if source == 'tree':
-            qtree = tune['tree']
+            qtree = tune['trees'][0]
         else:
             qtree = dict_to_qtree(tune[source])
         img = plot_qtree(latex_escape(qtree), resolution=200, print_log=False)
