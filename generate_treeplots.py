@@ -20,7 +20,8 @@ def find_or_create_tree(t):
   hsh = hex(hsh)
   if(not os.path.exists(hash_output_path(hsh))):
     img = tb.plot_qtree(tb.latex_escape(qtree),resolution=200,print_log=False)
-    img.save(filename=hash_output_path(hsh))
+    with open(hash_output_path(hsh),"wb") as f:
+      img.save(fp=f)#(filename=hash_output_path(hsh))
   return hsh
       
 
