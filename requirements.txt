@@ -3,4 +3,4 @@ Wand
 numpy
 matplotlib
 ipython
-pdf2images
+pdf2image
