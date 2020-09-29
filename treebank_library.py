@@ -4,7 +4,9 @@ import tempfile
 from wand.image import Image
 import wand.display
 import IPython.display
-from pdf2image import convert_from_path, convert_from_bytes
+# Alternate PDF reading library, in case ImageMagick is blocked for
+# security reasons, as is sometimes the case.
+#from pdf2image import convert_from_path, convert_from_bytes
 from lark import Lark
 
 # loading
@@ -77,6 +79,8 @@ def plot_tex(tex_str, resolution=300, print_log=False):
         log = os.popen(command).read()
         if print_log:
             print(log)
+# Alternate image conversion. This returns a PIL object instead of an
+# ImageMagick/wand object.
 #        img = convert_from_path(d+"/main.pdf")[0]
         img = Image(filename = d + "/main.pdf", resolution=resolution)
     return img
