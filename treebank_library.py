@@ -107,15 +107,21 @@ def display_all_trees(treebank, source='tree'):
     - 'open_constituent_tree': the open constituent tree (as annotated)
     - 'complete_constituent_tree: the complete constituent tree (as derived from the OC tree).
     """
-    tunes = [t for t in treebank if source in t]
+    tunes = [t for t in treebank if "trees" in t]
     for tune in tunes:
         if source == 'tree':
-            qtree = tune['trees'][0]
+            qtrees = tune['trees']
         else:
-            qtree = dict_to_qtree(tune[source])
-        img = plot_qtree(latex_escape(qtree), resolution=200, print_log=False)
-        IPython.display.display(tune['title'])
-        IPython.display.display(img)
+            qtrees = map(dict_to_qtree,map(lambda x : x[source],tune["trees"]))
+	IPython.display.display(tune['title'])
+	# This does not check for all possible errors, clearly.
+        if(isinstance(qtrees[0],str)):
+	  imgs = map(lambda qtree : plot_qtree(latex_escape(qtree), resolution=200, print_log=False),qtrees)
+	  for img in imgs:
+	    IPython.display.display(img)
+	else:
+	  IPython.display.display("Failed to display tree")
+
     return len(tunes)
 
 # open constituents
