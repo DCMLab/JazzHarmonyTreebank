@@ -118,7 +118,9 @@ respectively.  Prolongations of the tonic, preparations of the tonic by the
 fifth scale degree, and preparations of the fifth scale degree by the
 second are by far the most common rules. 
 
-<img src="https://github.com/DCMLab/JazzHarmonyTreebank/blob/master/plots.png" alt="Your image title" width="500"/>
+<p align="center">
+  <img src="plots.png" width="500" alt="summary plots"/>
+</p>
 
 ## References
 
@@ -146,6 +148,7 @@ additionally thank the anonymous referees for their valuable comments
 and the members of the Digital and Cognitive Musicology Lab (DCML) for
 fruitful discussions.
 
-![](images/erc-logo.jpg?raw=true)
-![](images/eu-flag.png?raw=true)
-![](images/epfl-logo.png?raw=true)
+<p align="center">
+   <img src="images/erc-logo.jpg" width="300"/>
+   <img src="images/epfl-logo.png" width="300"/>
+</p>
