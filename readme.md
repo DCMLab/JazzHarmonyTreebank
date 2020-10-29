@@ -98,6 +98,10 @@ functions:
  * `leaf_labels` Obtain the trees leaf labels as a string. 
    For instance `[B, D, E]` in the above example.
 
+## Tree figures
+
+Have a look at the file [tree-plots.md](https://github.com/DCMLab/JazzHarmonyTreebank/blob/master/tree-plots.md) to see the plots of all tree analyses.
+
 ## Dataset statistics
 
 Below are general summary statistics about the dataset as described in the corresponding paper:
@@ -114,13 +118,7 @@ respectively.  Prolongations of the tonic, preparations of the tonic by the
 fifth scale degree, and preparations of the fifth scale degree by the
 second are by far the most common rules. 
 
-
-![](plots.png?raw=true)
-
-## Tree figures
-
-TODO: In the directory `tree-plots` we have plotted each analyses as a PDF
-for easy visualization.
+<img src="https://github.com/DCMLab/JazzHarmonyTreebank/blob/master/plots.png" alt="Your image title" width="500"/>
 
 ## References
 
