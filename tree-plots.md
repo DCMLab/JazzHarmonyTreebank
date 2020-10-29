@@ -803,7 +803,12 @@
 
 
 ## Beautiful Love
-![](rendered-trees/41525737cafcffe6b7e332787b76d4afaf1e1ae9.png)
+#### Open constituent version
+![](rendered-trees/086013b872780d2070220fd12e5d20d2ed6a3394.png)
+
+
+#### Complete constituent version
+![](rendered-trees/cd3f90c683fb9d1a90868eb609c99571793f243a.png)
 
 
 ## Candy
