@@ -113,15 +113,14 @@ def display_all_trees(treebank, source='tree'):
             qtrees = tune['trees']
         else:
             qtrees = map(dict_to_qtree,map(lambda x : x[source],tune["trees"]))
-	IPython.display.display(tune['title'])
-	# This does not check for all possible errors, clearly.
+        IPython.display.display(tune['title'])
+        # This does not check for all possible errors, clearly.
         if(isinstance(qtrees[0],str)):
-	  imgs = map(lambda qtree : plot_qtree(latex_escape(qtree), resolution=200, print_log=False),qtrees)
-	  for img in imgs:
-	    IPython.display.display(img)
-	else:
-	  IPython.display.display("Failed to display tree")
-
+            imgs = map(lambda qtree : plot_qtree(latex_escape(qtree), resolution=200, print_log=False),qtrees)
+            for img in imgs:
+                IPython.display.display(img)
+            else:
+                IPython.display.display("Failed to display tree")
     return len(tunes)
 
 # open constituents
@@ -158,10 +157,10 @@ def unfold_open_constituents(tree):
 # -----
 
 def leaf_labels(tree):
-  print("entering", tree['label'])
-  if len(tree['children']) == 0:
-    yield tree['label']
-  else:
-    for child in tree['children']:
-      for label in leaf_labels(child):
-        yield label
+    print("entering", tree['label'])
+    if len(tree['children']) == 0:
+      yield tree['label']
+    else:
+      for child in tree['children']:
+        for label in leaf_labels(child):
+          yield label
