@@ -9,7 +9,7 @@ iRealPro corpus published on [zenodo](https://zenodo.org/record/3546040#.XyhT40m
 ## Attribution 
 If you use this data in any way, please cite the the following paper:
 
-D. Harasim, C. Finkensiep, P. Ericson, T. J. O'Donnell, and M. Rohrmeier (2020). The Jazz Harmony Treebank. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*. Montréal, Canada.
+D. Harasim, C. Finkensiep, P. Ericson, T. J. O'Donnell, and M. Rohrmeier (2020). The Jazz Harmony Treebank. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, pp. 207-215. Montréal, Canada. [https://doi.org/10.5281/zenodo.4245406](https://doi.org/10.5281/zenodo.4245406)
 
 ## Data format description
 
